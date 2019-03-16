@@ -1,0 +1,3351 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: GWin
+  name: GWin
+  href: api/GWin.html
+  commentId: N:GWin
+  fullName: GWin
+  nameWithType: GWin
+- uid: GWin.About
+  name: About
+  href: api/GWin.About.html
+  commentId: T:GWin.About
+  fullName: GWin.About
+  nameWithType: About
+- uid: GWin.About.Author
+  name: Author
+  href: api/GWin.About.html#GWin_About_Author
+  commentId: F:GWin.About.Author
+  fullName: GWin.About.Author
+  nameWithType: About.Author
+- uid: GWin.About.License
+  name: License
+  href: api/GWin.About.html#GWin_About_License
+  commentId: F:GWin.About.License
+  fullName: GWin.About.License
+  nameWithType: About.License
+- uid: GWin.CommonBase
+  name: CommonBase
+  href: api/GWin.CommonBase.html
+  commentId: T:GWin.CommonBase
+  fullName: GWin.CommonBase
+  nameWithType: CommonBase
+- uid: GWin.CommonBase.Dispose
+  name: Dispose()
+  href: api/GWin.CommonBase.html#GWin_CommonBase_Dispose
+  commentId: M:GWin.CommonBase.Dispose
+  fullName: GWin.CommonBase.Dispose()
+  nameWithType: CommonBase.Dispose()
+- uid: GWin.CommonBase.Dispose*
+  name: Dispose
+  href: api/GWin.CommonBase.html#GWin_CommonBase_Dispose_
+  commentId: Overload:GWin.CommonBase.Dispose
+  isSpec: "True"
+  fullName: GWin.CommonBase.Dispose
+  nameWithType: CommonBase.Dispose
+- uid: GWin.CommonBase.OnException
+  name: OnException
+  href: api/GWin.CommonBase.html#GWin_CommonBase_OnException
+  commentId: E:GWin.CommonBase.OnException
+  fullName: GWin.CommonBase.OnException
+  nameWithType: CommonBase.OnException
+- uid: GWin.ExceptionArgs
+  name: ExceptionArgs
+  href: api/GWin.ExceptionArgs.html
+  commentId: T:GWin.ExceptionArgs
+  fullName: GWin.ExceptionArgs
+  nameWithType: ExceptionArgs
+- uid: GWin.ExceptionArgs.#ctor(System.Exception)
+  name: ExceptionArgs(Exception)
+  href: api/GWin.ExceptionArgs.html#GWin_ExceptionArgs__ctor_System_Exception_
+  commentId: M:GWin.ExceptionArgs.#ctor(System.Exception)
+  fullName: GWin.ExceptionArgs.ExceptionArgs(System.Exception)
+  nameWithType: ExceptionArgs.ExceptionArgs(Exception)
+- uid: GWin.ExceptionArgs.#ctor*
+  name: ExceptionArgs
+  href: api/GWin.ExceptionArgs.html#GWin_ExceptionArgs__ctor_
+  commentId: Overload:GWin.ExceptionArgs.#ctor
+  isSpec: "True"
+  fullName: GWin.ExceptionArgs.ExceptionArgs
+  nameWithType: ExceptionArgs.ExceptionArgs
+- uid: GWin.ExceptionArgs.Exception
+  name: Exception
+  href: api/GWin.ExceptionArgs.html#GWin_ExceptionArgs_Exception
+  commentId: F:GWin.ExceptionArgs.Exception
+  fullName: GWin.ExceptionArgs.Exception
+  nameWithType: ExceptionArgs.Exception
+- uid: GWin.Forms
+  name: GWin.Forms
+  href: api/GWin.Forms.html
+  commentId: N:GWin.Forms
+  fullName: GWin.Forms
+  nameWithType: GWin.Forms
+- uid: GWin.Forms.DataGridViewProgressCell
+  name: DataGridViewProgressCell
+  href: api/GWin.Forms.DataGridViewProgressCell.html
+  commentId: T:GWin.Forms.DataGridViewProgressCell
+  fullName: GWin.Forms.DataGridViewProgressCell
+  nameWithType: DataGridViewProgressCell
+- uid: GWin.Forms.DataGridViewProgressCell.#ctor
+  name: DataGridViewProgressCell()
+  href: api/GWin.Forms.DataGridViewProgressCell.html#GWin_Forms_DataGridViewProgressCell__ctor
+  commentId: M:GWin.Forms.DataGridViewProgressCell.#ctor
+  fullName: GWin.Forms.DataGridViewProgressCell.DataGridViewProgressCell()
+  nameWithType: DataGridViewProgressCell.DataGridViewProgressCell()
+- uid: GWin.Forms.DataGridViewProgressCell.#ctor*
+  name: DataGridViewProgressCell
+  href: api/GWin.Forms.DataGridViewProgressCell.html#GWin_Forms_DataGridViewProgressCell__ctor_
+  commentId: Overload:GWin.Forms.DataGridViewProgressCell.#ctor
+  isSpec: "True"
+  fullName: GWin.Forms.DataGridViewProgressCell.DataGridViewProgressCell
+  nameWithType: DataGridViewProgressCell.DataGridViewProgressCell
+- uid: GWin.Forms.DataGridViewProgressCell.GetFormattedValue(System.Object,System.Int32,System.Windows.Forms.DataGridViewCellStyle@,System.ComponentModel.TypeConverter,System.ComponentModel.TypeConverter,System.Windows.Forms.DataGridViewDataErrorContexts)
+  name: GetFormattedValue(Object, Int32, ref DataGridViewCellStyle, TypeConverter, TypeConverter, DataGridViewDataErrorContexts)
+  href: api/GWin.Forms.DataGridViewProgressCell.html#GWin_Forms_DataGridViewProgressCell_GetFormattedValue_System_Object_System_Int32_System_Windows_Forms_DataGridViewCellStyle__System_ComponentModel_TypeConverter_System_ComponentModel_TypeConverter_System_Windows_Forms_DataGridViewDataErrorContexts_
+  commentId: M:GWin.Forms.DataGridViewProgressCell.GetFormattedValue(System.Object,System.Int32,System.Windows.Forms.DataGridViewCellStyle@,System.ComponentModel.TypeConverter,System.ComponentModel.TypeConverter,System.Windows.Forms.DataGridViewDataErrorContexts)
+  name.vb: GetFormattedValue(Object, Int32, ByRef DataGridViewCellStyle, TypeConverter, TypeConverter, DataGridViewDataErrorContexts)
+  fullName: GWin.Forms.DataGridViewProgressCell.GetFormattedValue(System.Object, System.Int32, ref System.Windows.Forms.DataGridViewCellStyle, System.ComponentModel.TypeConverter, System.ComponentModel.TypeConverter, System.Windows.Forms.DataGridViewDataErrorContexts)
+  fullName.vb: GWin.Forms.DataGridViewProgressCell.GetFormattedValue(System.Object, System.Int32, ByRef System.Windows.Forms.DataGridViewCellStyle, System.ComponentModel.TypeConverter, System.ComponentModel.TypeConverter, System.Windows.Forms.DataGridViewDataErrorContexts)
+  nameWithType: DataGridViewProgressCell.GetFormattedValue(Object, Int32, ref DataGridViewCellStyle, TypeConverter, TypeConverter, DataGridViewDataErrorContexts)
+  nameWithType.vb: DataGridViewProgressCell.GetFormattedValue(Object, Int32, ByRef DataGridViewCellStyle, TypeConverter, TypeConverter, DataGridViewDataErrorContexts)
+- uid: GWin.Forms.DataGridViewProgressCell.GetFormattedValue*
+  name: GetFormattedValue
+  href: api/GWin.Forms.DataGridViewProgressCell.html#GWin_Forms_DataGridViewProgressCell_GetFormattedValue_
+  commentId: Overload:GWin.Forms.DataGridViewProgressCell.GetFormattedValue
+  isSpec: "True"
+  fullName: GWin.Forms.DataGridViewProgressCell.GetFormattedValue
+  nameWithType: DataGridViewProgressCell.GetFormattedValue
+- uid: GWin.Forms.DataGridViewProgressCell.Paint(System.Drawing.Graphics,System.Drawing.Rectangle,System.Drawing.Rectangle,System.Int32,System.Windows.Forms.DataGridViewElementStates,System.Object,System.Object,System.String,System.Windows.Forms.DataGridViewCellStyle,System.Windows.Forms.DataGridViewAdvancedBorderStyle,System.Windows.Forms.DataGridViewPaintParts)
+  name: Paint(Graphics, Rectangle, Rectangle, Int32, DataGridViewElementStates, Object, Object, String, DataGridViewCellStyle, DataGridViewAdvancedBorderStyle, DataGridViewPaintParts)
+  href: api/GWin.Forms.DataGridViewProgressCell.html#GWin_Forms_DataGridViewProgressCell_Paint_System_Drawing_Graphics_System_Drawing_Rectangle_System_Drawing_Rectangle_System_Int32_System_Windows_Forms_DataGridViewElementStates_System_Object_System_Object_System_String_System_Windows_Forms_DataGridViewCellStyle_System_Windows_Forms_DataGridViewAdvancedBorderStyle_System_Windows_Forms_DataGridViewPaintParts_
+  commentId: M:GWin.Forms.DataGridViewProgressCell.Paint(System.Drawing.Graphics,System.Drawing.Rectangle,System.Drawing.Rectangle,System.Int32,System.Windows.Forms.DataGridViewElementStates,System.Object,System.Object,System.String,System.Windows.Forms.DataGridViewCellStyle,System.Windows.Forms.DataGridViewAdvancedBorderStyle,System.Windows.Forms.DataGridViewPaintParts)
+  fullName: GWin.Forms.DataGridViewProgressCell.Paint(System.Drawing.Graphics, System.Drawing.Rectangle, System.Drawing.Rectangle, System.Int32, System.Windows.Forms.DataGridViewElementStates, System.Object, System.Object, System.String, System.Windows.Forms.DataGridViewCellStyle, System.Windows.Forms.DataGridViewAdvancedBorderStyle, System.Windows.Forms.DataGridViewPaintParts)
+  nameWithType: DataGridViewProgressCell.Paint(Graphics, Rectangle, Rectangle, Int32, DataGridViewElementStates, Object, Object, String, DataGridViewCellStyle, DataGridViewAdvancedBorderStyle, DataGridViewPaintParts)
+- uid: GWin.Forms.DataGridViewProgressCell.Paint*
+  name: Paint
+  href: api/GWin.Forms.DataGridViewProgressCell.html#GWin_Forms_DataGridViewProgressCell_Paint_
+  commentId: Overload:GWin.Forms.DataGridViewProgressCell.Paint
+  isSpec: "True"
+  fullName: GWin.Forms.DataGridViewProgressCell.Paint
+  nameWithType: DataGridViewProgressCell.Paint
+- uid: GWin.Forms.DataGridViewProgressColumn
+  name: DataGridViewProgressColumn
+  href: api/GWin.Forms.DataGridViewProgressColumn.html
+  commentId: T:GWin.Forms.DataGridViewProgressColumn
+  fullName: GWin.Forms.DataGridViewProgressColumn
+  nameWithType: DataGridViewProgressColumn
+- uid: GWin.Forms.DataGridViewProgressColumn.#ctor
+  name: DataGridViewProgressColumn()
+  href: api/GWin.Forms.DataGridViewProgressColumn.html#GWin_Forms_DataGridViewProgressColumn__ctor
+  commentId: M:GWin.Forms.DataGridViewProgressColumn.#ctor
+  fullName: GWin.Forms.DataGridViewProgressColumn.DataGridViewProgressColumn()
+  nameWithType: DataGridViewProgressColumn.DataGridViewProgressColumn()
+- uid: GWin.Forms.DataGridViewProgressColumn.#ctor*
+  name: DataGridViewProgressColumn
+  href: api/GWin.Forms.DataGridViewProgressColumn.html#GWin_Forms_DataGridViewProgressColumn__ctor_
+  commentId: Overload:GWin.Forms.DataGridViewProgressColumn.#ctor
+  isSpec: "True"
+  fullName: GWin.Forms.DataGridViewProgressColumn.DataGridViewProgressColumn
+  nameWithType: DataGridViewProgressColumn.DataGridViewProgressColumn
+- uid: GWin.Forms.ListItem
+  name: ListItem
+  href: api/GWin.Forms.ListItem.html
+  commentId: T:GWin.Forms.ListItem
+  fullName: GWin.Forms.ListItem
+  nameWithType: ListItem
+- uid: GWin.Forms.ListItem.#ctor
+  name: ListItem()
+  href: api/GWin.Forms.ListItem.html#GWin_Forms_ListItem__ctor
+  commentId: M:GWin.Forms.ListItem.#ctor
+  fullName: GWin.Forms.ListItem.ListItem()
+  nameWithType: ListItem.ListItem()
+- uid: GWin.Forms.ListItem.#ctor(System.String,System.String)
+  name: ListItem(String, String)
+  href: api/GWin.Forms.ListItem.html#GWin_Forms_ListItem__ctor_System_String_System_String_
+  commentId: M:GWin.Forms.ListItem.#ctor(System.String,System.String)
+  fullName: GWin.Forms.ListItem.ListItem(System.String, System.String)
+  nameWithType: ListItem.ListItem(String, String)
+- uid: GWin.Forms.ListItem.#ctor*
+  name: ListItem
+  href: api/GWin.Forms.ListItem.html#GWin_Forms_ListItem__ctor_
+  commentId: Overload:GWin.Forms.ListItem.#ctor
+  isSpec: "True"
+  fullName: GWin.Forms.ListItem.ListItem
+  nameWithType: ListItem.ListItem
+- uid: GWin.Forms.ListItem.Text
+  name: Text
+  href: api/GWin.Forms.ListItem.html#GWin_Forms_ListItem_Text
+  commentId: P:GWin.Forms.ListItem.Text
+  fullName: GWin.Forms.ListItem.Text
+  nameWithType: ListItem.Text
+- uid: GWin.Forms.ListItem.Text*
+  name: Text
+  href: api/GWin.Forms.ListItem.html#GWin_Forms_ListItem_Text_
+  commentId: Overload:GWin.Forms.ListItem.Text
+  isSpec: "True"
+  fullName: GWin.Forms.ListItem.Text
+  nameWithType: ListItem.Text
+- uid: GWin.Forms.ListItem.Value
+  name: Value
+  href: api/GWin.Forms.ListItem.html#GWin_Forms_ListItem_Value
+  commentId: P:GWin.Forms.ListItem.Value
+  fullName: GWin.Forms.ListItem.Value
+  nameWithType: ListItem.Value
+- uid: GWin.Forms.ListItem.Value*
+  name: Value
+  href: api/GWin.Forms.ListItem.html#GWin_Forms_ListItem_Value_
+  commentId: Overload:GWin.Forms.ListItem.Value
+  isSpec: "True"
+  fullName: GWin.Forms.ListItem.Value
+  nameWithType: ListItem.Value
+- uid: GWin.Forms.PropertyComparer`1
+  name: PropertyComparer<T>
+  href: api/GWin.Forms.PropertyComparer-1.html
+  commentId: T:GWin.Forms.PropertyComparer`1
+  name.vb: PropertyComparer(Of T)
+  fullName: GWin.Forms.PropertyComparer<T>
+  fullName.vb: GWin.Forms.PropertyComparer(Of T)
+  nameWithType: PropertyComparer<T>
+  nameWithType.vb: PropertyComparer(Of T)
+- uid: GWin.Forms.PropertyComparer`1.#ctor(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)
+  name: PropertyComparer(PropertyDescriptor, ListSortDirection)
+  href: api/GWin.Forms.PropertyComparer-1.html#GWin_Forms_PropertyComparer_1__ctor_System_ComponentModel_PropertyDescriptor_System_ComponentModel_ListSortDirection_
+  commentId: M:GWin.Forms.PropertyComparer`1.#ctor(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)
+  fullName: GWin.Forms.PropertyComparer<T>.PropertyComparer(System.ComponentModel.PropertyDescriptor, System.ComponentModel.ListSortDirection)
+  fullName.vb: GWin.Forms.PropertyComparer(Of T).PropertyComparer(System.ComponentModel.PropertyDescriptor, System.ComponentModel.ListSortDirection)
+  nameWithType: PropertyComparer<T>.PropertyComparer(PropertyDescriptor, ListSortDirection)
+  nameWithType.vb: PropertyComparer(Of T).PropertyComparer(PropertyDescriptor, ListSortDirection)
+- uid: GWin.Forms.PropertyComparer`1.#ctor*
+  name: PropertyComparer
+  href: api/GWin.Forms.PropertyComparer-1.html#GWin_Forms_PropertyComparer_1__ctor_
+  commentId: Overload:GWin.Forms.PropertyComparer`1.#ctor
+  isSpec: "True"
+  fullName: GWin.Forms.PropertyComparer<T>.PropertyComparer
+  fullName.vb: GWin.Forms.PropertyComparer(Of T).PropertyComparer
+  nameWithType: PropertyComparer<T>.PropertyComparer
+  nameWithType.vb: PropertyComparer(Of T).PropertyComparer
+- uid: GWin.Forms.PropertyComparer`1.Compare(`0,`0)
+  name: Compare(T, T)
+  href: api/GWin.Forms.PropertyComparer-1.html#GWin_Forms_PropertyComparer_1_Compare__0__0_
+  commentId: M:GWin.Forms.PropertyComparer`1.Compare(`0,`0)
+  fullName: GWin.Forms.PropertyComparer<T>.Compare(T, T)
+  fullName.vb: GWin.Forms.PropertyComparer(Of T).Compare(T, T)
+  nameWithType: PropertyComparer<T>.Compare(T, T)
+  nameWithType.vb: PropertyComparer(Of T).Compare(T, T)
+- uid: GWin.Forms.PropertyComparer`1.Compare*
+  name: Compare
+  href: api/GWin.Forms.PropertyComparer-1.html#GWin_Forms_PropertyComparer_1_Compare_
+  commentId: Overload:GWin.Forms.PropertyComparer`1.Compare
+  isSpec: "True"
+  fullName: GWin.Forms.PropertyComparer<T>.Compare
+  fullName.vb: GWin.Forms.PropertyComparer(Of T).Compare
+  nameWithType: PropertyComparer<T>.Compare
+  nameWithType.vb: PropertyComparer(Of T).Compare
+- uid: GWin.Forms.PropertyComparer`1.SetPropertyAndDirection(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)
+  name: SetPropertyAndDirection(PropertyDescriptor, ListSortDirection)
+  href: api/GWin.Forms.PropertyComparer-1.html#GWin_Forms_PropertyComparer_1_SetPropertyAndDirection_System_ComponentModel_PropertyDescriptor_System_ComponentModel_ListSortDirection_
+  commentId: M:GWin.Forms.PropertyComparer`1.SetPropertyAndDirection(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)
+  fullName: GWin.Forms.PropertyComparer<T>.SetPropertyAndDirection(System.ComponentModel.PropertyDescriptor, System.ComponentModel.ListSortDirection)
+  fullName.vb: GWin.Forms.PropertyComparer(Of T).SetPropertyAndDirection(System.ComponentModel.PropertyDescriptor, System.ComponentModel.ListSortDirection)
+  nameWithType: PropertyComparer<T>.SetPropertyAndDirection(PropertyDescriptor, ListSortDirection)
+  nameWithType.vb: PropertyComparer(Of T).SetPropertyAndDirection(PropertyDescriptor, ListSortDirection)
+- uid: GWin.Forms.PropertyComparer`1.SetPropertyAndDirection*
+  name: SetPropertyAndDirection
+  href: api/GWin.Forms.PropertyComparer-1.html#GWin_Forms_PropertyComparer_1_SetPropertyAndDirection_
+  commentId: Overload:GWin.Forms.PropertyComparer`1.SetPropertyAndDirection
+  isSpec: "True"
+  fullName: GWin.Forms.PropertyComparer<T>.SetPropertyAndDirection
+  fullName.vb: GWin.Forms.PropertyComparer(Of T).SetPropertyAndDirection
+  nameWithType: PropertyComparer<T>.SetPropertyAndDirection
+  nameWithType.vb: PropertyComparer(Of T).SetPropertyAndDirection
+- uid: GWin.Forms.SortableBindingList`1
+  name: SortableBindingList<T>
+  href: api/GWin.Forms.SortableBindingList-1.html
+  commentId: T:GWin.Forms.SortableBindingList`1
+  name.vb: SortableBindingList(Of T)
+  fullName: GWin.Forms.SortableBindingList<T>
+  fullName.vb: GWin.Forms.SortableBindingList(Of T)
+  nameWithType: SortableBindingList<T>
+  nameWithType.vb: SortableBindingList(Of T)
+- uid: GWin.Forms.SortableBindingList`1.#ctor
+  name: SortableBindingList()
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1__ctor
+  commentId: M:GWin.Forms.SortableBindingList`1.#ctor
+  fullName: GWin.Forms.SortableBindingList<T>.SortableBindingList()
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).SortableBindingList()
+  nameWithType: SortableBindingList<T>.SortableBindingList()
+  nameWithType.vb: SortableBindingList(Of T).SortableBindingList()
+- uid: GWin.Forms.SortableBindingList`1.#ctor(System.Collections.Generic.IEnumerable{`0})
+  name: SortableBindingList(IEnumerable<T>)
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1__ctor_System_Collections_Generic_IEnumerable__0__
+  commentId: M:GWin.Forms.SortableBindingList`1.#ctor(System.Collections.Generic.IEnumerable{`0})
+  name.vb: SortableBindingList(IEnumerable(Of T))
+  fullName: GWin.Forms.SortableBindingList<T>.SortableBindingList(System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).SortableBindingList(System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: SortableBindingList<T>.SortableBindingList(IEnumerable<T>)
+  nameWithType.vb: SortableBindingList(Of T).SortableBindingList(IEnumerable(Of T))
+- uid: GWin.Forms.SortableBindingList`1.#ctor*
+  name: SortableBindingList
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1__ctor_
+  commentId: Overload:GWin.Forms.SortableBindingList`1.#ctor
+  isSpec: "True"
+  fullName: GWin.Forms.SortableBindingList<T>.SortableBindingList
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).SortableBindingList
+  nameWithType: SortableBindingList<T>.SortableBindingList
+  nameWithType.vb: SortableBindingList(Of T).SortableBindingList
+- uid: GWin.Forms.SortableBindingList`1.ApplySortCore(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)
+  name: ApplySortCore(PropertyDescriptor, ListSortDirection)
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_ApplySortCore_System_ComponentModel_PropertyDescriptor_System_ComponentModel_ListSortDirection_
+  commentId: M:GWin.Forms.SortableBindingList`1.ApplySortCore(System.ComponentModel.PropertyDescriptor,System.ComponentModel.ListSortDirection)
+  fullName: GWin.Forms.SortableBindingList<T>.ApplySortCore(System.ComponentModel.PropertyDescriptor, System.ComponentModel.ListSortDirection)
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).ApplySortCore(System.ComponentModel.PropertyDescriptor, System.ComponentModel.ListSortDirection)
+  nameWithType: SortableBindingList<T>.ApplySortCore(PropertyDescriptor, ListSortDirection)
+  nameWithType.vb: SortableBindingList(Of T).ApplySortCore(PropertyDescriptor, ListSortDirection)
+- uid: GWin.Forms.SortableBindingList`1.ApplySortCore*
+  name: ApplySortCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_ApplySortCore_
+  commentId: Overload:GWin.Forms.SortableBindingList`1.ApplySortCore
+  isSpec: "True"
+  fullName: GWin.Forms.SortableBindingList<T>.ApplySortCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).ApplySortCore
+  nameWithType: SortableBindingList<T>.ApplySortCore
+  nameWithType.vb: SortableBindingList(Of T).ApplySortCore
+- uid: GWin.Forms.SortableBindingList`1.FindCore(System.ComponentModel.PropertyDescriptor,System.Object)
+  name: FindCore(PropertyDescriptor, Object)
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_FindCore_System_ComponentModel_PropertyDescriptor_System_Object_
+  commentId: M:GWin.Forms.SortableBindingList`1.FindCore(System.ComponentModel.PropertyDescriptor,System.Object)
+  fullName: GWin.Forms.SortableBindingList<T>.FindCore(System.ComponentModel.PropertyDescriptor, System.Object)
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).FindCore(System.ComponentModel.PropertyDescriptor, System.Object)
+  nameWithType: SortableBindingList<T>.FindCore(PropertyDescriptor, Object)
+  nameWithType.vb: SortableBindingList(Of T).FindCore(PropertyDescriptor, Object)
+- uid: GWin.Forms.SortableBindingList`1.FindCore*
+  name: FindCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_FindCore_
+  commentId: Overload:GWin.Forms.SortableBindingList`1.FindCore
+  isSpec: "True"
+  fullName: GWin.Forms.SortableBindingList<T>.FindCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).FindCore
+  nameWithType: SortableBindingList<T>.FindCore
+  nameWithType.vb: SortableBindingList(Of T).FindCore
+- uid: GWin.Forms.SortableBindingList`1.IsSortedCore
+  name: IsSortedCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_IsSortedCore
+  commentId: P:GWin.Forms.SortableBindingList`1.IsSortedCore
+  fullName: GWin.Forms.SortableBindingList<T>.IsSortedCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).IsSortedCore
+  nameWithType: SortableBindingList<T>.IsSortedCore
+  nameWithType.vb: SortableBindingList(Of T).IsSortedCore
+- uid: GWin.Forms.SortableBindingList`1.IsSortedCore*
+  name: IsSortedCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_IsSortedCore_
+  commentId: Overload:GWin.Forms.SortableBindingList`1.IsSortedCore
+  isSpec: "True"
+  fullName: GWin.Forms.SortableBindingList<T>.IsSortedCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).IsSortedCore
+  nameWithType: SortableBindingList<T>.IsSortedCore
+  nameWithType.vb: SortableBindingList(Of T).IsSortedCore
+- uid: GWin.Forms.SortableBindingList`1.RemoveSortCore
+  name: RemoveSortCore()
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_RemoveSortCore
+  commentId: M:GWin.Forms.SortableBindingList`1.RemoveSortCore
+  fullName: GWin.Forms.SortableBindingList<T>.RemoveSortCore()
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).RemoveSortCore()
+  nameWithType: SortableBindingList<T>.RemoveSortCore()
+  nameWithType.vb: SortableBindingList(Of T).RemoveSortCore()
+- uid: GWin.Forms.SortableBindingList`1.RemoveSortCore*
+  name: RemoveSortCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_RemoveSortCore_
+  commentId: Overload:GWin.Forms.SortableBindingList`1.RemoveSortCore
+  isSpec: "True"
+  fullName: GWin.Forms.SortableBindingList<T>.RemoveSortCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).RemoveSortCore
+  nameWithType: SortableBindingList<T>.RemoveSortCore
+  nameWithType.vb: SortableBindingList(Of T).RemoveSortCore
+- uid: GWin.Forms.SortableBindingList`1.SortDirectionCore
+  name: SortDirectionCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_SortDirectionCore
+  commentId: P:GWin.Forms.SortableBindingList`1.SortDirectionCore
+  fullName: GWin.Forms.SortableBindingList<T>.SortDirectionCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).SortDirectionCore
+  nameWithType: SortableBindingList<T>.SortDirectionCore
+  nameWithType.vb: SortableBindingList(Of T).SortDirectionCore
+- uid: GWin.Forms.SortableBindingList`1.SortDirectionCore*
+  name: SortDirectionCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_SortDirectionCore_
+  commentId: Overload:GWin.Forms.SortableBindingList`1.SortDirectionCore
+  isSpec: "True"
+  fullName: GWin.Forms.SortableBindingList<T>.SortDirectionCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).SortDirectionCore
+  nameWithType: SortableBindingList<T>.SortDirectionCore
+  nameWithType.vb: SortableBindingList(Of T).SortDirectionCore
+- uid: GWin.Forms.SortableBindingList`1.SortPropertyCore
+  name: SortPropertyCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_SortPropertyCore
+  commentId: P:GWin.Forms.SortableBindingList`1.SortPropertyCore
+  fullName: GWin.Forms.SortableBindingList<T>.SortPropertyCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).SortPropertyCore
+  nameWithType: SortableBindingList<T>.SortPropertyCore
+  nameWithType.vb: SortableBindingList(Of T).SortPropertyCore
+- uid: GWin.Forms.SortableBindingList`1.SortPropertyCore*
+  name: SortPropertyCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_SortPropertyCore_
+  commentId: Overload:GWin.Forms.SortableBindingList`1.SortPropertyCore
+  isSpec: "True"
+  fullName: GWin.Forms.SortableBindingList<T>.SortPropertyCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).SortPropertyCore
+  nameWithType: SortableBindingList<T>.SortPropertyCore
+  nameWithType.vb: SortableBindingList(Of T).SortPropertyCore
+- uid: GWin.Forms.SortableBindingList`1.SupportsSearchingCore
+  name: SupportsSearchingCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_SupportsSearchingCore
+  commentId: P:GWin.Forms.SortableBindingList`1.SupportsSearchingCore
+  fullName: GWin.Forms.SortableBindingList<T>.SupportsSearchingCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).SupportsSearchingCore
+  nameWithType: SortableBindingList<T>.SupportsSearchingCore
+  nameWithType.vb: SortableBindingList(Of T).SupportsSearchingCore
+- uid: GWin.Forms.SortableBindingList`1.SupportsSearchingCore*
+  name: SupportsSearchingCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_SupportsSearchingCore_
+  commentId: Overload:GWin.Forms.SortableBindingList`1.SupportsSearchingCore
+  isSpec: "True"
+  fullName: GWin.Forms.SortableBindingList<T>.SupportsSearchingCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).SupportsSearchingCore
+  nameWithType: SortableBindingList<T>.SupportsSearchingCore
+  nameWithType.vb: SortableBindingList(Of T).SupportsSearchingCore
+- uid: GWin.Forms.SortableBindingList`1.SupportsSortingCore
+  name: SupportsSortingCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_SupportsSortingCore
+  commentId: P:GWin.Forms.SortableBindingList`1.SupportsSortingCore
+  fullName: GWin.Forms.SortableBindingList<T>.SupportsSortingCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).SupportsSortingCore
+  nameWithType: SortableBindingList<T>.SupportsSortingCore
+  nameWithType.vb: SortableBindingList(Of T).SupportsSortingCore
+- uid: GWin.Forms.SortableBindingList`1.SupportsSortingCore*
+  name: SupportsSortingCore
+  href: api/GWin.Forms.SortableBindingList-1.html#GWin_Forms_SortableBindingList_1_SupportsSortingCore_
+  commentId: Overload:GWin.Forms.SortableBindingList`1.SupportsSortingCore
+  isSpec: "True"
+  fullName: GWin.Forms.SortableBindingList<T>.SupportsSortingCore
+  fullName.vb: GWin.Forms.SortableBindingList(Of T).SupportsSortingCore
+  nameWithType: SortableBindingList<T>.SupportsSortingCore
+  nameWithType.vb: SortableBindingList(Of T).SupportsSortingCore
+- uid: GWin.GConverter
+  name: GConverter
+  href: api/GWin.GConverter.html
+  commentId: T:GWin.GConverter
+  fullName: GWin.GConverter
+  nameWithType: GConverter
+- uid: GWin.GConverter.GetFromRealValue*
+  name: GetFromRealValue
+  href: api/GWin.GConverter.html#GWin_GConverter_GetFromRealValue_
+  commentId: Overload:GWin.GConverter.GetFromRealValue
+  isSpec: "True"
+  fullName: GWin.GConverter.GetFromRealValue
+  nameWithType: GConverter.GetFromRealValue
+- uid: GWin.GConverter.GetFromRealValue``1(System.Collections.Generic.List{GWin.ValueGeneric{``0}})
+  name: GetFromRealValue<T>(List<ValueGeneric<T>>)
+  href: api/GWin.GConverter.html#GWin_GConverter_GetFromRealValue__1_System_Collections_Generic_List_GWin_ValueGeneric___0___
+  commentId: M:GWin.GConverter.GetFromRealValue``1(System.Collections.Generic.List{GWin.ValueGeneric{``0}})
+  name.vb: GetFromRealValue(Of T)(List(Of ValueGeneric(Of T)))
+  fullName: GWin.GConverter.GetFromRealValue<T>(System.Collections.Generic.List<GWin.ValueGeneric<T>>)
+  fullName.vb: GWin.GConverter.GetFromRealValue(Of T)(System.Collections.Generic.List(Of GWin.ValueGeneric(Of T)))
+  nameWithType: GConverter.GetFromRealValue<T>(List<ValueGeneric<T>>)
+  nameWithType.vb: GConverter.GetFromRealValue(Of T)(List(Of ValueGeneric(Of T)))
+- uid: GWin.GConverter.GetFromSetValue*
+  name: GetFromSetValue
+  href: api/GWin.GConverter.html#GWin_GConverter_GetFromSetValue_
+  commentId: Overload:GWin.GConverter.GetFromSetValue
+  isSpec: "True"
+  fullName: GWin.GConverter.GetFromSetValue
+  nameWithType: GConverter.GetFromSetValue
+- uid: GWin.GConverter.GetFromSetValue``1(System.Collections.Generic.List{GWin.ValueGeneric{``0}})
+  name: GetFromSetValue<T>(List<ValueGeneric<T>>)
+  href: api/GWin.GConverter.html#GWin_GConverter_GetFromSetValue__1_System_Collections_Generic_List_GWin_ValueGeneric___0___
+  commentId: M:GWin.GConverter.GetFromSetValue``1(System.Collections.Generic.List{GWin.ValueGeneric{``0}})
+  name.vb: GetFromSetValue(Of T)(List(Of ValueGeneric(Of T)))
+  fullName: GWin.GConverter.GetFromSetValue<T>(System.Collections.Generic.List<GWin.ValueGeneric<T>>)
+  fullName.vb: GWin.GConverter.GetFromSetValue(Of T)(System.Collections.Generic.List(Of GWin.ValueGeneric(Of T)))
+  nameWithType: GConverter.GetFromSetValue<T>(List<ValueGeneric<T>>)
+  nameWithType.vb: GConverter.GetFromSetValue(Of T)(List(Of ValueGeneric(Of T)))
+- uid: GWin.GConverter.ParseToRealValue*
+  name: ParseToRealValue
+  href: api/GWin.GConverter.html#GWin_GConverter_ParseToRealValue_
+  commentId: Overload:GWin.GConverter.ParseToRealValue
+  isSpec: "True"
+  fullName: GWin.GConverter.ParseToRealValue
+  nameWithType: GConverter.ParseToRealValue
+- uid: GWin.GConverter.ParseToRealValue``1(System.Collections.Generic.List{GWin.ValueGeneric{``0}},System.Collections.Generic.List{``0})
+  name: ParseToRealValue<T>(List<ValueGeneric<T>>, List<T>)
+  href: api/GWin.GConverter.html#GWin_GConverter_ParseToRealValue__1_System_Collections_Generic_List_GWin_ValueGeneric___0___System_Collections_Generic_List___0__
+  commentId: M:GWin.GConverter.ParseToRealValue``1(System.Collections.Generic.List{GWin.ValueGeneric{``0}},System.Collections.Generic.List{``0})
+  name.vb: ParseToRealValue(Of T)(List(Of ValueGeneric(Of T)), List(Of T))
+  fullName: GWin.GConverter.ParseToRealValue<T>(System.Collections.Generic.List<GWin.ValueGeneric<T>>, System.Collections.Generic.List<T>)
+  fullName.vb: GWin.GConverter.ParseToRealValue(Of T)(System.Collections.Generic.List(Of GWin.ValueGeneric(Of T)), System.Collections.Generic.List(Of T))
+  nameWithType: GConverter.ParseToRealValue<T>(List<ValueGeneric<T>>, List<T>)
+  nameWithType.vb: GConverter.ParseToRealValue(Of T)(List(Of ValueGeneric(Of T)), List(Of T))
+- uid: GWin.GConverter.ParseToSetValue*
+  name: ParseToSetValue
+  href: api/GWin.GConverter.html#GWin_GConverter_ParseToSetValue_
+  commentId: Overload:GWin.GConverter.ParseToSetValue
+  isSpec: "True"
+  fullName: GWin.GConverter.ParseToSetValue
+  nameWithType: GConverter.ParseToSetValue
+- uid: GWin.GConverter.ParseToSetValue``1(System.Collections.Generic.List{GWin.ValueGeneric{``0}},System.Collections.Generic.List{``0})
+  name: ParseToSetValue<T>(List<ValueGeneric<T>>, List<T>)
+  href: api/GWin.GConverter.html#GWin_GConverter_ParseToSetValue__1_System_Collections_Generic_List_GWin_ValueGeneric___0___System_Collections_Generic_List___0__
+  commentId: M:GWin.GConverter.ParseToSetValue``1(System.Collections.Generic.List{GWin.ValueGeneric{``0}},System.Collections.Generic.List{``0})
+  name.vb: ParseToSetValue(Of T)(List(Of ValueGeneric(Of T)), List(Of T))
+  fullName: GWin.GConverter.ParseToSetValue<T>(System.Collections.Generic.List<GWin.ValueGeneric<T>>, System.Collections.Generic.List<T>)
+  fullName.vb: GWin.GConverter.ParseToSetValue(Of T)(System.Collections.Generic.List(Of GWin.ValueGeneric(Of T)), System.Collections.Generic.List(Of T))
+  nameWithType: GConverter.ParseToSetValue<T>(List<ValueGeneric<T>>, List<T>)
+  nameWithType.vb: GConverter.ParseToSetValue(Of T)(List(Of ValueGeneric(Of T)), List(Of T))
+- uid: GWin.GConverter.ToBytes(System.Decimal,System.Int32,GWin.ValueCoding,GWin.ValueCoding,GWin.ValueLength)
+  name: ToBytes(Decimal, Int32, ValueCoding, ValueCoding, ValueLength)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToBytes_System_Decimal_System_Int32_GWin_ValueCoding_GWin_ValueCoding_GWin_ValueLength_
+  commentId: M:GWin.GConverter.ToBytes(System.Decimal,System.Int32,GWin.ValueCoding,GWin.ValueCoding,GWin.ValueLength)
+  fullName: GWin.GConverter.ToBytes(System.Decimal, System.Int32, GWin.ValueCoding, GWin.ValueCoding, GWin.ValueLength)
+  nameWithType: GConverter.ToBytes(Decimal, Int32, ValueCoding, ValueCoding, ValueLength)
+- uid: GWin.GConverter.ToBytes(System.Int32,GWin.ValueCoding,GWin.ValueCoding,GWin.ValueLength)
+  name: ToBytes(Int32, ValueCoding, ValueCoding, ValueLength)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToBytes_System_Int32_GWin_ValueCoding_GWin_ValueCoding_GWin_ValueLength_
+  commentId: M:GWin.GConverter.ToBytes(System.Int32,GWin.ValueCoding,GWin.ValueCoding,GWin.ValueLength)
+  fullName: GWin.GConverter.ToBytes(System.Int32, GWin.ValueCoding, GWin.ValueCoding, GWin.ValueLength)
+  nameWithType: GConverter.ToBytes(Int32, ValueCoding, ValueCoding, ValueLength)
+- uid: GWin.GConverter.ToBytes(System.Int64,GWin.ValueCoding,GWin.ValueCoding,GWin.ValueLength)
+  name: ToBytes(Int64, ValueCoding, ValueCoding, ValueLength)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToBytes_System_Int64_GWin_ValueCoding_GWin_ValueCoding_GWin_ValueLength_
+  commentId: M:GWin.GConverter.ToBytes(System.Int64,GWin.ValueCoding,GWin.ValueCoding,GWin.ValueLength)
+  fullName: GWin.GConverter.ToBytes(System.Int64, GWin.ValueCoding, GWin.ValueCoding, GWin.ValueLength)
+  nameWithType: GConverter.ToBytes(Int64, ValueCoding, ValueCoding, ValueLength)
+- uid: GWin.GConverter.ToBytes(System.String)
+  name: ToBytes(String)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToBytes_System_String_
+  commentId: M:GWin.GConverter.ToBytes(System.String)
+  fullName: GWin.GConverter.ToBytes(System.String)
+  nameWithType: GConverter.ToBytes(String)
+- uid: GWin.GConverter.ToBytes(System.String,GWin.StringCoding,GWin.ValueCoding,GWin.ValueLength)
+  name: ToBytes(String, StringCoding, ValueCoding, ValueLength)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToBytes_System_String_GWin_StringCoding_GWin_ValueCoding_GWin_ValueLength_
+  commentId: M:GWin.GConverter.ToBytes(System.String,GWin.StringCoding,GWin.ValueCoding,GWin.ValueLength)
+  fullName: GWin.GConverter.ToBytes(System.String, GWin.StringCoding, GWin.ValueCoding, GWin.ValueLength)
+  nameWithType: GConverter.ToBytes(String, StringCoding, ValueCoding, ValueLength)
+- uid: GWin.GConverter.ToBytes(System.UInt32,GWin.ValueCoding,GWin.ValueCoding,GWin.ValueLength)
+  name: ToBytes(UInt32, ValueCoding, ValueCoding, ValueLength)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToBytes_System_UInt32_GWin_ValueCoding_GWin_ValueCoding_GWin_ValueLength_
+  commentId: M:GWin.GConverter.ToBytes(System.UInt32,GWin.ValueCoding,GWin.ValueCoding,GWin.ValueLength)
+  fullName: GWin.GConverter.ToBytes(System.UInt32, GWin.ValueCoding, GWin.ValueCoding, GWin.ValueLength)
+  nameWithType: GConverter.ToBytes(UInt32, ValueCoding, ValueCoding, ValueLength)
+- uid: GWin.GConverter.ToBytes*
+  name: ToBytes
+  href: api/GWin.GConverter.html#GWin_GConverter_ToBytes_
+  commentId: Overload:GWin.GConverter.ToBytes
+  isSpec: "True"
+  fullName: GWin.GConverter.ToBytes
+  nameWithType: GConverter.ToBytes
+- uid: GWin.GConverter.ToDecimal(System.Byte[],System.Int32,GWin.ValueCoding)
+  name: ToDecimal(Byte[], Int32, ValueCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToDecimal_System_Byte___System_Int32_GWin_ValueCoding_
+  commentId: M:GWin.GConverter.ToDecimal(System.Byte[],System.Int32,GWin.ValueCoding)
+  name.vb: ToDecimal(Byte(), Int32, ValueCoding)
+  fullName: GWin.GConverter.ToDecimal(System.Byte[], System.Int32, GWin.ValueCoding)
+  fullName.vb: GWin.GConverter.ToDecimal(System.Byte(), System.Int32, GWin.ValueCoding)
+  nameWithType: GConverter.ToDecimal(Byte[], Int32, ValueCoding)
+  nameWithType.vb: GConverter.ToDecimal(Byte(), Int32, ValueCoding)
+- uid: GWin.GConverter.ToDecimal(System.Int32,System.Int32,GWin.ValueCoding)
+  name: ToDecimal(Int32, Int32, ValueCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToDecimal_System_Int32_System_Int32_GWin_ValueCoding_
+  commentId: M:GWin.GConverter.ToDecimal(System.Int32,System.Int32,GWin.ValueCoding)
+  fullName: GWin.GConverter.ToDecimal(System.Int32, System.Int32, GWin.ValueCoding)
+  nameWithType: GConverter.ToDecimal(Int32, Int32, ValueCoding)
+- uid: GWin.GConverter.ToDecimal(System.String,System.Int32,GWin.StringCoding)
+  name: ToDecimal(String, Int32, StringCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToDecimal_System_String_System_Int32_GWin_StringCoding_
+  commentId: M:GWin.GConverter.ToDecimal(System.String,System.Int32,GWin.StringCoding)
+  fullName: GWin.GConverter.ToDecimal(System.String, System.Int32, GWin.StringCoding)
+  nameWithType: GConverter.ToDecimal(String, Int32, StringCoding)
+- uid: GWin.GConverter.ToDecimal(System.UInt32,System.Int32,GWin.ValueCoding)
+  name: ToDecimal(UInt32, Int32, ValueCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToDecimal_System_UInt32_System_Int32_GWin_ValueCoding_
+  commentId: M:GWin.GConverter.ToDecimal(System.UInt32,System.Int32,GWin.ValueCoding)
+  fullName: GWin.GConverter.ToDecimal(System.UInt32, System.Int32, GWin.ValueCoding)
+  nameWithType: GConverter.ToDecimal(UInt32, Int32, ValueCoding)
+- uid: GWin.GConverter.ToDecimal*
+  name: ToDecimal
+  href: api/GWin.GConverter.html#GWin_GConverter_ToDecimal_
+  commentId: Overload:GWin.GConverter.ToDecimal
+  isSpec: "True"
+  fullName: GWin.GConverter.ToDecimal
+  nameWithType: GConverter.ToDecimal
+- uid: GWin.GConverter.ToDecimalList(System.Collections.Generic.List{System.UInt32},System.Int32)
+  name: ToDecimalList(List<UInt32>, Int32)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToDecimalList_System_Collections_Generic_List_System_UInt32__System_Int32_
+  commentId: M:GWin.GConverter.ToDecimalList(System.Collections.Generic.List{System.UInt32},System.Int32)
+  name.vb: ToDecimalList(List(Of UInt32), Int32)
+  fullName: GWin.GConverter.ToDecimalList(System.Collections.Generic.List<System.UInt32>, System.Int32)
+  fullName.vb: GWin.GConverter.ToDecimalList(System.Collections.Generic.List(Of System.UInt32), System.Int32)
+  nameWithType: GConverter.ToDecimalList(List<UInt32>, Int32)
+  nameWithType.vb: GConverter.ToDecimalList(List(Of UInt32), Int32)
+- uid: GWin.GConverter.ToDecimalList*
+  name: ToDecimalList
+  href: api/GWin.GConverter.html#GWin_GConverter_ToDecimalList_
+  commentId: Overload:GWin.GConverter.ToDecimalList
+  isSpec: "True"
+  fullName: GWin.GConverter.ToDecimalList
+  nameWithType: GConverter.ToDecimalList
+- uid: GWin.GConverter.ToInt(System.Byte[],GWin.ValueCoding,GWin.ValueCoding)
+  name: ToInt(Byte[], ValueCoding, ValueCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToInt_System_Byte___GWin_ValueCoding_GWin_ValueCoding_
+  commentId: M:GWin.GConverter.ToInt(System.Byte[],GWin.ValueCoding,GWin.ValueCoding)
+  name.vb: ToInt(Byte(), ValueCoding, ValueCoding)
+  fullName: GWin.GConverter.ToInt(System.Byte[], GWin.ValueCoding, GWin.ValueCoding)
+  fullName.vb: GWin.GConverter.ToInt(System.Byte(), GWin.ValueCoding, GWin.ValueCoding)
+  nameWithType: GConverter.ToInt(Byte[], ValueCoding, ValueCoding)
+  nameWithType.vb: GConverter.ToInt(Byte(), ValueCoding, ValueCoding)
+- uid: GWin.GConverter.ToInt(System.Decimal,System.Int32,GWin.ValueCoding)
+  name: ToInt(Decimal, Int32, ValueCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToInt_System_Decimal_System_Int32_GWin_ValueCoding_
+  commentId: M:GWin.GConverter.ToInt(System.Decimal,System.Int32,GWin.ValueCoding)
+  fullName: GWin.GConverter.ToInt(System.Decimal, System.Int32, GWin.ValueCoding)
+  nameWithType: GConverter.ToInt(Decimal, Int32, ValueCoding)
+- uid: GWin.GConverter.ToInt(System.String,GWin.StringCoding)
+  name: ToInt(String, StringCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToInt_System_String_GWin_StringCoding_
+  commentId: M:GWin.GConverter.ToInt(System.String,GWin.StringCoding)
+  fullName: GWin.GConverter.ToInt(System.String, GWin.StringCoding)
+  nameWithType: GConverter.ToInt(String, StringCoding)
+- uid: GWin.GConverter.ToInt(System.UInt32,GWin.ValueCoding,GWin.ValueCoding)
+  name: ToInt(UInt32, ValueCoding, ValueCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToInt_System_UInt32_GWin_ValueCoding_GWin_ValueCoding_
+  commentId: M:GWin.GConverter.ToInt(System.UInt32,GWin.ValueCoding,GWin.ValueCoding)
+  fullName: GWin.GConverter.ToInt(System.UInt32, GWin.ValueCoding, GWin.ValueCoding)
+  nameWithType: GConverter.ToInt(UInt32, ValueCoding, ValueCoding)
+- uid: GWin.GConverter.ToInt*
+  name: ToInt
+  href: api/GWin.GConverter.html#GWin_GConverter_ToInt_
+  commentId: Overload:GWin.GConverter.ToInt
+  isSpec: "True"
+  fullName: GWin.GConverter.ToInt
+  nameWithType: GConverter.ToInt
+- uid: GWin.GConverter.ToString(System.Byte[],GWin.StringCoding)
+  name: ToString(Byte[], StringCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToString_System_Byte___GWin_StringCoding_
+  commentId: M:GWin.GConverter.ToString(System.Byte[],GWin.StringCoding)
+  name.vb: ToString(Byte(), StringCoding)
+  fullName: GWin.GConverter.ToString(System.Byte[], GWin.StringCoding)
+  fullName.vb: GWin.GConverter.ToString(System.Byte(), GWin.StringCoding)
+  nameWithType: GConverter.ToString(Byte[], StringCoding)
+  nameWithType.vb: GConverter.ToString(Byte(), StringCoding)
+- uid: GWin.GConverter.ToString(System.Decimal,System.Int32)
+  name: ToString(Decimal, Int32)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToString_System_Decimal_System_Int32_
+  commentId: M:GWin.GConverter.ToString(System.Decimal,System.Int32)
+  fullName: GWin.GConverter.ToString(System.Decimal, System.Int32)
+  nameWithType: GConverter.ToString(Decimal, Int32)
+- uid: GWin.GConverter.ToString(System.Int32,GWin.StringCoding)
+  name: ToString(Int32, StringCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToString_System_Int32_GWin_StringCoding_
+  commentId: M:GWin.GConverter.ToString(System.Int32,GWin.StringCoding)
+  fullName: GWin.GConverter.ToString(System.Int32, GWin.StringCoding)
+  nameWithType: GConverter.ToString(Int32, StringCoding)
+- uid: GWin.GConverter.ToString(System.UInt32,GWin.StringCoding)
+  name: ToString(UInt32, StringCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToString_System_UInt32_GWin_StringCoding_
+  commentId: M:GWin.GConverter.ToString(System.UInt32,GWin.StringCoding)
+  fullName: GWin.GConverter.ToString(System.UInt32, GWin.StringCoding)
+  nameWithType: GConverter.ToString(UInt32, StringCoding)
+- uid: GWin.GConverter.ToString*
+  name: ToString
+  href: api/GWin.GConverter.html#GWin_GConverter_ToString_
+  commentId: Overload:GWin.GConverter.ToString
+  isSpec: "True"
+  fullName: GWin.GConverter.ToString
+  nameWithType: GConverter.ToString
+- uid: GWin.GConverter.ToUint(System.Byte[],GWin.ValueCoding,GWin.ValueCoding)
+  name: ToUint(Byte[], ValueCoding, ValueCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToUint_System_Byte___GWin_ValueCoding_GWin_ValueCoding_
+  commentId: M:GWin.GConverter.ToUint(System.Byte[],GWin.ValueCoding,GWin.ValueCoding)
+  name.vb: ToUint(Byte(), ValueCoding, ValueCoding)
+  fullName: GWin.GConverter.ToUint(System.Byte[], GWin.ValueCoding, GWin.ValueCoding)
+  fullName.vb: GWin.GConverter.ToUint(System.Byte(), GWin.ValueCoding, GWin.ValueCoding)
+  nameWithType: GConverter.ToUint(Byte[], ValueCoding, ValueCoding)
+  nameWithType.vb: GConverter.ToUint(Byte(), ValueCoding, ValueCoding)
+- uid: GWin.GConverter.ToUint(System.Decimal,System.Int32,GWin.ValueCoding)
+  name: ToUint(Decimal, Int32, ValueCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToUint_System_Decimal_System_Int32_GWin_ValueCoding_
+  commentId: M:GWin.GConverter.ToUint(System.Decimal,System.Int32,GWin.ValueCoding)
+  fullName: GWin.GConverter.ToUint(System.Decimal, System.Int32, GWin.ValueCoding)
+  nameWithType: GConverter.ToUint(Decimal, Int32, ValueCoding)
+- uid: GWin.GConverter.ToUint(System.Int32,GWin.ValueCoding,GWin.ValueCoding)
+  name: ToUint(Int32, ValueCoding, ValueCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToUint_System_Int32_GWin_ValueCoding_GWin_ValueCoding_
+  commentId: M:GWin.GConverter.ToUint(System.Int32,GWin.ValueCoding,GWin.ValueCoding)
+  fullName: GWin.GConverter.ToUint(System.Int32, GWin.ValueCoding, GWin.ValueCoding)
+  nameWithType: GConverter.ToUint(Int32, ValueCoding, ValueCoding)
+- uid: GWin.GConverter.ToUint(System.String,GWin.StringCoding)
+  name: ToUint(String, StringCoding)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToUint_System_String_GWin_StringCoding_
+  commentId: M:GWin.GConverter.ToUint(System.String,GWin.StringCoding)
+  fullName: GWin.GConverter.ToUint(System.String, GWin.StringCoding)
+  nameWithType: GConverter.ToUint(String, StringCoding)
+- uid: GWin.GConverter.ToUint*
+  name: ToUint
+  href: api/GWin.GConverter.html#GWin_GConverter_ToUint_
+  commentId: Overload:GWin.GConverter.ToUint
+  isSpec: "True"
+  fullName: GWin.GConverter.ToUint
+  nameWithType: GConverter.ToUint
+- uid: GWin.GConverter.ToUintList(System.Collections.Generic.List{System.Decimal},System.Int32)
+  name: ToUintList(List<Decimal>, Int32)
+  href: api/GWin.GConverter.html#GWin_GConverter_ToUintList_System_Collections_Generic_List_System_Decimal__System_Int32_
+  commentId: M:GWin.GConverter.ToUintList(System.Collections.Generic.List{System.Decimal},System.Int32)
+  name.vb: ToUintList(List(Of Decimal), Int32)
+  fullName: GWin.GConverter.ToUintList(System.Collections.Generic.List<System.Decimal>, System.Int32)
+  fullName.vb: GWin.GConverter.ToUintList(System.Collections.Generic.List(Of System.Decimal), System.Int32)
+  nameWithType: GConverter.ToUintList(List<Decimal>, Int32)
+  nameWithType.vb: GConverter.ToUintList(List(Of Decimal), Int32)
+- uid: GWin.GConverter.ToUintList*
+  name: ToUintList
+  href: api/GWin.GConverter.html#GWin_GConverter_ToUintList_
+  commentId: Overload:GWin.GConverter.ToUintList
+  isSpec: "True"
+  fullName: GWin.GConverter.ToUintList
+  nameWithType: GConverter.ToUintList
+- uid: GWin.IO
+  name: GWin.IO
+  href: api/GWin.IO.html
+  commentId: N:GWin.IO
+  fullName: GWin.IO
+  nameWithType: GWin.IO
+- uid: GWin.IO.IniFile
+  name: IniFile
+  href: api/GWin.IO.IniFile.html
+  commentId: T:GWin.IO.IniFile
+  fullName: GWin.IO.IniFile
+  nameWithType: IniFile
+- uid: GWin.IO.IniFile.#ctor(System.String)
+  name: IniFile(String)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile__ctor_System_String_
+  commentId: M:GWin.IO.IniFile.#ctor(System.String)
+  fullName: GWin.IO.IniFile.IniFile(System.String)
+  nameWithType: IniFile.IniFile(String)
+- uid: GWin.IO.IniFile.#ctor*
+  name: IniFile
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile__ctor_
+  commentId: Overload:GWin.IO.IniFile.#ctor
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.IniFile
+  nameWithType: IniFile.IniFile
+- uid: GWin.IO.IniFile.DeleteKey(System.String,System.String)
+  name: DeleteKey(String, String)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_DeleteKey_System_String_System_String_
+  commentId: M:GWin.IO.IniFile.DeleteKey(System.String,System.String)
+  fullName: GWin.IO.IniFile.DeleteKey(System.String, System.String)
+  nameWithType: IniFile.DeleteKey(String, String)
+- uid: GWin.IO.IniFile.DeleteKey*
+  name: DeleteKey
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_DeleteKey_
+  commentId: Overload:GWin.IO.IniFile.DeleteKey
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.DeleteKey
+  nameWithType: IniFile.DeleteKey
+- uid: GWin.IO.IniFile.DeleteSection(System.String)
+  name: DeleteSection(String)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_DeleteSection_System_String_
+  commentId: M:GWin.IO.IniFile.DeleteSection(System.String)
+  fullName: GWin.IO.IniFile.DeleteSection(System.String)
+  nameWithType: IniFile.DeleteSection(String)
+- uid: GWin.IO.IniFile.DeleteSection*
+  name: DeleteSection
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_DeleteSection_
+  commentId: Overload:GWin.IO.IniFile.DeleteSection
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.DeleteSection
+  nameWithType: IniFile.DeleteSection
+- uid: GWin.IO.IniFile.GetByte(System.String,System.String,System.Byte)
+  name: GetByte(String, String, Byte)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetByte_System_String_System_String_System_Byte_
+  commentId: M:GWin.IO.IniFile.GetByte(System.String,System.String,System.Byte)
+  fullName: GWin.IO.IniFile.GetByte(System.String, System.String, System.Byte)
+  nameWithType: IniFile.GetByte(String, String, Byte)
+- uid: GWin.IO.IniFile.GetByte*
+  name: GetByte
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetByte_
+  commentId: Overload:GWin.IO.IniFile.GetByte
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.GetByte
+  nameWithType: IniFile.GetByte
+- uid: GWin.IO.IniFile.GetDecimal(System.String,System.String,System.Decimal)
+  name: GetDecimal(String, String, Decimal)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetDecimal_System_String_System_String_System_Decimal_
+  commentId: M:GWin.IO.IniFile.GetDecimal(System.String,System.String,System.Decimal)
+  fullName: GWin.IO.IniFile.GetDecimal(System.String, System.String, System.Decimal)
+  nameWithType: IniFile.GetDecimal(String, String, Decimal)
+- uid: GWin.IO.IniFile.GetDecimal*
+  name: GetDecimal
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetDecimal_
+  commentId: Overload:GWin.IO.IniFile.GetDecimal
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.GetDecimal
+  nameWithType: IniFile.GetDecimal
+- uid: GWin.IO.IniFile.GetDouble(System.String,System.String,System.Double)
+  name: GetDouble(String, String, Double)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetDouble_System_String_System_String_System_Double_
+  commentId: M:GWin.IO.IniFile.GetDouble(System.String,System.String,System.Double)
+  fullName: GWin.IO.IniFile.GetDouble(System.String, System.String, System.Double)
+  nameWithType: IniFile.GetDouble(String, String, Double)
+- uid: GWin.IO.IniFile.GetDouble*
+  name: GetDouble
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetDouble_
+  commentId: Overload:GWin.IO.IniFile.GetDouble
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.GetDouble
+  nameWithType: IniFile.GetDouble
+- uid: GWin.IO.IniFile.GetInt16(System.String,System.String,System.Int16)
+  name: GetInt16(String, String, Int16)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetInt16_System_String_System_String_System_Int16_
+  commentId: M:GWin.IO.IniFile.GetInt16(System.String,System.String,System.Int16)
+  fullName: GWin.IO.IniFile.GetInt16(System.String, System.String, System.Int16)
+  nameWithType: IniFile.GetInt16(String, String, Int16)
+- uid: GWin.IO.IniFile.GetInt16*
+  name: GetInt16
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetInt16_
+  commentId: Overload:GWin.IO.IniFile.GetInt16
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.GetInt16
+  nameWithType: IniFile.GetInt16
+- uid: GWin.IO.IniFile.GetInt32(System.String,System.String,System.Int32)
+  name: GetInt32(String, String, Int32)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetInt32_System_String_System_String_System_Int32_
+  commentId: M:GWin.IO.IniFile.GetInt32(System.String,System.String,System.Int32)
+  fullName: GWin.IO.IniFile.GetInt32(System.String, System.String, System.Int32)
+  nameWithType: IniFile.GetInt32(String, String, Int32)
+- uid: GWin.IO.IniFile.GetInt32*
+  name: GetInt32
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetInt32_
+  commentId: Overload:GWin.IO.IniFile.GetInt32
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.GetInt32
+  nameWithType: IniFile.GetInt32
+- uid: GWin.IO.IniFile.GetKeyNames(System.String)
+  name: GetKeyNames(String)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetKeyNames_System_String_
+  commentId: M:GWin.IO.IniFile.GetKeyNames(System.String)
+  fullName: GWin.IO.IniFile.GetKeyNames(System.String)
+  nameWithType: IniFile.GetKeyNames(String)
+- uid: GWin.IO.IniFile.GetKeyNames*
+  name: GetKeyNames
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetKeyNames_
+  commentId: Overload:GWin.IO.IniFile.GetKeyNames
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.GetKeyNames
+  nameWithType: IniFile.GetKeyNames
+- uid: GWin.IO.IniFile.GetSectionNames
+  name: GetSectionNames()
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetSectionNames
+  commentId: M:GWin.IO.IniFile.GetSectionNames
+  fullName: GWin.IO.IniFile.GetSectionNames()
+  nameWithType: IniFile.GetSectionNames()
+- uid: GWin.IO.IniFile.GetSectionNames*
+  name: GetSectionNames
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetSectionNames_
+  commentId: Overload:GWin.IO.IniFile.GetSectionNames
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.GetSectionNames
+  nameWithType: IniFile.GetSectionNames
+- uid: GWin.IO.IniFile.GetSectionValues(System.String)
+  name: GetSectionValues(String)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetSectionValues_System_String_
+  commentId: M:GWin.IO.IniFile.GetSectionValues(System.String)
+  fullName: GWin.IO.IniFile.GetSectionValues(System.String)
+  nameWithType: IniFile.GetSectionValues(String)
+- uid: GWin.IO.IniFile.GetSectionValues*
+  name: GetSectionValues
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetSectionValues_
+  commentId: Overload:GWin.IO.IniFile.GetSectionValues
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.GetSectionValues
+  nameWithType: IniFile.GetSectionValues
+- uid: GWin.IO.IniFile.GetSectionValuesAsList(System.String)
+  name: GetSectionValuesAsList(String)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetSectionValuesAsList_System_String_
+  commentId: M:GWin.IO.IniFile.GetSectionValuesAsList(System.String)
+  fullName: GWin.IO.IniFile.GetSectionValuesAsList(System.String)
+  nameWithType: IniFile.GetSectionValuesAsList(String)
+- uid: GWin.IO.IniFile.GetSectionValuesAsList*
+  name: GetSectionValuesAsList
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetSectionValuesAsList_
+  commentId: Overload:GWin.IO.IniFile.GetSectionValuesAsList
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.GetSectionValuesAsList
+  nameWithType: IniFile.GetSectionValuesAsList
+- uid: GWin.IO.IniFile.GetString(System.String,System.String,System.String)
+  name: GetString(String, String, String)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetString_System_String_System_String_System_String_
+  commentId: M:GWin.IO.IniFile.GetString(System.String,System.String,System.String)
+  fullName: GWin.IO.IniFile.GetString(System.String, System.String, System.String)
+  nameWithType: IniFile.GetString(String, String, String)
+- uid: GWin.IO.IniFile.GetString*
+  name: GetString
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_GetString_
+  commentId: Overload:GWin.IO.IniFile.GetString
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.GetString
+  nameWithType: IniFile.GetString
+- uid: GWin.IO.IniFile.MaxSectionSize
+  name: MaxSectionSize
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_MaxSectionSize
+  commentId: F:GWin.IO.IniFile.MaxSectionSize
+  fullName: GWin.IO.IniFile.MaxSectionSize
+  nameWithType: IniFile.MaxSectionSize
+- uid: GWin.IO.IniFile.Path
+  name: Path
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_Path
+  commentId: P:GWin.IO.IniFile.Path
+  fullName: GWin.IO.IniFile.Path
+  nameWithType: IniFile.Path
+- uid: GWin.IO.IniFile.Path*
+  name: Path
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_Path_
+  commentId: Overload:GWin.IO.IniFile.Path
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.Path
+  nameWithType: IniFile.Path
+- uid: GWin.IO.IniFile.WriteValue(System.String,System.String,System.Byte)
+  name: WriteValue(String, String, Byte)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_WriteValue_System_String_System_String_System_Byte_
+  commentId: M:GWin.IO.IniFile.WriteValue(System.String,System.String,System.Byte)
+  fullName: GWin.IO.IniFile.WriteValue(System.String, System.String, System.Byte)
+  nameWithType: IniFile.WriteValue(String, String, Byte)
+- uid: GWin.IO.IniFile.WriteValue(System.String,System.String,System.Decimal)
+  name: WriteValue(String, String, Decimal)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_WriteValue_System_String_System_String_System_Decimal_
+  commentId: M:GWin.IO.IniFile.WriteValue(System.String,System.String,System.Decimal)
+  fullName: GWin.IO.IniFile.WriteValue(System.String, System.String, System.Decimal)
+  nameWithType: IniFile.WriteValue(String, String, Decimal)
+- uid: GWin.IO.IniFile.WriteValue(System.String,System.String,System.Double)
+  name: WriteValue(String, String, Double)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_WriteValue_System_String_System_String_System_Double_
+  commentId: M:GWin.IO.IniFile.WriteValue(System.String,System.String,System.Double)
+  fullName: GWin.IO.IniFile.WriteValue(System.String, System.String, System.Double)
+  nameWithType: IniFile.WriteValue(String, String, Double)
+- uid: GWin.IO.IniFile.WriteValue(System.String,System.String,System.Int16)
+  name: WriteValue(String, String, Int16)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_WriteValue_System_String_System_String_System_Int16_
+  commentId: M:GWin.IO.IniFile.WriteValue(System.String,System.String,System.Int16)
+  fullName: GWin.IO.IniFile.WriteValue(System.String, System.String, System.Int16)
+  nameWithType: IniFile.WriteValue(String, String, Int16)
+- uid: GWin.IO.IniFile.WriteValue(System.String,System.String,System.Int32)
+  name: WriteValue(String, String, Int32)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_WriteValue_System_String_System_String_System_Int32_
+  commentId: M:GWin.IO.IniFile.WriteValue(System.String,System.String,System.Int32)
+  fullName: GWin.IO.IniFile.WriteValue(System.String, System.String, System.Int32)
+  nameWithType: IniFile.WriteValue(String, String, Int32)
+- uid: GWin.IO.IniFile.WriteValue(System.String,System.String,System.Single)
+  name: WriteValue(String, String, Single)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_WriteValue_System_String_System_String_System_Single_
+  commentId: M:GWin.IO.IniFile.WriteValue(System.String,System.String,System.Single)
+  fullName: GWin.IO.IniFile.WriteValue(System.String, System.String, System.Single)
+  nameWithType: IniFile.WriteValue(String, String, Single)
+- uid: GWin.IO.IniFile.WriteValue(System.String,System.String,System.String)
+  name: WriteValue(String, String, String)
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_WriteValue_System_String_System_String_System_String_
+  commentId: M:GWin.IO.IniFile.WriteValue(System.String,System.String,System.String)
+  fullName: GWin.IO.IniFile.WriteValue(System.String, System.String, System.String)
+  nameWithType: IniFile.WriteValue(String, String, String)
+- uid: GWin.IO.IniFile.WriteValue*
+  name: WriteValue
+  href: api/GWin.IO.IniFile.html#GWin_IO_IniFile_WriteValue_
+  commentId: Overload:GWin.IO.IniFile.WriteValue
+  isSpec: "True"
+  fullName: GWin.IO.IniFile.WriteValue
+  nameWithType: IniFile.WriteValue
+- uid: GWin.IO.SerialPort
+  name: SerialPort
+  href: api/GWin.IO.SerialPort.html
+  commentId: T:GWin.IO.SerialPort
+  fullName: GWin.IO.SerialPort
+  nameWithType: SerialPort
+- uid: GWin.IO.SerialPort.#ctor(System.String,System.Int32)
+  name: SerialPort(String, Int32)
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort__ctor_System_String_System_Int32_
+  commentId: M:GWin.IO.SerialPort.#ctor(System.String,System.Int32)
+  fullName: GWin.IO.SerialPort.SerialPort(System.String, System.Int32)
+  nameWithType: SerialPort.SerialPort(String, Int32)
+- uid: GWin.IO.SerialPort.#ctor*
+  name: SerialPort
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort__ctor_
+  commentId: Overload:GWin.IO.SerialPort.#ctor
+  isSpec: "True"
+  fullName: GWin.IO.SerialPort.SerialPort
+  nameWithType: SerialPort.SerialPort
+- uid: GWin.IO.SerialPort.BaudRate
+  name: BaudRate
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_BaudRate
+  commentId: P:GWin.IO.SerialPort.BaudRate
+  fullName: GWin.IO.SerialPort.BaudRate
+  nameWithType: SerialPort.BaudRate
+- uid: GWin.IO.SerialPort.BaudRate*
+  name: BaudRate
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_BaudRate_
+  commentId: Overload:GWin.IO.SerialPort.BaudRate
+  isSpec: "True"
+  fullName: GWin.IO.SerialPort.BaudRate
+  nameWithType: SerialPort.BaudRate
+- uid: GWin.IO.SerialPort.DataReceived
+  name: DataReceived
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_DataReceived
+  commentId: E:GWin.IO.SerialPort.DataReceived
+  fullName: GWin.IO.SerialPort.DataReceived
+  nameWithType: SerialPort.DataReceived
+- uid: GWin.IO.SerialPort.Dispose
+  name: Dispose()
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_Dispose
+  commentId: M:GWin.IO.SerialPort.Dispose
+  fullName: GWin.IO.SerialPort.Dispose()
+  nameWithType: SerialPort.Dispose()
+- uid: GWin.IO.SerialPort.Dispose*
+  name: Dispose
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_Dispose_
+  commentId: Overload:GWin.IO.SerialPort.Dispose
+  isSpec: "True"
+  fullName: GWin.IO.SerialPort.Dispose
+  nameWithType: SerialPort.Dispose
+- uid: GWin.IO.SerialPort.GetPortNames
+  name: GetPortNames()
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_GetPortNames
+  commentId: M:GWin.IO.SerialPort.GetPortNames
+  fullName: GWin.IO.SerialPort.GetPortNames()
+  nameWithType: SerialPort.GetPortNames()
+- uid: GWin.IO.SerialPort.GetPortNames*
+  name: GetPortNames
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_GetPortNames_
+  commentId: Overload:GWin.IO.SerialPort.GetPortNames
+  isSpec: "True"
+  fullName: GWin.IO.SerialPort.GetPortNames
+  nameWithType: SerialPort.GetPortNames
+- uid: GWin.IO.SerialPort.IsRunning
+  name: IsRunning
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_IsRunning
+  commentId: P:GWin.IO.SerialPort.IsRunning
+  fullName: GWin.IO.SerialPort.IsRunning
+  nameWithType: SerialPort.IsRunning
+- uid: GWin.IO.SerialPort.IsRunning*
+  name: IsRunning
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_IsRunning_
+  commentId: Overload:GWin.IO.SerialPort.IsRunning
+  isSpec: "True"
+  fullName: GWin.IO.SerialPort.IsRunning
+  nameWithType: SerialPort.IsRunning
+- uid: GWin.IO.SerialPort.Open
+  name: Open()
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_Open
+  commentId: M:GWin.IO.SerialPort.Open
+  fullName: GWin.IO.SerialPort.Open()
+  nameWithType: SerialPort.Open()
+- uid: GWin.IO.SerialPort.Open*
+  name: Open
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_Open_
+  commentId: Overload:GWin.IO.SerialPort.Open
+  isSpec: "True"
+  fullName: GWin.IO.SerialPort.Open
+  nameWithType: SerialPort.Open
+- uid: GWin.IO.SerialPort.PortName
+  name: PortName
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_PortName
+  commentId: P:GWin.IO.SerialPort.PortName
+  fullName: GWin.IO.SerialPort.PortName
+  nameWithType: SerialPort.PortName
+- uid: GWin.IO.SerialPort.PortName*
+  name: PortName
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_PortName_
+  commentId: Overload:GWin.IO.SerialPort.PortName
+  isSpec: "True"
+  fullName: GWin.IO.SerialPort.PortName
+  nameWithType: SerialPort.PortName
+- uid: GWin.IO.SerialPort.Send(System.Byte[])
+  name: Send(Byte[])
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_Send_System_Byte___
+  commentId: M:GWin.IO.SerialPort.Send(System.Byte[])
+  name.vb: Send(Byte())
+  fullName: GWin.IO.SerialPort.Send(System.Byte[])
+  fullName.vb: GWin.IO.SerialPort.Send(System.Byte())
+  nameWithType: SerialPort.Send(Byte[])
+  nameWithType.vb: SerialPort.Send(Byte())
+- uid: GWin.IO.SerialPort.Send*
+  name: Send
+  href: api/GWin.IO.SerialPort.html#GWin_IO_SerialPort_Send_
+  commentId: Overload:GWin.IO.SerialPort.Send
+  isSpec: "True"
+  fullName: GWin.IO.SerialPort.Send
+  nameWithType: SerialPort.Send
+- uid: GWin.IO.SerialPortDataReceivedEventArgs
+  name: SerialPortDataReceivedEventArgs
+  href: api/GWin.IO.SerialPortDataReceivedEventArgs.html
+  commentId: T:GWin.IO.SerialPortDataReceivedEventArgs
+  fullName: GWin.IO.SerialPortDataReceivedEventArgs
+  nameWithType: SerialPortDataReceivedEventArgs
+- uid: GWin.IO.SerialPortDataReceivedEventArgs.#ctor(System.Byte[])
+  name: SerialPortDataReceivedEventArgs(Byte[])
+  href: api/GWin.IO.SerialPortDataReceivedEventArgs.html#GWin_IO_SerialPortDataReceivedEventArgs__ctor_System_Byte___
+  commentId: M:GWin.IO.SerialPortDataReceivedEventArgs.#ctor(System.Byte[])
+  name.vb: SerialPortDataReceivedEventArgs(Byte())
+  fullName: GWin.IO.SerialPortDataReceivedEventArgs.SerialPortDataReceivedEventArgs(System.Byte[])
+  fullName.vb: GWin.IO.SerialPortDataReceivedEventArgs.SerialPortDataReceivedEventArgs(System.Byte())
+  nameWithType: SerialPortDataReceivedEventArgs.SerialPortDataReceivedEventArgs(Byte[])
+  nameWithType.vb: SerialPortDataReceivedEventArgs.SerialPortDataReceivedEventArgs(Byte())
+- uid: GWin.IO.SerialPortDataReceivedEventArgs.#ctor*
+  name: SerialPortDataReceivedEventArgs
+  href: api/GWin.IO.SerialPortDataReceivedEventArgs.html#GWin_IO_SerialPortDataReceivedEventArgs__ctor_
+  commentId: Overload:GWin.IO.SerialPortDataReceivedEventArgs.#ctor
+  isSpec: "True"
+  fullName: GWin.IO.SerialPortDataReceivedEventArgs.SerialPortDataReceivedEventArgs
+  nameWithType: SerialPortDataReceivedEventArgs.SerialPortDataReceivedEventArgs
+- uid: GWin.IO.SerialPortDataReceivedEventArgs.BytesToRead
+  name: BytesToRead
+  href: api/GWin.IO.SerialPortDataReceivedEventArgs.html#GWin_IO_SerialPortDataReceivedEventArgs_BytesToRead
+  commentId: P:GWin.IO.SerialPortDataReceivedEventArgs.BytesToRead
+  fullName: GWin.IO.SerialPortDataReceivedEventArgs.BytesToRead
+  nameWithType: SerialPortDataReceivedEventArgs.BytesToRead
+- uid: GWin.IO.SerialPortDataReceivedEventArgs.BytesToRead*
+  name: BytesToRead
+  href: api/GWin.IO.SerialPortDataReceivedEventArgs.html#GWin_IO_SerialPortDataReceivedEventArgs_BytesToRead_
+  commentId: Overload:GWin.IO.SerialPortDataReceivedEventArgs.BytesToRead
+  isSpec: "True"
+  fullName: GWin.IO.SerialPortDataReceivedEventArgs.BytesToRead
+  nameWithType: SerialPortDataReceivedEventArgs.BytesToRead
+- uid: GWin.IO.SerialPortDataReceivedEventArgs.ReceivedBuffer
+  name: ReceivedBuffer
+  href: api/GWin.IO.SerialPortDataReceivedEventArgs.html#GWin_IO_SerialPortDataReceivedEventArgs_ReceivedBuffer
+  commentId: P:GWin.IO.SerialPortDataReceivedEventArgs.ReceivedBuffer
+  fullName: GWin.IO.SerialPortDataReceivedEventArgs.ReceivedBuffer
+  nameWithType: SerialPortDataReceivedEventArgs.ReceivedBuffer
+- uid: GWin.IO.SerialPortDataReceivedEventArgs.ReceivedBuffer*
+  name: ReceivedBuffer
+  href: api/GWin.IO.SerialPortDataReceivedEventArgs.html#GWin_IO_SerialPortDataReceivedEventArgs_ReceivedBuffer_
+  commentId: Overload:GWin.IO.SerialPortDataReceivedEventArgs.ReceivedBuffer
+  isSpec: "True"
+  fullName: GWin.IO.SerialPortDataReceivedEventArgs.ReceivedBuffer
+  nameWithType: SerialPortDataReceivedEventArgs.ReceivedBuffer
+- uid: GWin.Math
+  name: GWin.Math
+  href: api/GWin.Math.html
+  commentId: N:GWin.Math
+  fullName: GWin.Math
+  nameWithType: GWin.Math
+- uid: GWin.Math.Lagrange
+  name: Lagrange
+  href: api/GWin.Math.Lagrange.html
+  commentId: T:GWin.Math.Lagrange
+  fullName: GWin.Math.Lagrange
+  nameWithType: Lagrange
+- uid: GWin.Math.Lagrange.#ctor(System.Double[],System.Double[])
+  name: Lagrange(Double[], Double[])
+  href: api/GWin.Math.Lagrange.html#GWin_Math_Lagrange__ctor_System_Double___System_Double___
+  commentId: M:GWin.Math.Lagrange.#ctor(System.Double[],System.Double[])
+  name.vb: Lagrange(Double(), Double())
+  fullName: GWin.Math.Lagrange.Lagrange(System.Double[], System.Double[])
+  fullName.vb: GWin.Math.Lagrange.Lagrange(System.Double(), System.Double())
+  nameWithType: Lagrange.Lagrange(Double[], Double[])
+  nameWithType.vb: Lagrange.Lagrange(Double(), Double())
+- uid: GWin.Math.Lagrange.#ctor*
+  name: Lagrange
+  href: api/GWin.Math.Lagrange.html#GWin_Math_Lagrange__ctor_
+  commentId: Overload:GWin.Math.Lagrange.#ctor
+  isSpec: "True"
+  fullName: GWin.Math.Lagrange.Lagrange
+  nameWithType: Lagrange.Lagrange
+- uid: GWin.Math.Lagrange.GetValue(System.Double)
+  name: GetValue(Double)
+  href: api/GWin.Math.Lagrange.html#GWin_Math_Lagrange_GetValue_System_Double_
+  commentId: M:GWin.Math.Lagrange.GetValue(System.Double)
+  fullName: GWin.Math.Lagrange.GetValue(System.Double)
+  nameWithType: Lagrange.GetValue(Double)
+- uid: GWin.Math.Lagrange.GetValue*
+  name: GetValue
+  href: api/GWin.Math.Lagrange.html#GWin_Math_Lagrange_GetValue_
+  commentId: Overload:GWin.Math.Lagrange.GetValue
+  isSpec: "True"
+  fullName: GWin.Math.Lagrange.GetValue
+  nameWithType: Lagrange.GetValue
+- uid: GWin.Math.Lagrange.itemNum
+  name: itemNum
+  href: api/GWin.Math.Lagrange.html#GWin_Math_Lagrange_itemNum
+  commentId: P:GWin.Math.Lagrange.itemNum
+  fullName: GWin.Math.Lagrange.itemNum
+  nameWithType: Lagrange.itemNum
+- uid: GWin.Math.Lagrange.itemNum*
+  name: itemNum
+  href: api/GWin.Math.Lagrange.html#GWin_Math_Lagrange_itemNum_
+  commentId: Overload:GWin.Math.Lagrange.itemNum
+  isSpec: "True"
+  fullName: GWin.Math.Lagrange.itemNum
+  nameWithType: Lagrange.itemNum
+- uid: GWin.Math.Lagrange.x
+  name: x
+  href: api/GWin.Math.Lagrange.html#GWin_Math_Lagrange_x
+  commentId: P:GWin.Math.Lagrange.x
+  fullName: GWin.Math.Lagrange.x
+  nameWithType: Lagrange.x
+- uid: GWin.Math.Lagrange.x*
+  name: x
+  href: api/GWin.Math.Lagrange.html#GWin_Math_Lagrange_x_
+  commentId: Overload:GWin.Math.Lagrange.x
+  isSpec: "True"
+  fullName: GWin.Math.Lagrange.x
+  nameWithType: Lagrange.x
+- uid: GWin.Math.Lagrange.y
+  name: y
+  href: api/GWin.Math.Lagrange.html#GWin_Math_Lagrange_y
+  commentId: P:GWin.Math.Lagrange.y
+  fullName: GWin.Math.Lagrange.y
+  nameWithType: Lagrange.y
+- uid: GWin.Math.Lagrange.y*
+  name: y
+  href: api/GWin.Math.Lagrange.html#GWin_Math_Lagrange_y_
+  commentId: Overload:GWin.Math.Lagrange.y
+  isSpec: "True"
+  fullName: GWin.Math.Lagrange.y
+  nameWithType: Lagrange.y
+- uid: GWin.Message
+  name: GWin.Message
+  href: api/GWin.Message.html
+  commentId: N:GWin.Message
+  fullName: GWin.Message
+  nameWithType: GWin.Message
+- uid: GWin.Message.GBus
+  name: GBus
+  href: api/GWin.Message.GBus.html
+  commentId: T:GWin.Message.GBus
+  fullName: GWin.Message.GBus
+  nameWithType: GBus
+- uid: GWin.Message.GBus.#ctor
+  name: GBus()
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus__ctor
+  commentId: M:GWin.Message.GBus.#ctor
+  fullName: GWin.Message.GBus.GBus()
+  nameWithType: GBus.GBus()
+- uid: GWin.Message.GBus.#ctor*
+  name: GBus
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus__ctor_
+  commentId: Overload:GWin.Message.GBus.#ctor
+  isSpec: "True"
+  fullName: GWin.Message.GBus.GBus
+  nameWithType: GBus.GBus
+- uid: GWin.Message.GBus.DataCached
+  name: DataCached
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_DataCached
+  commentId: E:GWin.Message.GBus.DataCached
+  fullName: GWin.Message.GBus.DataCached
+  nameWithType: GBus.DataCached
+- uid: GWin.Message.GBus.Dispose
+  name: Dispose()
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_Dispose
+  commentId: M:GWin.Message.GBus.Dispose
+  fullName: GWin.Message.GBus.Dispose()
+  nameWithType: GBus.Dispose()
+- uid: GWin.Message.GBus.Dispose*
+  name: Dispose
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_Dispose_
+  commentId: Overload:GWin.Message.GBus.Dispose
+  isSpec: "True"
+  fullName: GWin.Message.GBus.Dispose
+  nameWithType: GBus.Dispose
+- uid: GWin.Message.GBus.Inquery(System.UInt32)
+  name: Inquery(UInt32)
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_Inquery_System_UInt32_
+  commentId: M:GWin.Message.GBus.Inquery(System.UInt32)
+  fullName: GWin.Message.GBus.Inquery(System.UInt32)
+  nameWithType: GBus.Inquery(UInt32)
+- uid: GWin.Message.GBus.Inquery*
+  name: Inquery
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_Inquery_
+  commentId: Overload:GWin.Message.GBus.Inquery
+  isSpec: "True"
+  fullName: GWin.Message.GBus.Inquery
+  nameWithType: GBus.Inquery
+- uid: GWin.Message.GBus.Process(System.Byte[])
+  name: Process(Byte[])
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_Process_System_Byte___
+  commentId: M:GWin.Message.GBus.Process(System.Byte[])
+  name.vb: Process(Byte())
+  fullName: GWin.Message.GBus.Process(System.Byte[])
+  fullName.vb: GWin.Message.GBus.Process(System.Byte())
+  nameWithType: GBus.Process(Byte[])
+  nameWithType.vb: GBus.Process(Byte())
+- uid: GWin.Message.GBus.Process*
+  name: Process
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_Process_
+  commentId: Overload:GWin.Message.GBus.Process
+  isSpec: "True"
+  fullName: GWin.Message.GBus.Process
+  nameWithType: GBus.Process
+- uid: GWin.Message.GBus.RaiseDataCached(GWin.Message.MessageContent{System.UInt32,System.UInt32})
+  name: RaiseDataCached(MessageContent<UInt32, UInt32>)
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_RaiseDataCached_GWin_Message_MessageContent_System_UInt32_System_UInt32__
+  commentId: M:GWin.Message.GBus.RaiseDataCached(GWin.Message.MessageContent{System.UInt32,System.UInt32})
+  name.vb: RaiseDataCached(MessageContent(Of UInt32, UInt32))
+  fullName: GWin.Message.GBus.RaiseDataCached(GWin.Message.MessageContent<System.UInt32, System.UInt32>)
+  fullName.vb: GWin.Message.GBus.RaiseDataCached(GWin.Message.MessageContent(Of System.UInt32, System.UInt32))
+  nameWithType: GBus.RaiseDataCached(MessageContent<UInt32, UInt32>)
+  nameWithType.vb: GBus.RaiseDataCached(MessageContent(Of UInt32, UInt32))
+- uid: GWin.Message.GBus.RaiseDataCached*
+  name: RaiseDataCached
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_RaiseDataCached_
+  commentId: Overload:GWin.Message.GBus.RaiseDataCached
+  isSpec: "True"
+  fullName: GWin.Message.GBus.RaiseDataCached
+  nameWithType: GBus.RaiseDataCached
+- uid: GWin.Message.GBus.ReadContentList
+  name: ReadContentList
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_ReadContentList
+  commentId: P:GWin.Message.GBus.ReadContentList
+  fullName: GWin.Message.GBus.ReadContentList
+  nameWithType: GBus.ReadContentList
+- uid: GWin.Message.GBus.ReadContentList*
+  name: ReadContentList
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_ReadContentList_
+  commentId: Overload:GWin.Message.GBus.ReadContentList
+  isSpec: "True"
+  fullName: GWin.Message.GBus.ReadContentList
+  nameWithType: GBus.ReadContentList
+- uid: GWin.Message.GBus.ReceiveEnd
+  name: ReceiveEnd
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_ReceiveEnd
+  commentId: P:GWin.Message.GBus.ReceiveEnd
+  fullName: GWin.Message.GBus.ReceiveEnd
+  nameWithType: GBus.ReceiveEnd
+- uid: GWin.Message.GBus.ReceiveEnd*
+  name: ReceiveEnd
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_ReceiveEnd_
+  commentId: Overload:GWin.Message.GBus.ReceiveEnd
+  isSpec: "True"
+  fullName: GWin.Message.GBus.ReceiveEnd
+  nameWithType: GBus.ReceiveEnd
+- uid: GWin.Message.GBus.ReceiveStart
+  name: ReceiveStart
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_ReceiveStart
+  commentId: P:GWin.Message.GBus.ReceiveStart
+  fullName: GWin.Message.GBus.ReceiveStart
+  nameWithType: GBus.ReceiveStart
+- uid: GWin.Message.GBus.ReceiveStart*
+  name: ReceiveStart
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_ReceiveStart_
+  commentId: Overload:GWin.Message.GBus.ReceiveStart
+  isSpec: "True"
+  fullName: GWin.Message.GBus.ReceiveStart
+  nameWithType: GBus.ReceiveStart
+- uid: GWin.Message.GBus.SendEnd
+  name: SendEnd
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_SendEnd
+  commentId: P:GWin.Message.GBus.SendEnd
+  fullName: GWin.Message.GBus.SendEnd
+  nameWithType: GBus.SendEnd
+- uid: GWin.Message.GBus.SendEnd*
+  name: SendEnd
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_SendEnd_
+  commentId: Overload:GWin.Message.GBus.SendEnd
+  isSpec: "True"
+  fullName: GWin.Message.GBus.SendEnd
+  nameWithType: GBus.SendEnd
+- uid: GWin.Message.GBus.SendStart
+  name: SendStart
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_SendStart
+  commentId: P:GWin.Message.GBus.SendStart
+  fullName: GWin.Message.GBus.SendStart
+  nameWithType: GBus.SendStart
+- uid: GWin.Message.GBus.SendStart*
+  name: SendStart
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_SendStart_
+  commentId: Overload:GWin.Message.GBus.SendStart
+  isSpec: "True"
+  fullName: GWin.Message.GBus.SendStart
+  nameWithType: GBus.SendStart
+- uid: GWin.Message.GBus.SetReadCommand(System.Collections.Generic.List{GWin.Message.MessageContentType{System.UInt32}})
+  name: SetReadCommand(List<MessageContentType<UInt32>>)
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_SetReadCommand_System_Collections_Generic_List_GWin_Message_MessageContentType_System_UInt32___
+  commentId: M:GWin.Message.GBus.SetReadCommand(System.Collections.Generic.List{GWin.Message.MessageContentType{System.UInt32}})
+  name.vb: SetReadCommand(List(Of MessageContentType(Of UInt32)))
+  fullName: GWin.Message.GBus.SetReadCommand(System.Collections.Generic.List<GWin.Message.MessageContentType<System.UInt32>>)
+  fullName.vb: GWin.Message.GBus.SetReadCommand(System.Collections.Generic.List(Of GWin.Message.MessageContentType(Of System.UInt32)))
+  nameWithType: GBus.SetReadCommand(List<MessageContentType<UInt32>>)
+  nameWithType.vb: GBus.SetReadCommand(List(Of MessageContentType(Of UInt32)))
+- uid: GWin.Message.GBus.SetReadCommand(System.Collections.Generic.List{System.UInt32})
+  name: SetReadCommand(List<UInt32>)
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_SetReadCommand_System_Collections_Generic_List_System_UInt32__
+  commentId: M:GWin.Message.GBus.SetReadCommand(System.Collections.Generic.List{System.UInt32})
+  name.vb: SetReadCommand(List(Of UInt32))
+  fullName: GWin.Message.GBus.SetReadCommand(System.Collections.Generic.List<System.UInt32>)
+  fullName.vb: GWin.Message.GBus.SetReadCommand(System.Collections.Generic.List(Of System.UInt32))
+  nameWithType: GBus.SetReadCommand(List<UInt32>)
+  nameWithType.vb: GBus.SetReadCommand(List(Of UInt32))
+- uid: GWin.Message.GBus.SetReadCommand*
+  name: SetReadCommand
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_SetReadCommand_
+  commentId: Overload:GWin.Message.GBus.SetReadCommand
+  isSpec: "True"
+  fullName: GWin.Message.GBus.SetReadCommand
+  nameWithType: GBus.SetReadCommand
+- uid: GWin.Message.GBus.Write(GWin.Message.MessageContent{System.UInt32,System.UInt32})
+  name: Write(MessageContent<UInt32, UInt32>)
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_Write_GWin_Message_MessageContent_System_UInt32_System_UInt32__
+  commentId: M:GWin.Message.GBus.Write(GWin.Message.MessageContent{System.UInt32,System.UInt32})
+  name.vb: Write(MessageContent(Of UInt32, UInt32))
+  fullName: GWin.Message.GBus.Write(GWin.Message.MessageContent<System.UInt32, System.UInt32>)
+  fullName.vb: GWin.Message.GBus.Write(GWin.Message.MessageContent(Of System.UInt32, System.UInt32))
+  nameWithType: GBus.Write(MessageContent<UInt32, UInt32>)
+  nameWithType.vb: GBus.Write(MessageContent(Of UInt32, UInt32))
+- uid: GWin.Message.GBus.Write(System.UInt32,System.Byte[])
+  name: Write(UInt32, Byte[])
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_Write_System_UInt32_System_Byte___
+  commentId: M:GWin.Message.GBus.Write(System.UInt32,System.Byte[])
+  name.vb: Write(UInt32, Byte())
+  fullName: GWin.Message.GBus.Write(System.UInt32, System.Byte[])
+  fullName.vb: GWin.Message.GBus.Write(System.UInt32, System.Byte())
+  nameWithType: GBus.Write(UInt32, Byte[])
+  nameWithType.vb: GBus.Write(UInt32, Byte())
+- uid: GWin.Message.GBus.Write*
+  name: Write
+  href: api/GWin.Message.GBus.html#GWin_Message_GBus_Write_
+  commentId: Overload:GWin.Message.GBus.Write
+  isSpec: "True"
+  fullName: GWin.Message.GBus.Write
+  nameWithType: GBus.Write
+- uid: GWin.Message.GSimple
+  name: GSimple
+  href: api/GWin.Message.GSimple.html
+  commentId: T:GWin.Message.GSimple
+  fullName: GWin.Message.GSimple
+  nameWithType: GSimple
+- uid: GWin.Message.GSimple.#ctor
+  name: GSimple()
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple__ctor
+  commentId: M:GWin.Message.GSimple.#ctor
+  fullName: GWin.Message.GSimple.GSimple()
+  nameWithType: GSimple.GSimple()
+- uid: GWin.Message.GSimple.#ctor*
+  name: GSimple
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple__ctor_
+  commentId: Overload:GWin.Message.GSimple.#ctor
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.GSimple
+  nameWithType: GSimple.GSimple
+- uid: GWin.Message.GSimple.DataCached
+  name: DataCached
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_DataCached
+  commentId: E:GWin.Message.GSimple.DataCached
+  fullName: GWin.Message.GSimple.DataCached
+  nameWithType: GSimple.DataCached
+- uid: GWin.Message.GSimple.Dispose
+  name: Dispose()
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_Dispose
+  commentId: M:GWin.Message.GSimple.Dispose
+  fullName: GWin.Message.GSimple.Dispose()
+  nameWithType: GSimple.Dispose()
+- uid: GWin.Message.GSimple.Dispose*
+  name: Dispose
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_Dispose_
+  commentId: Overload:GWin.Message.GSimple.Dispose
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.Dispose
+  nameWithType: GSimple.Dispose
+- uid: GWin.Message.GSimple.Inquery(System.Byte)
+  name: Inquery(Byte)
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_Inquery_System_Byte_
+  commentId: M:GWin.Message.GSimple.Inquery(System.Byte)
+  fullName: GWin.Message.GSimple.Inquery(System.Byte)
+  nameWithType: GSimple.Inquery(Byte)
+- uid: GWin.Message.GSimple.Inquery*
+  name: Inquery
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_Inquery_
+  commentId: Overload:GWin.Message.GSimple.Inquery
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.Inquery
+  nameWithType: GSimple.Inquery
+- uid: GWin.Message.GSimple.Process(System.Byte[])
+  name: Process(Byte[])
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_Process_System_Byte___
+  commentId: M:GWin.Message.GSimple.Process(System.Byte[])
+  name.vb: Process(Byte())
+  fullName: GWin.Message.GSimple.Process(System.Byte[])
+  fullName.vb: GWin.Message.GSimple.Process(System.Byte())
+  nameWithType: GSimple.Process(Byte[])
+  nameWithType.vb: GSimple.Process(Byte())
+- uid: GWin.Message.GSimple.Process*
+  name: Process
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_Process_
+  commentId: Overload:GWin.Message.GSimple.Process
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.Process
+  nameWithType: GSimple.Process
+- uid: GWin.Message.GSimple.RaiseDataCached(GWin.Message.MessageContent{System.Byte,System.Byte})
+  name: RaiseDataCached(MessageContent<Byte, Byte>)
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_RaiseDataCached_GWin_Message_MessageContent_System_Byte_System_Byte__
+  commentId: M:GWin.Message.GSimple.RaiseDataCached(GWin.Message.MessageContent{System.Byte,System.Byte})
+  name.vb: RaiseDataCached(MessageContent(Of Byte, Byte))
+  fullName: GWin.Message.GSimple.RaiseDataCached(GWin.Message.MessageContent<System.Byte, System.Byte>)
+  fullName.vb: GWin.Message.GSimple.RaiseDataCached(GWin.Message.MessageContent(Of System.Byte, System.Byte))
+  nameWithType: GSimple.RaiseDataCached(MessageContent<Byte, Byte>)
+  nameWithType.vb: GSimple.RaiseDataCached(MessageContent(Of Byte, Byte))
+- uid: GWin.Message.GSimple.RaiseDataCached*
+  name: RaiseDataCached
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_RaiseDataCached_
+  commentId: Overload:GWin.Message.GSimple.RaiseDataCached
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.RaiseDataCached
+  nameWithType: GSimple.RaiseDataCached
+- uid: GWin.Message.GSimple.ReadContentList
+  name: ReadContentList
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_ReadContentList
+  commentId: P:GWin.Message.GSimple.ReadContentList
+  fullName: GWin.Message.GSimple.ReadContentList
+  nameWithType: GSimple.ReadContentList
+- uid: GWin.Message.GSimple.ReadContentList*
+  name: ReadContentList
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_ReadContentList_
+  commentId: Overload:GWin.Message.GSimple.ReadContentList
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.ReadContentList
+  nameWithType: GSimple.ReadContentList
+- uid: GWin.Message.GSimple.ReceiveEnd
+  name: ReceiveEnd
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_ReceiveEnd
+  commentId: P:GWin.Message.GSimple.ReceiveEnd
+  fullName: GWin.Message.GSimple.ReceiveEnd
+  nameWithType: GSimple.ReceiveEnd
+- uid: GWin.Message.GSimple.ReceiveEnd*
+  name: ReceiveEnd
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_ReceiveEnd_
+  commentId: Overload:GWin.Message.GSimple.ReceiveEnd
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.ReceiveEnd
+  nameWithType: GSimple.ReceiveEnd
+- uid: GWin.Message.GSimple.ReceiveStart
+  name: ReceiveStart
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_ReceiveStart
+  commentId: P:GWin.Message.GSimple.ReceiveStart
+  fullName: GWin.Message.GSimple.ReceiveStart
+  nameWithType: GSimple.ReceiveStart
+- uid: GWin.Message.GSimple.ReceiveStart*
+  name: ReceiveStart
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_ReceiveStart_
+  commentId: Overload:GWin.Message.GSimple.ReceiveStart
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.ReceiveStart
+  nameWithType: GSimple.ReceiveStart
+- uid: GWin.Message.GSimple.SendEnd
+  name: SendEnd
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_SendEnd
+  commentId: P:GWin.Message.GSimple.SendEnd
+  fullName: GWin.Message.GSimple.SendEnd
+  nameWithType: GSimple.SendEnd
+- uid: GWin.Message.GSimple.SendEnd*
+  name: SendEnd
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_SendEnd_
+  commentId: Overload:GWin.Message.GSimple.SendEnd
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.SendEnd
+  nameWithType: GSimple.SendEnd
+- uid: GWin.Message.GSimple.SendStart
+  name: SendStart
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_SendStart
+  commentId: P:GWin.Message.GSimple.SendStart
+  fullName: GWin.Message.GSimple.SendStart
+  nameWithType: GSimple.SendStart
+- uid: GWin.Message.GSimple.SendStart*
+  name: SendStart
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_SendStart_
+  commentId: Overload:GWin.Message.GSimple.SendStart
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.SendStart
+  nameWithType: GSimple.SendStart
+- uid: GWin.Message.GSimple.SetReadCommand(System.Collections.Generic.List{GWin.Message.MessageContentType{System.Byte}})
+  name: SetReadCommand(List<MessageContentType<Byte>>)
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_SetReadCommand_System_Collections_Generic_List_GWin_Message_MessageContentType_System_Byte___
+  commentId: M:GWin.Message.GSimple.SetReadCommand(System.Collections.Generic.List{GWin.Message.MessageContentType{System.Byte}})
+  name.vb: SetReadCommand(List(Of MessageContentType(Of Byte)))
+  fullName: GWin.Message.GSimple.SetReadCommand(System.Collections.Generic.List<GWin.Message.MessageContentType<System.Byte>>)
+  fullName.vb: GWin.Message.GSimple.SetReadCommand(System.Collections.Generic.List(Of GWin.Message.MessageContentType(Of System.Byte)))
+  nameWithType: GSimple.SetReadCommand(List<MessageContentType<Byte>>)
+  nameWithType.vb: GSimple.SetReadCommand(List(Of MessageContentType(Of Byte)))
+- uid: GWin.Message.GSimple.SetReadCommand*
+  name: SetReadCommand
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_SetReadCommand_
+  commentId: Overload:GWin.Message.GSimple.SetReadCommand
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.SetReadCommand
+  nameWithType: GSimple.SetReadCommand
+- uid: GWin.Message.GSimple.Write(GWin.Message.MessageContent{System.Byte,System.Byte})
+  name: Write(MessageContent<Byte, Byte>)
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_Write_GWin_Message_MessageContent_System_Byte_System_Byte__
+  commentId: M:GWin.Message.GSimple.Write(GWin.Message.MessageContent{System.Byte,System.Byte})
+  name.vb: Write(MessageContent(Of Byte, Byte))
+  fullName: GWin.Message.GSimple.Write(GWin.Message.MessageContent<System.Byte, System.Byte>)
+  fullName.vb: GWin.Message.GSimple.Write(GWin.Message.MessageContent(Of System.Byte, System.Byte))
+  nameWithType: GSimple.Write(MessageContent<Byte, Byte>)
+  nameWithType.vb: GSimple.Write(MessageContent(Of Byte, Byte))
+- uid: GWin.Message.GSimple.Write(System.Byte,System.Byte[])
+  name: Write(Byte, Byte[])
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_Write_System_Byte_System_Byte___
+  commentId: M:GWin.Message.GSimple.Write(System.Byte,System.Byte[])
+  name.vb: Write(Byte, Byte())
+  fullName: GWin.Message.GSimple.Write(System.Byte, System.Byte[])
+  fullName.vb: GWin.Message.GSimple.Write(System.Byte, System.Byte())
+  nameWithType: GSimple.Write(Byte, Byte[])
+  nameWithType.vb: GSimple.Write(Byte, Byte())
+- uid: GWin.Message.GSimple.Write*
+  name: Write
+  href: api/GWin.Message.GSimple.html#GWin_Message_GSimple_Write_
+  commentId: Overload:GWin.Message.GSimple.Write
+  isSpec: "True"
+  fullName: GWin.Message.GSimple.Write
+  nameWithType: GSimple.Write
+- uid: GWin.Message.IMessageType`2
+  name: IMessageType<AddressT, DataT>
+  href: api/GWin.Message.IMessageType-2.html
+  commentId: T:GWin.Message.IMessageType`2
+  name.vb: IMessageType(Of AddressT, DataT)
+  fullName: GWin.Message.IMessageType<AddressT, DataT>
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT)
+  nameWithType: IMessageType<AddressT, DataT>
+  nameWithType.vb: IMessageType(Of AddressT, DataT)
+- uid: GWin.Message.IMessageType`2.DataCached
+  name: DataCached
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_DataCached
+  commentId: E:GWin.Message.IMessageType`2.DataCached
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.DataCached
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).DataCached
+  nameWithType: IMessageType<AddressT, DataT>.DataCached
+  nameWithType.vb: IMessageType(Of AddressT, DataT).DataCached
+- uid: GWin.Message.IMessageType`2.Inquery(`0)
+  name: Inquery(AddressT)
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_Inquery__0_
+  commentId: M:GWin.Message.IMessageType`2.Inquery(`0)
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.Inquery(AddressT)
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).Inquery(AddressT)
+  nameWithType: IMessageType<AddressT, DataT>.Inquery(AddressT)
+  nameWithType.vb: IMessageType(Of AddressT, DataT).Inquery(AddressT)
+- uid: GWin.Message.IMessageType`2.Inquery*
+  name: Inquery
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_Inquery_
+  commentId: Overload:GWin.Message.IMessageType`2.Inquery
+  isSpec: "True"
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.Inquery
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).Inquery
+  nameWithType: IMessageType<AddressT, DataT>.Inquery
+  nameWithType.vb: IMessageType(Of AddressT, DataT).Inquery
+- uid: GWin.Message.IMessageType`2.Process(System.Byte[])
+  name: Process(Byte[])
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_Process_System_Byte___
+  commentId: M:GWin.Message.IMessageType`2.Process(System.Byte[])
+  name.vb: Process(Byte())
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.Process(System.Byte[])
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).Process(System.Byte())
+  nameWithType: IMessageType<AddressT, DataT>.Process(Byte[])
+  nameWithType.vb: IMessageType(Of AddressT, DataT).Process(Byte())
+- uid: GWin.Message.IMessageType`2.Process*
+  name: Process
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_Process_
+  commentId: Overload:GWin.Message.IMessageType`2.Process
+  isSpec: "True"
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.Process
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).Process
+  nameWithType: IMessageType<AddressT, DataT>.Process
+  nameWithType.vb: IMessageType(Of AddressT, DataT).Process
+- uid: GWin.Message.IMessageType`2.RaiseDataCached(GWin.Message.MessageContent{`0,`1})
+  name: RaiseDataCached(MessageContent<AddressT, DataT>)
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_RaiseDataCached_GWin_Message_MessageContent__0__1__
+  commentId: M:GWin.Message.IMessageType`2.RaiseDataCached(GWin.Message.MessageContent{`0,`1})
+  name.vb: RaiseDataCached(MessageContent(Of AddressT, DataT))
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.RaiseDataCached(GWin.Message.MessageContent<AddressT, DataT>)
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).RaiseDataCached(GWin.Message.MessageContent(Of AddressT, DataT))
+  nameWithType: IMessageType<AddressT, DataT>.RaiseDataCached(MessageContent<AddressT, DataT>)
+  nameWithType.vb: IMessageType(Of AddressT, DataT).RaiseDataCached(MessageContent(Of AddressT, DataT))
+- uid: GWin.Message.IMessageType`2.RaiseDataCached*
+  name: RaiseDataCached
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_RaiseDataCached_
+  commentId: Overload:GWin.Message.IMessageType`2.RaiseDataCached
+  isSpec: "True"
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.RaiseDataCached
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).RaiseDataCached
+  nameWithType: IMessageType<AddressT, DataT>.RaiseDataCached
+  nameWithType.vb: IMessageType(Of AddressT, DataT).RaiseDataCached
+- uid: GWin.Message.IMessageType`2.ReadContentList
+  name: ReadContentList
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_ReadContentList
+  commentId: P:GWin.Message.IMessageType`2.ReadContentList
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.ReadContentList
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).ReadContentList
+  nameWithType: IMessageType<AddressT, DataT>.ReadContentList
+  nameWithType.vb: IMessageType(Of AddressT, DataT).ReadContentList
+- uid: GWin.Message.IMessageType`2.ReadContentList*
+  name: ReadContentList
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_ReadContentList_
+  commentId: Overload:GWin.Message.IMessageType`2.ReadContentList
+  isSpec: "True"
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.ReadContentList
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).ReadContentList
+  nameWithType: IMessageType<AddressT, DataT>.ReadContentList
+  nameWithType.vb: IMessageType(Of AddressT, DataT).ReadContentList
+- uid: GWin.Message.IMessageType`2.ReceiveEnd
+  name: ReceiveEnd
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_ReceiveEnd
+  commentId: P:GWin.Message.IMessageType`2.ReceiveEnd
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.ReceiveEnd
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).ReceiveEnd
+  nameWithType: IMessageType<AddressT, DataT>.ReceiveEnd
+  nameWithType.vb: IMessageType(Of AddressT, DataT).ReceiveEnd
+- uid: GWin.Message.IMessageType`2.ReceiveEnd*
+  name: ReceiveEnd
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_ReceiveEnd_
+  commentId: Overload:GWin.Message.IMessageType`2.ReceiveEnd
+  isSpec: "True"
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.ReceiveEnd
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).ReceiveEnd
+  nameWithType: IMessageType<AddressT, DataT>.ReceiveEnd
+  nameWithType.vb: IMessageType(Of AddressT, DataT).ReceiveEnd
+- uid: GWin.Message.IMessageType`2.ReceiveStart
+  name: ReceiveStart
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_ReceiveStart
+  commentId: P:GWin.Message.IMessageType`2.ReceiveStart
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.ReceiveStart
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).ReceiveStart
+  nameWithType: IMessageType<AddressT, DataT>.ReceiveStart
+  nameWithType.vb: IMessageType(Of AddressT, DataT).ReceiveStart
+- uid: GWin.Message.IMessageType`2.ReceiveStart*
+  name: ReceiveStart
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_ReceiveStart_
+  commentId: Overload:GWin.Message.IMessageType`2.ReceiveStart
+  isSpec: "True"
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.ReceiveStart
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).ReceiveStart
+  nameWithType: IMessageType<AddressT, DataT>.ReceiveStart
+  nameWithType.vb: IMessageType(Of AddressT, DataT).ReceiveStart
+- uid: GWin.Message.IMessageType`2.SendEnd
+  name: SendEnd
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_SendEnd
+  commentId: P:GWin.Message.IMessageType`2.SendEnd
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.SendEnd
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).SendEnd
+  nameWithType: IMessageType<AddressT, DataT>.SendEnd
+  nameWithType.vb: IMessageType(Of AddressT, DataT).SendEnd
+- uid: GWin.Message.IMessageType`2.SendEnd*
+  name: SendEnd
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_SendEnd_
+  commentId: Overload:GWin.Message.IMessageType`2.SendEnd
+  isSpec: "True"
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.SendEnd
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).SendEnd
+  nameWithType: IMessageType<AddressT, DataT>.SendEnd
+  nameWithType.vb: IMessageType(Of AddressT, DataT).SendEnd
+- uid: GWin.Message.IMessageType`2.SendStart
+  name: SendStart
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_SendStart
+  commentId: P:GWin.Message.IMessageType`2.SendStart
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.SendStart
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).SendStart
+  nameWithType: IMessageType<AddressT, DataT>.SendStart
+  nameWithType.vb: IMessageType(Of AddressT, DataT).SendStart
+- uid: GWin.Message.IMessageType`2.SendStart*
+  name: SendStart
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_SendStart_
+  commentId: Overload:GWin.Message.IMessageType`2.SendStart
+  isSpec: "True"
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.SendStart
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).SendStart
+  nameWithType: IMessageType<AddressT, DataT>.SendStart
+  nameWithType.vb: IMessageType(Of AddressT, DataT).SendStart
+- uid: GWin.Message.IMessageType`2.SetReadCommand(System.Collections.Generic.List{GWin.Message.MessageContentType{`0}})
+  name: SetReadCommand(List<MessageContentType<AddressT>>)
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_SetReadCommand_System_Collections_Generic_List_GWin_Message_MessageContentType__0___
+  commentId: M:GWin.Message.IMessageType`2.SetReadCommand(System.Collections.Generic.List{GWin.Message.MessageContentType{`0}})
+  name.vb: SetReadCommand(List(Of MessageContentType(Of AddressT)))
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.SetReadCommand(System.Collections.Generic.List<GWin.Message.MessageContentType<AddressT>>)
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).SetReadCommand(System.Collections.Generic.List(Of GWin.Message.MessageContentType(Of AddressT)))
+  nameWithType: IMessageType<AddressT, DataT>.SetReadCommand(List<MessageContentType<AddressT>>)
+  nameWithType.vb: IMessageType(Of AddressT, DataT).SetReadCommand(List(Of MessageContentType(Of AddressT)))
+- uid: GWin.Message.IMessageType`2.SetReadCommand*
+  name: SetReadCommand
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_SetReadCommand_
+  commentId: Overload:GWin.Message.IMessageType`2.SetReadCommand
+  isSpec: "True"
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.SetReadCommand
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).SetReadCommand
+  nameWithType: IMessageType<AddressT, DataT>.SetReadCommand
+  nameWithType.vb: IMessageType(Of AddressT, DataT).SetReadCommand
+- uid: GWin.Message.IMessageType`2.Write(`0,System.Byte[])
+  name: Write(AddressT, Byte[])
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_Write__0_System_Byte___
+  commentId: M:GWin.Message.IMessageType`2.Write(`0,System.Byte[])
+  name.vb: Write(AddressT, Byte())
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.Write(AddressT, System.Byte[])
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).Write(AddressT, System.Byte())
+  nameWithType: IMessageType<AddressT, DataT>.Write(AddressT, Byte[])
+  nameWithType.vb: IMessageType(Of AddressT, DataT).Write(AddressT, Byte())
+- uid: GWin.Message.IMessageType`2.Write(GWin.Message.MessageContent{`0,`1})
+  name: Write(MessageContent<AddressT, DataT>)
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_Write_GWin_Message_MessageContent__0__1__
+  commentId: M:GWin.Message.IMessageType`2.Write(GWin.Message.MessageContent{`0,`1})
+  name.vb: Write(MessageContent(Of AddressT, DataT))
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.Write(GWin.Message.MessageContent<AddressT, DataT>)
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).Write(GWin.Message.MessageContent(Of AddressT, DataT))
+  nameWithType: IMessageType<AddressT, DataT>.Write(MessageContent<AddressT, DataT>)
+  nameWithType.vb: IMessageType(Of AddressT, DataT).Write(MessageContent(Of AddressT, DataT))
+- uid: GWin.Message.IMessageType`2.Write*
+  name: Write
+  href: api/GWin.Message.IMessageType-2.html#GWin_Message_IMessageType_2_Write_
+  commentId: Overload:GWin.Message.IMessageType`2.Write
+  isSpec: "True"
+  fullName: GWin.Message.IMessageType<AddressT, DataT>.Write
+  fullName.vb: GWin.Message.IMessageType(Of AddressT, DataT).Write
+  nameWithType: IMessageType<AddressT, DataT>.Write
+  nameWithType.vb: IMessageType(Of AddressT, DataT).Write
+- uid: GWin.Message.MessageContent`2
+  name: MessageContent<AddressT, DataT>
+  href: api/GWin.Message.MessageContent-2.html
+  commentId: T:GWin.Message.MessageContent`2
+  name.vb: MessageContent(Of AddressT, DataT)
+  fullName: GWin.Message.MessageContent<AddressT, DataT>
+  fullName.vb: GWin.Message.MessageContent(Of AddressT, DataT)
+  nameWithType: MessageContent<AddressT, DataT>
+  nameWithType.vb: MessageContent(Of AddressT, DataT)
+- uid: GWin.Message.MessageContent`2.#ctor
+  name: MessageContent()
+  href: api/GWin.Message.MessageContent-2.html#GWin_Message_MessageContent_2__ctor
+  commentId: M:GWin.Message.MessageContent`2.#ctor
+  fullName: GWin.Message.MessageContent<AddressT, DataT>.MessageContent()
+  fullName.vb: GWin.Message.MessageContent(Of AddressT, DataT).MessageContent()
+  nameWithType: MessageContent<AddressT, DataT>.MessageContent()
+  nameWithType.vb: MessageContent(Of AddressT, DataT).MessageContent()
+- uid: GWin.Message.MessageContent`2.#ctor(`0,System.Collections.Generic.List{`1})
+  name: MessageContent(AddressT, List<DataT>)
+  href: api/GWin.Message.MessageContent-2.html#GWin_Message_MessageContent_2__ctor__0_System_Collections_Generic_List__1__
+  commentId: M:GWin.Message.MessageContent`2.#ctor(`0,System.Collections.Generic.List{`1})
+  name.vb: MessageContent(AddressT, List(Of DataT))
+  fullName: GWin.Message.MessageContent<AddressT, DataT>.MessageContent(AddressT, System.Collections.Generic.List<DataT>)
+  fullName.vb: GWin.Message.MessageContent(Of AddressT, DataT).MessageContent(AddressT, System.Collections.Generic.List(Of DataT))
+  nameWithType: MessageContent<AddressT, DataT>.MessageContent(AddressT, List<DataT>)
+  nameWithType.vb: MessageContent(Of AddressT, DataT).MessageContent(AddressT, List(Of DataT))
+- uid: GWin.Message.MessageContent`2.#ctor(`0,System.Collections.Generic.List{`1},System.Int32)
+  name: MessageContent(AddressT, List<DataT>, Int32)
+  href: api/GWin.Message.MessageContent-2.html#GWin_Message_MessageContent_2__ctor__0_System_Collections_Generic_List__1__System_Int32_
+  commentId: M:GWin.Message.MessageContent`2.#ctor(`0,System.Collections.Generic.List{`1},System.Int32)
+  name.vb: MessageContent(AddressT, List(Of DataT), Int32)
+  fullName: GWin.Message.MessageContent<AddressT, DataT>.MessageContent(AddressT, System.Collections.Generic.List<DataT>, System.Int32)
+  fullName.vb: GWin.Message.MessageContent(Of AddressT, DataT).MessageContent(AddressT, System.Collections.Generic.List(Of DataT), System.Int32)
+  nameWithType: MessageContent<AddressT, DataT>.MessageContent(AddressT, List<DataT>, Int32)
+  nameWithType.vb: MessageContent(Of AddressT, DataT).MessageContent(AddressT, List(Of DataT), Int32)
+- uid: GWin.Message.MessageContent`2.#ctor*
+  name: MessageContent
+  href: api/GWin.Message.MessageContent-2.html#GWin_Message_MessageContent_2__ctor_
+  commentId: Overload:GWin.Message.MessageContent`2.#ctor
+  isSpec: "True"
+  fullName: GWin.Message.MessageContent<AddressT, DataT>.MessageContent
+  fullName.vb: GWin.Message.MessageContent(Of AddressT, DataT).MessageContent
+  nameWithType: MessageContent<AddressT, DataT>.MessageContent
+  nameWithType.vb: MessageContent(Of AddressT, DataT).MessageContent
+- uid: GWin.Message.MessageContent`2.Address
+  name: Address
+  href: api/GWin.Message.MessageContent-2.html#GWin_Message_MessageContent_2_Address
+  commentId: P:GWin.Message.MessageContent`2.Address
+  fullName: GWin.Message.MessageContent<AddressT, DataT>.Address
+  fullName.vb: GWin.Message.MessageContent(Of AddressT, DataT).Address
+  nameWithType: MessageContent<AddressT, DataT>.Address
+  nameWithType.vb: MessageContent(Of AddressT, DataT).Address
+- uid: GWin.Message.MessageContent`2.Address*
+  name: Address
+  href: api/GWin.Message.MessageContent-2.html#GWin_Message_MessageContent_2_Address_
+  commentId: Overload:GWin.Message.MessageContent`2.Address
+  isSpec: "True"
+  fullName: GWin.Message.MessageContent<AddressT, DataT>.Address
+  fullName.vb: GWin.Message.MessageContent(Of AddressT, DataT).Address
+  nameWithType: MessageContent<AddressT, DataT>.Address
+  nameWithType.vb: MessageContent(Of AddressT, DataT).Address
+- uid: GWin.Message.MessageContent`2.Data
+  name: Data
+  href: api/GWin.Message.MessageContent-2.html#GWin_Message_MessageContent_2_Data
+  commentId: P:GWin.Message.MessageContent`2.Data
+  fullName: GWin.Message.MessageContent<AddressT, DataT>.Data
+  fullName.vb: GWin.Message.MessageContent(Of AddressT, DataT).Data
+  nameWithType: MessageContent<AddressT, DataT>.Data
+  nameWithType.vb: MessageContent(Of AddressT, DataT).Data
+- uid: GWin.Message.MessageContent`2.Data*
+  name: Data
+  href: api/GWin.Message.MessageContent-2.html#GWin_Message_MessageContent_2_Data_
+  commentId: Overload:GWin.Message.MessageContent`2.Data
+  isSpec: "True"
+  fullName: GWin.Message.MessageContent<AddressT, DataT>.Data
+  fullName.vb: GWin.Message.MessageContent(Of AddressT, DataT).Data
+  nameWithType: MessageContent<AddressT, DataT>.Data
+  nameWithType.vb: MessageContent(Of AddressT, DataT).Data
+- uid: GWin.Message.MessageContent`2.DataCount
+  name: DataCount
+  href: api/GWin.Message.MessageContent-2.html#GWin_Message_MessageContent_2_DataCount
+  commentId: P:GWin.Message.MessageContent`2.DataCount
+  fullName: GWin.Message.MessageContent<AddressT, DataT>.DataCount
+  fullName.vb: GWin.Message.MessageContent(Of AddressT, DataT).DataCount
+  nameWithType: MessageContent<AddressT, DataT>.DataCount
+  nameWithType.vb: MessageContent(Of AddressT, DataT).DataCount
+- uid: GWin.Message.MessageContent`2.DataCount*
+  name: DataCount
+  href: api/GWin.Message.MessageContent-2.html#GWin_Message_MessageContent_2_DataCount_
+  commentId: Overload:GWin.Message.MessageContent`2.DataCount
+  isSpec: "True"
+  fullName: GWin.Message.MessageContent<AddressT, DataT>.DataCount
+  fullName.vb: GWin.Message.MessageContent(Of AddressT, DataT).DataCount
+  nameWithType: MessageContent<AddressT, DataT>.DataCount
+  nameWithType.vb: MessageContent(Of AddressT, DataT).DataCount
+- uid: GWin.Message.MessageContentType`1
+  name: MessageContentType<AddressT>
+  href: api/GWin.Message.MessageContentType-1.html
+  commentId: T:GWin.Message.MessageContentType`1
+  name.vb: MessageContentType(Of AddressT)
+  fullName: GWin.Message.MessageContentType<AddressT>
+  fullName.vb: GWin.Message.MessageContentType(Of AddressT)
+  nameWithType: MessageContentType<AddressT>
+  nameWithType.vb: MessageContentType(Of AddressT)
+- uid: GWin.Message.MessageContentType`1.#ctor
+  name: MessageContentType()
+  href: api/GWin.Message.MessageContentType-1.html#GWin_Message_MessageContentType_1__ctor
+  commentId: M:GWin.Message.MessageContentType`1.#ctor
+  fullName: GWin.Message.MessageContentType<AddressT>.MessageContentType()
+  fullName.vb: GWin.Message.MessageContentType(Of AddressT).MessageContentType()
+  nameWithType: MessageContentType<AddressT>.MessageContentType()
+  nameWithType.vb: MessageContentType(Of AddressT).MessageContentType()
+- uid: GWin.Message.MessageContentType`1.#ctor(`0,System.Int32)
+  name: MessageContentType(AddressT, Int32)
+  href: api/GWin.Message.MessageContentType-1.html#GWin_Message_MessageContentType_1__ctor__0_System_Int32_
+  commentId: M:GWin.Message.MessageContentType`1.#ctor(`0,System.Int32)
+  fullName: GWin.Message.MessageContentType<AddressT>.MessageContentType(AddressT, System.Int32)
+  fullName.vb: GWin.Message.MessageContentType(Of AddressT).MessageContentType(AddressT, System.Int32)
+  nameWithType: MessageContentType<AddressT>.MessageContentType(AddressT, Int32)
+  nameWithType.vb: MessageContentType(Of AddressT).MessageContentType(AddressT, Int32)
+- uid: GWin.Message.MessageContentType`1.#ctor*
+  name: MessageContentType
+  href: api/GWin.Message.MessageContentType-1.html#GWin_Message_MessageContentType_1__ctor_
+  commentId: Overload:GWin.Message.MessageContentType`1.#ctor
+  isSpec: "True"
+  fullName: GWin.Message.MessageContentType<AddressT>.MessageContentType
+  fullName.vb: GWin.Message.MessageContentType(Of AddressT).MessageContentType
+  nameWithType: MessageContentType<AddressT>.MessageContentType
+  nameWithType.vb: MessageContentType(Of AddressT).MessageContentType
+- uid: GWin.Message.MessageContentType`1.Address
+  name: Address
+  href: api/GWin.Message.MessageContentType-1.html#GWin_Message_MessageContentType_1_Address
+  commentId: P:GWin.Message.MessageContentType`1.Address
+  fullName: GWin.Message.MessageContentType<AddressT>.Address
+  fullName.vb: GWin.Message.MessageContentType(Of AddressT).Address
+  nameWithType: MessageContentType<AddressT>.Address
+  nameWithType.vb: MessageContentType(Of AddressT).Address
+- uid: GWin.Message.MessageContentType`1.Address*
+  name: Address
+  href: api/GWin.Message.MessageContentType-1.html#GWin_Message_MessageContentType_1_Address_
+  commentId: Overload:GWin.Message.MessageContentType`1.Address
+  isSpec: "True"
+  fullName: GWin.Message.MessageContentType<AddressT>.Address
+  fullName.vb: GWin.Message.MessageContentType(Of AddressT).Address
+  nameWithType: MessageContentType<AddressT>.Address
+  nameWithType.vb: MessageContentType(Of AddressT).Address
+- uid: GWin.Message.MessageContentType`1.ContentLength
+  name: ContentLength
+  href: api/GWin.Message.MessageContentType-1.html#GWin_Message_MessageContentType_1_ContentLength
+  commentId: P:GWin.Message.MessageContentType`1.ContentLength
+  fullName: GWin.Message.MessageContentType<AddressT>.ContentLength
+  fullName.vb: GWin.Message.MessageContentType(Of AddressT).ContentLength
+  nameWithType: MessageContentType<AddressT>.ContentLength
+  nameWithType.vb: MessageContentType(Of AddressT).ContentLength
+- uid: GWin.Message.MessageContentType`1.ContentLength*
+  name: ContentLength
+  href: api/GWin.Message.MessageContentType-1.html#GWin_Message_MessageContentType_1_ContentLength_
+  commentId: Overload:GWin.Message.MessageContentType`1.ContentLength
+  isSpec: "True"
+  fullName: GWin.Message.MessageContentType<AddressT>.ContentLength
+  fullName.vb: GWin.Message.MessageContentType(Of AddressT).ContentLength
+  nameWithType: MessageContentType<AddressT>.ContentLength
+  nameWithType.vb: MessageContentType(Of AddressT).ContentLength
+- uid: GWin.MessageArgs
+  name: MessageArgs
+  href: api/GWin.MessageArgs.html
+  commentId: T:GWin.MessageArgs
+  fullName: GWin.MessageArgs
+  nameWithType: MessageArgs
+- uid: GWin.MessageArgs.#ctor
+  name: MessageArgs()
+  href: api/GWin.MessageArgs.html#GWin_MessageArgs__ctor
+  commentId: M:GWin.MessageArgs.#ctor
+  fullName: GWin.MessageArgs.MessageArgs()
+  nameWithType: MessageArgs.MessageArgs()
+- uid: GWin.MessageArgs.#ctor(System.Boolean,System.Object)
+  name: MessageArgs(Boolean, Object)
+  href: api/GWin.MessageArgs.html#GWin_MessageArgs__ctor_System_Boolean_System_Object_
+  commentId: M:GWin.MessageArgs.#ctor(System.Boolean,System.Object)
+  fullName: GWin.MessageArgs.MessageArgs(System.Boolean, System.Object)
+  nameWithType: MessageArgs.MessageArgs(Boolean, Object)
+- uid: GWin.MessageArgs.#ctor*
+  name: MessageArgs
+  href: api/GWin.MessageArgs.html#GWin_MessageArgs__ctor_
+  commentId: Overload:GWin.MessageArgs.#ctor
+  isSpec: "True"
+  fullName: GWin.MessageArgs.MessageArgs
+  nameWithType: MessageArgs.MessageArgs
+- uid: GWin.MessageArgs.Message
+  name: Message
+  href: api/GWin.MessageArgs.html#GWin_MessageArgs_Message
+  commentId: P:GWin.MessageArgs.Message
+  fullName: GWin.MessageArgs.Message
+  nameWithType: MessageArgs.Message
+- uid: GWin.MessageArgs.Message*
+  name: Message
+  href: api/GWin.MessageArgs.html#GWin_MessageArgs_Message_
+  commentId: Overload:GWin.MessageArgs.Message
+  isSpec: "True"
+  fullName: GWin.MessageArgs.Message
+  nameWithType: MessageArgs.Message
+- uid: GWin.MessageArgs.Succeed
+  name: Succeed
+  href: api/GWin.MessageArgs.html#GWin_MessageArgs_Succeed
+  commentId: P:GWin.MessageArgs.Succeed
+  fullName: GWin.MessageArgs.Succeed
+  nameWithType: MessageArgs.Succeed
+- uid: GWin.MessageArgs.Succeed*
+  name: Succeed
+  href: api/GWin.MessageArgs.html#GWin_MessageArgs_Succeed_
+  commentId: Overload:GWin.MessageArgs.Succeed
+  isSpec: "True"
+  fullName: GWin.MessageArgs.Succeed
+  nameWithType: MessageArgs.Succeed
+- uid: GWin.MessageArgs.Success
+  name: Success
+  href: api/GWin.MessageArgs.html#GWin_MessageArgs_Success
+  commentId: P:GWin.MessageArgs.Success
+  fullName: GWin.MessageArgs.Success
+  nameWithType: MessageArgs.Success
+- uid: GWin.MessageArgs.Success*
+  name: Success
+  href: api/GWin.MessageArgs.html#GWin_MessageArgs_Success_
+  commentId: Overload:GWin.MessageArgs.Success
+  isSpec: "True"
+  fullName: GWin.MessageArgs.Success
+  nameWithType: MessageArgs.Success
+- uid: GWin.Net
+  name: GWin.Net
+  href: api/GWin.Net.html
+  commentId: N:GWin.Net
+  fullName: GWin.Net
+  nameWithType: GWin.Net
+- uid: GWin.Net.Common
+  name: Common
+  href: api/GWin.Net.Common.html
+  commentId: T:GWin.Net.Common
+  fullName: GWin.Net.Common
+  nameWithType: Common
+- uid: GWin.Net.Common.GetLocalIpList
+  name: GetLocalIpList()
+  href: api/GWin.Net.Common.html#GWin_Net_Common_GetLocalIpList
+  commentId: M:GWin.Net.Common.GetLocalIpList
+  fullName: GWin.Net.Common.GetLocalIpList()
+  nameWithType: Common.GetLocalIpList()
+- uid: GWin.Net.Common.GetLocalIpList*
+  name: GetLocalIpList
+  href: api/GWin.Net.Common.html#GWin_Net_Common_GetLocalIpList_
+  commentId: Overload:GWin.Net.Common.GetLocalIpList
+  isSpec: "True"
+  fullName: GWin.Net.Common.GetLocalIpList
+  nameWithType: Common.GetLocalIpList
+- uid: GWin.Net.Common.VerifyInputIp(System.String)
+  name: VerifyInputIp(String)
+  href: api/GWin.Net.Common.html#GWin_Net_Common_VerifyInputIp_System_String_
+  commentId: M:GWin.Net.Common.VerifyInputIp(System.String)
+  fullName: GWin.Net.Common.VerifyInputIp(System.String)
+  nameWithType: Common.VerifyInputIp(String)
+- uid: GWin.Net.Common.VerifyInputIp*
+  name: VerifyInputIp
+  href: api/GWin.Net.Common.html#GWin_Net_Common_VerifyInputIp_
+  commentId: Overload:GWin.Net.Common.VerifyInputIp
+  isSpec: "True"
+  fullName: GWin.Net.Common.VerifyInputIp
+  nameWithType: Common.VerifyInputIp
+- uid: GWin.Net.Common.VerifyInputPort(System.String)
+  name: VerifyInputPort(String)
+  href: api/GWin.Net.Common.html#GWin_Net_Common_VerifyInputPort_System_String_
+  commentId: M:GWin.Net.Common.VerifyInputPort(System.String)
+  fullName: GWin.Net.Common.VerifyInputPort(System.String)
+  nameWithType: Common.VerifyInputPort(String)
+- uid: GWin.Net.Common.VerifyInputPort*
+  name: VerifyInputPort
+  href: api/GWin.Net.Common.html#GWin_Net_Common_VerifyInputPort_
+  commentId: Overload:GWin.Net.Common.VerifyInputPort
+  isSpec: "True"
+  fullName: GWin.Net.Common.VerifyInputPort
+  nameWithType: Common.VerifyInputPort
+- uid: GWin.Net.TcpClient
+  name: TcpClient
+  href: api/GWin.Net.TcpClient.html
+  commentId: T:GWin.Net.TcpClient
+  fullName: GWin.Net.TcpClient
+  nameWithType: TcpClient
+- uid: GWin.Net.TcpClient.#ctor(System.Net.IPAddress,System.Int32)
+  name: TcpClient(IPAddress, Int32)
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient__ctor_System_Net_IPAddress_System_Int32_
+  commentId: M:GWin.Net.TcpClient.#ctor(System.Net.IPAddress,System.Int32)
+  fullName: GWin.Net.TcpClient.TcpClient(System.Net.IPAddress, System.Int32)
+  nameWithType: TcpClient.TcpClient(IPAddress, Int32)
+- uid: GWin.Net.TcpClient.#ctor(System.Net.IPAddress,System.Int32,System.Net.IPAddress,System.Int32)
+  name: TcpClient(IPAddress, Int32, IPAddress, Int32)
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient__ctor_System_Net_IPAddress_System_Int32_System_Net_IPAddress_System_Int32_
+  commentId: M:GWin.Net.TcpClient.#ctor(System.Net.IPAddress,System.Int32,System.Net.IPAddress,System.Int32)
+  fullName: GWin.Net.TcpClient.TcpClient(System.Net.IPAddress, System.Int32, System.Net.IPAddress, System.Int32)
+  nameWithType: TcpClient.TcpClient(IPAddress, Int32, IPAddress, Int32)
+- uid: GWin.Net.TcpClient.#ctor*
+  name: TcpClient
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient__ctor_
+  commentId: Overload:GWin.Net.TcpClient.#ctor
+  isSpec: "True"
+  fullName: GWin.Net.TcpClient.TcpClient
+  nameWithType: TcpClient.TcpClient
+- uid: GWin.Net.TcpClient.Connect
+  name: Connect()
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_Connect
+  commentId: M:GWin.Net.TcpClient.Connect
+  fullName: GWin.Net.TcpClient.Connect()
+  nameWithType: TcpClient.Connect()
+- uid: GWin.Net.TcpClient.Connect*
+  name: Connect
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_Connect_
+  commentId: Overload:GWin.Net.TcpClient.Connect
+  isSpec: "True"
+  fullName: GWin.Net.TcpClient.Connect
+  nameWithType: TcpClient.Connect
+- uid: GWin.Net.TcpClient.Connected
+  name: Connected
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_Connected
+  commentId: E:GWin.Net.TcpClient.Connected
+  fullName: GWin.Net.TcpClient.Connected
+  nameWithType: TcpClient.Connected
+- uid: GWin.Net.TcpClient.DataReceived
+  name: DataReceived
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_DataReceived
+  commentId: E:GWin.Net.TcpClient.DataReceived
+  fullName: GWin.Net.TcpClient.DataReceived
+  nameWithType: TcpClient.DataReceived
+- uid: GWin.Net.TcpClient.Disconected
+  name: Disconected
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_Disconected
+  commentId: E:GWin.Net.TcpClient.Disconected
+  fullName: GWin.Net.TcpClient.Disconected
+  nameWithType: TcpClient.Disconected
+- uid: GWin.Net.TcpClient.Dispose
+  name: Dispose()
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_Dispose
+  commentId: M:GWin.Net.TcpClient.Dispose
+  fullName: GWin.Net.TcpClient.Dispose()
+  nameWithType: TcpClient.Dispose()
+- uid: GWin.Net.TcpClient.Dispose*
+  name: Dispose
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_Dispose_
+  commentId: Overload:GWin.Net.TcpClient.Dispose
+  isSpec: "True"
+  fullName: GWin.Net.TcpClient.Dispose
+  nameWithType: TcpClient.Dispose
+- uid: GWin.Net.TcpClient.IsRunning
+  name: IsRunning
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_IsRunning
+  commentId: P:GWin.Net.TcpClient.IsRunning
+  fullName: GWin.Net.TcpClient.IsRunning
+  nameWithType: TcpClient.IsRunning
+- uid: GWin.Net.TcpClient.IsRunning*
+  name: IsRunning
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_IsRunning_
+  commentId: Overload:GWin.Net.TcpClient.IsRunning
+  isSpec: "True"
+  fullName: GWin.Net.TcpClient.IsRunning
+  nameWithType: TcpClient.IsRunning
+- uid: GWin.Net.TcpClient.LocalAddress
+  name: LocalAddress
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_LocalAddress
+  commentId: P:GWin.Net.TcpClient.LocalAddress
+  fullName: GWin.Net.TcpClient.LocalAddress
+  nameWithType: TcpClient.LocalAddress
+- uid: GWin.Net.TcpClient.LocalAddress*
+  name: LocalAddress
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_LocalAddress_
+  commentId: Overload:GWin.Net.TcpClient.LocalAddress
+  isSpec: "True"
+  fullName: GWin.Net.TcpClient.LocalAddress
+  nameWithType: TcpClient.LocalAddress
+- uid: GWin.Net.TcpClient.LocalPort
+  name: LocalPort
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_LocalPort
+  commentId: P:GWin.Net.TcpClient.LocalPort
+  fullName: GWin.Net.TcpClient.LocalPort
+  nameWithType: TcpClient.LocalPort
+- uid: GWin.Net.TcpClient.LocalPort*
+  name: LocalPort
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_LocalPort_
+  commentId: Overload:GWin.Net.TcpClient.LocalPort
+  isSpec: "True"
+  fullName: GWin.Net.TcpClient.LocalPort
+  nameWithType: TcpClient.LocalPort
+- uid: GWin.Net.TcpClient.RemoteAddress
+  name: RemoteAddress
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_RemoteAddress
+  commentId: P:GWin.Net.TcpClient.RemoteAddress
+  fullName: GWin.Net.TcpClient.RemoteAddress
+  nameWithType: TcpClient.RemoteAddress
+- uid: GWin.Net.TcpClient.RemoteAddress*
+  name: RemoteAddress
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_RemoteAddress_
+  commentId: Overload:GWin.Net.TcpClient.RemoteAddress
+  isSpec: "True"
+  fullName: GWin.Net.TcpClient.RemoteAddress
+  nameWithType: TcpClient.RemoteAddress
+- uid: GWin.Net.TcpClient.RemotePort
+  name: RemotePort
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_RemotePort
+  commentId: P:GWin.Net.TcpClient.RemotePort
+  fullName: GWin.Net.TcpClient.RemotePort
+  nameWithType: TcpClient.RemotePort
+- uid: GWin.Net.TcpClient.RemotePort*
+  name: RemotePort
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_RemotePort_
+  commentId: Overload:GWin.Net.TcpClient.RemotePort
+  isSpec: "True"
+  fullName: GWin.Net.TcpClient.RemotePort
+  nameWithType: TcpClient.RemotePort
+- uid: GWin.Net.TcpClient.Send(System.Byte[])
+  name: Send(Byte[])
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_Send_System_Byte___
+  commentId: M:GWin.Net.TcpClient.Send(System.Byte[])
+  name.vb: Send(Byte())
+  fullName: GWin.Net.TcpClient.Send(System.Byte[])
+  fullName.vb: GWin.Net.TcpClient.Send(System.Byte())
+  nameWithType: TcpClient.Send(Byte[])
+  nameWithType.vb: TcpClient.Send(Byte())
+- uid: GWin.Net.TcpClient.Send*
+  name: Send
+  href: api/GWin.Net.TcpClient.html#GWin_Net_TcpClient_Send_
+  commentId: Overload:GWin.Net.TcpClient.Send
+  isSpec: "True"
+  fullName: GWin.Net.TcpClient.Send
+  nameWithType: TcpClient.Send
+- uid: GWin.Net.TcpClientDataReceivedArgs
+  name: TcpClientDataReceivedArgs
+  href: api/GWin.Net.TcpClientDataReceivedArgs.html
+  commentId: T:GWin.Net.TcpClientDataReceivedArgs
+  fullName: GWin.Net.TcpClientDataReceivedArgs
+  nameWithType: TcpClientDataReceivedArgs
+- uid: GWin.Net.TcpClientDataReceivedArgs.#ctor(System.Net.IPEndPoint,System.Byte[])
+  name: TcpClientDataReceivedArgs(IPEndPoint, Byte[])
+  href: api/GWin.Net.TcpClientDataReceivedArgs.html#GWin_Net_TcpClientDataReceivedArgs__ctor_System_Net_IPEndPoint_System_Byte___
+  commentId: M:GWin.Net.TcpClientDataReceivedArgs.#ctor(System.Net.IPEndPoint,System.Byte[])
+  name.vb: TcpClientDataReceivedArgs(IPEndPoint, Byte())
+  fullName: GWin.Net.TcpClientDataReceivedArgs.TcpClientDataReceivedArgs(System.Net.IPEndPoint, System.Byte[])
+  fullName.vb: GWin.Net.TcpClientDataReceivedArgs.TcpClientDataReceivedArgs(System.Net.IPEndPoint, System.Byte())
+  nameWithType: TcpClientDataReceivedArgs.TcpClientDataReceivedArgs(IPEndPoint, Byte[])
+  nameWithType.vb: TcpClientDataReceivedArgs.TcpClientDataReceivedArgs(IPEndPoint, Byte())
+- uid: GWin.Net.TcpClientDataReceivedArgs.#ctor*
+  name: TcpClientDataReceivedArgs
+  href: api/GWin.Net.TcpClientDataReceivedArgs.html#GWin_Net_TcpClientDataReceivedArgs__ctor_
+  commentId: Overload:GWin.Net.TcpClientDataReceivedArgs.#ctor
+  isSpec: "True"
+  fullName: GWin.Net.TcpClientDataReceivedArgs.TcpClientDataReceivedArgs
+  nameWithType: TcpClientDataReceivedArgs.TcpClientDataReceivedArgs
+- uid: GWin.Net.TcpClientDataReceivedArgs.BytesToRead
+  name: BytesToRead
+  href: api/GWin.Net.TcpClientDataReceivedArgs.html#GWin_Net_TcpClientDataReceivedArgs_BytesToRead
+  commentId: P:GWin.Net.TcpClientDataReceivedArgs.BytesToRead
+  fullName: GWin.Net.TcpClientDataReceivedArgs.BytesToRead
+  nameWithType: TcpClientDataReceivedArgs.BytesToRead
+- uid: GWin.Net.TcpClientDataReceivedArgs.BytesToRead*
+  name: BytesToRead
+  href: api/GWin.Net.TcpClientDataReceivedArgs.html#GWin_Net_TcpClientDataReceivedArgs_BytesToRead_
+  commentId: Overload:GWin.Net.TcpClientDataReceivedArgs.BytesToRead
+  isSpec: "True"
+  fullName: GWin.Net.TcpClientDataReceivedArgs.BytesToRead
+  nameWithType: TcpClientDataReceivedArgs.BytesToRead
+- uid: GWin.Net.TcpClientDataReceivedArgs.ReceivedBuffer
+  name: ReceivedBuffer
+  href: api/GWin.Net.TcpClientDataReceivedArgs.html#GWin_Net_TcpClientDataReceivedArgs_ReceivedBuffer
+  commentId: P:GWin.Net.TcpClientDataReceivedArgs.ReceivedBuffer
+  fullName: GWin.Net.TcpClientDataReceivedArgs.ReceivedBuffer
+  nameWithType: TcpClientDataReceivedArgs.ReceivedBuffer
+- uid: GWin.Net.TcpClientDataReceivedArgs.ReceivedBuffer*
+  name: ReceivedBuffer
+  href: api/GWin.Net.TcpClientDataReceivedArgs.html#GWin_Net_TcpClientDataReceivedArgs_ReceivedBuffer_
+  commentId: Overload:GWin.Net.TcpClientDataReceivedArgs.ReceivedBuffer
+  isSpec: "True"
+  fullName: GWin.Net.TcpClientDataReceivedArgs.ReceivedBuffer
+  nameWithType: TcpClientDataReceivedArgs.ReceivedBuffer
+- uid: GWin.Net.TcpClientDataReceivedArgs.RemoteHost
+  name: RemoteHost
+  href: api/GWin.Net.TcpClientDataReceivedArgs.html#GWin_Net_TcpClientDataReceivedArgs_RemoteHost
+  commentId: P:GWin.Net.TcpClientDataReceivedArgs.RemoteHost
+  fullName: GWin.Net.TcpClientDataReceivedArgs.RemoteHost
+  nameWithType: TcpClientDataReceivedArgs.RemoteHost
+- uid: GWin.Net.TcpClientDataReceivedArgs.RemoteHost*
+  name: RemoteHost
+  href: api/GWin.Net.TcpClientDataReceivedArgs.html#GWin_Net_TcpClientDataReceivedArgs_RemoteHost_
+  commentId: Overload:GWin.Net.TcpClientDataReceivedArgs.RemoteHost
+  isSpec: "True"
+  fullName: GWin.Net.TcpClientDataReceivedArgs.RemoteHost
+  nameWithType: TcpClientDataReceivedArgs.RemoteHost
+- uid: GWin.Net.TcpClientDataReceivedArgs.RemotePort
+  name: RemotePort
+  href: api/GWin.Net.TcpClientDataReceivedArgs.html#GWin_Net_TcpClientDataReceivedArgs_RemotePort
+  commentId: P:GWin.Net.TcpClientDataReceivedArgs.RemotePort
+  fullName: GWin.Net.TcpClientDataReceivedArgs.RemotePort
+  nameWithType: TcpClientDataReceivedArgs.RemotePort
+- uid: GWin.Net.TcpClientDataReceivedArgs.RemotePort*
+  name: RemotePort
+  href: api/GWin.Net.TcpClientDataReceivedArgs.html#GWin_Net_TcpClientDataReceivedArgs_RemotePort_
+  commentId: Overload:GWin.Net.TcpClientDataReceivedArgs.RemotePort
+  isSpec: "True"
+  fullName: GWin.Net.TcpClientDataReceivedArgs.RemotePort
+  nameWithType: TcpClientDataReceivedArgs.RemotePort
+- uid: GWin.Net.TcpServer
+  name: TcpServer
+  href: api/GWin.Net.TcpServer.html
+  commentId: T:GWin.Net.TcpServer
+  fullName: GWin.Net.TcpServer
+  nameWithType: TcpServer
+- uid: GWin.Net.TcpServer.#ctor(System.Int32)
+  name: TcpServer(Int32)
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer__ctor_System_Int32_
+  commentId: M:GWin.Net.TcpServer.#ctor(System.Int32)
+  fullName: GWin.Net.TcpServer.TcpServer(System.Int32)
+  nameWithType: TcpServer.TcpServer(Int32)
+- uid: GWin.Net.TcpServer.#ctor(System.Net.IPAddress,System.Int32)
+  name: TcpServer(IPAddress, Int32)
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer__ctor_System_Net_IPAddress_System_Int32_
+  commentId: M:GWin.Net.TcpServer.#ctor(System.Net.IPAddress,System.Int32)
+  fullName: GWin.Net.TcpServer.TcpServer(System.Net.IPAddress, System.Int32)
+  nameWithType: TcpServer.TcpServer(IPAddress, Int32)
+- uid: GWin.Net.TcpServer.#ctor*
+  name: TcpServer
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer__ctor_
+  commentId: Overload:GWin.Net.TcpServer.#ctor
+  isSpec: "True"
+  fullName: GWin.Net.TcpServer.TcpServer
+  nameWithType: TcpServer.TcpServer
+- uid: GWin.Net.TcpServer.ClientConnected
+  name: ClientConnected
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_ClientConnected
+  commentId: E:GWin.Net.TcpServer.ClientConnected
+  fullName: GWin.Net.TcpServer.ClientConnected
+  nameWithType: TcpServer.ClientConnected
+- uid: GWin.Net.TcpServer.ClientDisconnected
+  name: ClientDisconnected
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_ClientDisconnected
+  commentId: E:GWin.Net.TcpServer.ClientDisconnected
+  fullName: GWin.Net.TcpServer.ClientDisconnected
+  nameWithType: TcpServer.ClientDisconnected
+- uid: GWin.Net.TcpServer.ClientList
+  name: ClientList
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_ClientList
+  commentId: P:GWin.Net.TcpServer.ClientList
+  fullName: GWin.Net.TcpServer.ClientList
+  nameWithType: TcpServer.ClientList
+- uid: GWin.Net.TcpServer.ClientList*
+  name: ClientList
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_ClientList_
+  commentId: Overload:GWin.Net.TcpServer.ClientList
+  isSpec: "True"
+  fullName: GWin.Net.TcpServer.ClientList
+  nameWithType: TcpServer.ClientList
+- uid: GWin.Net.TcpServer.DataReceived
+  name: DataReceived
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_DataReceived
+  commentId: E:GWin.Net.TcpServer.DataReceived
+  fullName: GWin.Net.TcpServer.DataReceived
+  nameWithType: TcpServer.DataReceived
+- uid: GWin.Net.TcpServer.Dispose
+  name: Dispose()
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_Dispose
+  commentId: M:GWin.Net.TcpServer.Dispose
+  fullName: GWin.Net.TcpServer.Dispose()
+  nameWithType: TcpServer.Dispose()
+- uid: GWin.Net.TcpServer.Dispose*
+  name: Dispose
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_Dispose_
+  commentId: Overload:GWin.Net.TcpServer.Dispose
+  isSpec: "True"
+  fullName: GWin.Net.TcpServer.Dispose
+  nameWithType: TcpServer.Dispose
+- uid: GWin.Net.TcpServer.IsRunning
+  name: IsRunning
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_IsRunning
+  commentId: P:GWin.Net.TcpServer.IsRunning
+  fullName: GWin.Net.TcpServer.IsRunning
+  nameWithType: TcpServer.IsRunning
+- uid: GWin.Net.TcpServer.IsRunning*
+  name: IsRunning
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_IsRunning_
+  commentId: Overload:GWin.Net.TcpServer.IsRunning
+  isSpec: "True"
+  fullName: GWin.Net.TcpServer.IsRunning
+  nameWithType: TcpServer.IsRunning
+- uid: GWin.Net.TcpServer.LocalAddress
+  name: LocalAddress
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_LocalAddress
+  commentId: P:GWin.Net.TcpServer.LocalAddress
+  fullName: GWin.Net.TcpServer.LocalAddress
+  nameWithType: TcpServer.LocalAddress
+- uid: GWin.Net.TcpServer.LocalAddress*
+  name: LocalAddress
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_LocalAddress_
+  commentId: Overload:GWin.Net.TcpServer.LocalAddress
+  isSpec: "True"
+  fullName: GWin.Net.TcpServer.LocalAddress
+  nameWithType: TcpServer.LocalAddress
+- uid: GWin.Net.TcpServer.LocalPort
+  name: LocalPort
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_LocalPort
+  commentId: P:GWin.Net.TcpServer.LocalPort
+  fullName: GWin.Net.TcpServer.LocalPort
+  nameWithType: TcpServer.LocalPort
+- uid: GWin.Net.TcpServer.LocalPort*
+  name: LocalPort
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_LocalPort_
+  commentId: Overload:GWin.Net.TcpServer.LocalPort
+  isSpec: "True"
+  fullName: GWin.Net.TcpServer.LocalPort
+  nameWithType: TcpServer.LocalPort
+- uid: GWin.Net.TcpServer.Send(System.Byte[],GWin.Net.TcpClient)
+  name: Send(Byte[], TcpClient)
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_Send_System_Byte___GWin_Net_TcpClient_
+  commentId: M:GWin.Net.TcpServer.Send(System.Byte[],GWin.Net.TcpClient)
+  name.vb: Send(Byte(), TcpClient)
+  fullName: GWin.Net.TcpServer.Send(System.Byte[], GWin.Net.TcpClient)
+  fullName.vb: GWin.Net.TcpServer.Send(System.Byte(), GWin.Net.TcpClient)
+  nameWithType: TcpServer.Send(Byte[], TcpClient)
+  nameWithType.vb: TcpServer.Send(Byte(), TcpClient)
+- uid: GWin.Net.TcpServer.Send(System.Byte[],System.Net.IPAddress,System.Int32)
+  name: Send(Byte[], IPAddress, Int32)
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_Send_System_Byte___System_Net_IPAddress_System_Int32_
+  commentId: M:GWin.Net.TcpServer.Send(System.Byte[],System.Net.IPAddress,System.Int32)
+  name.vb: Send(Byte(), IPAddress, Int32)
+  fullName: GWin.Net.TcpServer.Send(System.Byte[], System.Net.IPAddress, System.Int32)
+  fullName.vb: GWin.Net.TcpServer.Send(System.Byte(), System.Net.IPAddress, System.Int32)
+  nameWithType: TcpServer.Send(Byte[], IPAddress, Int32)
+  nameWithType.vb: TcpServer.Send(Byte(), IPAddress, Int32)
+- uid: GWin.Net.TcpServer.Send(System.Byte[],System.Net.IPEndPoint)
+  name: Send(Byte[], IPEndPoint)
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_Send_System_Byte___System_Net_IPEndPoint_
+  commentId: M:GWin.Net.TcpServer.Send(System.Byte[],System.Net.IPEndPoint)
+  name.vb: Send(Byte(), IPEndPoint)
+  fullName: GWin.Net.TcpServer.Send(System.Byte[], System.Net.IPEndPoint)
+  fullName.vb: GWin.Net.TcpServer.Send(System.Byte(), System.Net.IPEndPoint)
+  nameWithType: TcpServer.Send(Byte[], IPEndPoint)
+  nameWithType.vb: TcpServer.Send(Byte(), IPEndPoint)
+- uid: GWin.Net.TcpServer.Send*
+  name: Send
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_Send_
+  commentId: Overload:GWin.Net.TcpServer.Send
+  isSpec: "True"
+  fullName: GWin.Net.TcpServer.Send
+  nameWithType: TcpServer.Send
+- uid: GWin.Net.TcpServer.Start
+  name: Start()
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_Start
+  commentId: M:GWin.Net.TcpServer.Start
+  fullName: GWin.Net.TcpServer.Start()
+  nameWithType: TcpServer.Start()
+- uid: GWin.Net.TcpServer.Start*
+  name: Start
+  href: api/GWin.Net.TcpServer.html#GWin_Net_TcpServer_Start_
+  commentId: Overload:GWin.Net.TcpServer.Start
+  isSpec: "True"
+  fullName: GWin.Net.TcpServer.Start
+  nameWithType: TcpServer.Start
+- uid: GWin.Net.TcpServerClientConnectdArgs
+  name: TcpServerClientConnectdArgs
+  href: api/GWin.Net.TcpServerClientConnectdArgs.html
+  commentId: T:GWin.Net.TcpServerClientConnectdArgs
+  fullName: GWin.Net.TcpServerClientConnectdArgs
+  nameWithType: TcpServerClientConnectdArgs
+- uid: GWin.Net.TcpServerClientConnectdArgs.#ctor(System.Net.IPEndPoint)
+  name: TcpServerClientConnectdArgs(IPEndPoint)
+  href: api/GWin.Net.TcpServerClientConnectdArgs.html#GWin_Net_TcpServerClientConnectdArgs__ctor_System_Net_IPEndPoint_
+  commentId: M:GWin.Net.TcpServerClientConnectdArgs.#ctor(System.Net.IPEndPoint)
+  fullName: GWin.Net.TcpServerClientConnectdArgs.TcpServerClientConnectdArgs(System.Net.IPEndPoint)
+  nameWithType: TcpServerClientConnectdArgs.TcpServerClientConnectdArgs(IPEndPoint)
+- uid: GWin.Net.TcpServerClientConnectdArgs.#ctor*
+  name: TcpServerClientConnectdArgs
+  href: api/GWin.Net.TcpServerClientConnectdArgs.html#GWin_Net_TcpServerClientConnectdArgs__ctor_
+  commentId: Overload:GWin.Net.TcpServerClientConnectdArgs.#ctor
+  isSpec: "True"
+  fullName: GWin.Net.TcpServerClientConnectdArgs.TcpServerClientConnectdArgs
+  nameWithType: TcpServerClientConnectdArgs.TcpServerClientConnectdArgs
+- uid: GWin.Net.TcpServerClientConnectdArgs.RemoteHost
+  name: RemoteHost
+  href: api/GWin.Net.TcpServerClientConnectdArgs.html#GWin_Net_TcpServerClientConnectdArgs_RemoteHost
+  commentId: P:GWin.Net.TcpServerClientConnectdArgs.RemoteHost
+  fullName: GWin.Net.TcpServerClientConnectdArgs.RemoteHost
+  nameWithType: TcpServerClientConnectdArgs.RemoteHost
+- uid: GWin.Net.TcpServerClientConnectdArgs.RemoteHost*
+  name: RemoteHost
+  href: api/GWin.Net.TcpServerClientConnectdArgs.html#GWin_Net_TcpServerClientConnectdArgs_RemoteHost_
+  commentId: Overload:GWin.Net.TcpServerClientConnectdArgs.RemoteHost
+  isSpec: "True"
+  fullName: GWin.Net.TcpServerClientConnectdArgs.RemoteHost
+  nameWithType: TcpServerClientConnectdArgs.RemoteHost
+- uid: GWin.Net.TcpServerClientConnectdArgs.RemotePort
+  name: RemotePort
+  href: api/GWin.Net.TcpServerClientConnectdArgs.html#GWin_Net_TcpServerClientConnectdArgs_RemotePort
+  commentId: P:GWin.Net.TcpServerClientConnectdArgs.RemotePort
+  fullName: GWin.Net.TcpServerClientConnectdArgs.RemotePort
+  nameWithType: TcpServerClientConnectdArgs.RemotePort
+- uid: GWin.Net.TcpServerClientConnectdArgs.RemotePort*
+  name: RemotePort
+  href: api/GWin.Net.TcpServerClientConnectdArgs.html#GWin_Net_TcpServerClientConnectdArgs_RemotePort_
+  commentId: Overload:GWin.Net.TcpServerClientConnectdArgs.RemotePort
+  isSpec: "True"
+  fullName: GWin.Net.TcpServerClientConnectdArgs.RemotePort
+  nameWithType: TcpServerClientConnectdArgs.RemotePort
+- uid: GWin.Net.TcpServerClientDisconnectdArgs
+  name: TcpServerClientDisconnectdArgs
+  href: api/GWin.Net.TcpServerClientDisconnectdArgs.html
+  commentId: T:GWin.Net.TcpServerClientDisconnectdArgs
+  fullName: GWin.Net.TcpServerClientDisconnectdArgs
+  nameWithType: TcpServerClientDisconnectdArgs
+- uid: GWin.Net.TcpServerClientDisconnectdArgs.#ctor(System.Net.IPEndPoint)
+  name: TcpServerClientDisconnectdArgs(IPEndPoint)
+  href: api/GWin.Net.TcpServerClientDisconnectdArgs.html#GWin_Net_TcpServerClientDisconnectdArgs__ctor_System_Net_IPEndPoint_
+  commentId: M:GWin.Net.TcpServerClientDisconnectdArgs.#ctor(System.Net.IPEndPoint)
+  fullName: GWin.Net.TcpServerClientDisconnectdArgs.TcpServerClientDisconnectdArgs(System.Net.IPEndPoint)
+  nameWithType: TcpServerClientDisconnectdArgs.TcpServerClientDisconnectdArgs(IPEndPoint)
+- uid: GWin.Net.TcpServerClientDisconnectdArgs.#ctor*
+  name: TcpServerClientDisconnectdArgs
+  href: api/GWin.Net.TcpServerClientDisconnectdArgs.html#GWin_Net_TcpServerClientDisconnectdArgs__ctor_
+  commentId: Overload:GWin.Net.TcpServerClientDisconnectdArgs.#ctor
+  isSpec: "True"
+  fullName: GWin.Net.TcpServerClientDisconnectdArgs.TcpServerClientDisconnectdArgs
+  nameWithType: TcpServerClientDisconnectdArgs.TcpServerClientDisconnectdArgs
+- uid: GWin.Net.TcpServerClientDisconnectdArgs.RemoteHost
+  name: RemoteHost
+  href: api/GWin.Net.TcpServerClientDisconnectdArgs.html#GWin_Net_TcpServerClientDisconnectdArgs_RemoteHost
+  commentId: P:GWin.Net.TcpServerClientDisconnectdArgs.RemoteHost
+  fullName: GWin.Net.TcpServerClientDisconnectdArgs.RemoteHost
+  nameWithType: TcpServerClientDisconnectdArgs.RemoteHost
+- uid: GWin.Net.TcpServerClientDisconnectdArgs.RemoteHost*
+  name: RemoteHost
+  href: api/GWin.Net.TcpServerClientDisconnectdArgs.html#GWin_Net_TcpServerClientDisconnectdArgs_RemoteHost_
+  commentId: Overload:GWin.Net.TcpServerClientDisconnectdArgs.RemoteHost
+  isSpec: "True"
+  fullName: GWin.Net.TcpServerClientDisconnectdArgs.RemoteHost
+  nameWithType: TcpServerClientDisconnectdArgs.RemoteHost
+- uid: GWin.Net.TcpServerClientDisconnectdArgs.RemotePort
+  name: RemotePort
+  href: api/GWin.Net.TcpServerClientDisconnectdArgs.html#GWin_Net_TcpServerClientDisconnectdArgs_RemotePort
+  commentId: P:GWin.Net.TcpServerClientDisconnectdArgs.RemotePort
+  fullName: GWin.Net.TcpServerClientDisconnectdArgs.RemotePort
+  nameWithType: TcpServerClientDisconnectdArgs.RemotePort
+- uid: GWin.Net.TcpServerClientDisconnectdArgs.RemotePort*
+  name: RemotePort
+  href: api/GWin.Net.TcpServerClientDisconnectdArgs.html#GWin_Net_TcpServerClientDisconnectdArgs_RemotePort_
+  commentId: Overload:GWin.Net.TcpServerClientDisconnectdArgs.RemotePort
+  isSpec: "True"
+  fullName: GWin.Net.TcpServerClientDisconnectdArgs.RemotePort
+  nameWithType: TcpServerClientDisconnectdArgs.RemotePort
+- uid: GWin.Net.TcpServerDataReceivedArgs
+  name: TcpServerDataReceivedArgs
+  href: api/GWin.Net.TcpServerDataReceivedArgs.html
+  commentId: T:GWin.Net.TcpServerDataReceivedArgs
+  fullName: GWin.Net.TcpServerDataReceivedArgs
+  nameWithType: TcpServerDataReceivedArgs
+- uid: GWin.Net.TcpServerDataReceivedArgs.#ctor(System.Net.IPEndPoint,System.Byte[])
+  name: TcpServerDataReceivedArgs(IPEndPoint, Byte[])
+  href: api/GWin.Net.TcpServerDataReceivedArgs.html#GWin_Net_TcpServerDataReceivedArgs__ctor_System_Net_IPEndPoint_System_Byte___
+  commentId: M:GWin.Net.TcpServerDataReceivedArgs.#ctor(System.Net.IPEndPoint,System.Byte[])
+  name.vb: TcpServerDataReceivedArgs(IPEndPoint, Byte())
+  fullName: GWin.Net.TcpServerDataReceivedArgs.TcpServerDataReceivedArgs(System.Net.IPEndPoint, System.Byte[])
+  fullName.vb: GWin.Net.TcpServerDataReceivedArgs.TcpServerDataReceivedArgs(System.Net.IPEndPoint, System.Byte())
+  nameWithType: TcpServerDataReceivedArgs.TcpServerDataReceivedArgs(IPEndPoint, Byte[])
+  nameWithType.vb: TcpServerDataReceivedArgs.TcpServerDataReceivedArgs(IPEndPoint, Byte())
+- uid: GWin.Net.TcpServerDataReceivedArgs.#ctor*
+  name: TcpServerDataReceivedArgs
+  href: api/GWin.Net.TcpServerDataReceivedArgs.html#GWin_Net_TcpServerDataReceivedArgs__ctor_
+  commentId: Overload:GWin.Net.TcpServerDataReceivedArgs.#ctor
+  isSpec: "True"
+  fullName: GWin.Net.TcpServerDataReceivedArgs.TcpServerDataReceivedArgs
+  nameWithType: TcpServerDataReceivedArgs.TcpServerDataReceivedArgs
+- uid: GWin.Net.TcpServerDataReceivedArgs.BytesToRead
+  name: BytesToRead
+  href: api/GWin.Net.TcpServerDataReceivedArgs.html#GWin_Net_TcpServerDataReceivedArgs_BytesToRead
+  commentId: P:GWin.Net.TcpServerDataReceivedArgs.BytesToRead
+  fullName: GWin.Net.TcpServerDataReceivedArgs.BytesToRead
+  nameWithType: TcpServerDataReceivedArgs.BytesToRead
+- uid: GWin.Net.TcpServerDataReceivedArgs.BytesToRead*
+  name: BytesToRead
+  href: api/GWin.Net.TcpServerDataReceivedArgs.html#GWin_Net_TcpServerDataReceivedArgs_BytesToRead_
+  commentId: Overload:GWin.Net.TcpServerDataReceivedArgs.BytesToRead
+  isSpec: "True"
+  fullName: GWin.Net.TcpServerDataReceivedArgs.BytesToRead
+  nameWithType: TcpServerDataReceivedArgs.BytesToRead
+- uid: GWin.Net.TcpServerDataReceivedArgs.ReceivedBuffer
+  name: ReceivedBuffer
+  href: api/GWin.Net.TcpServerDataReceivedArgs.html#GWin_Net_TcpServerDataReceivedArgs_ReceivedBuffer
+  commentId: P:GWin.Net.TcpServerDataReceivedArgs.ReceivedBuffer
+  fullName: GWin.Net.TcpServerDataReceivedArgs.ReceivedBuffer
+  nameWithType: TcpServerDataReceivedArgs.ReceivedBuffer
+- uid: GWin.Net.TcpServerDataReceivedArgs.ReceivedBuffer*
+  name: ReceivedBuffer
+  href: api/GWin.Net.TcpServerDataReceivedArgs.html#GWin_Net_TcpServerDataReceivedArgs_ReceivedBuffer_
+  commentId: Overload:GWin.Net.TcpServerDataReceivedArgs.ReceivedBuffer
+  isSpec: "True"
+  fullName: GWin.Net.TcpServerDataReceivedArgs.ReceivedBuffer
+  nameWithType: TcpServerDataReceivedArgs.ReceivedBuffer
+- uid: GWin.Net.TcpServerDataReceivedArgs.RemoteHost
+  name: RemoteHost
+  href: api/GWin.Net.TcpServerDataReceivedArgs.html#GWin_Net_TcpServerDataReceivedArgs_RemoteHost
+  commentId: P:GWin.Net.TcpServerDataReceivedArgs.RemoteHost
+  fullName: GWin.Net.TcpServerDataReceivedArgs.RemoteHost
+  nameWithType: TcpServerDataReceivedArgs.RemoteHost
+- uid: GWin.Net.TcpServerDataReceivedArgs.RemoteHost*
+  name: RemoteHost
+  href: api/GWin.Net.TcpServerDataReceivedArgs.html#GWin_Net_TcpServerDataReceivedArgs_RemoteHost_
+  commentId: Overload:GWin.Net.TcpServerDataReceivedArgs.RemoteHost
+  isSpec: "True"
+  fullName: GWin.Net.TcpServerDataReceivedArgs.RemoteHost
+  nameWithType: TcpServerDataReceivedArgs.RemoteHost
+- uid: GWin.Net.TcpServerDataReceivedArgs.RemotePort
+  name: RemotePort
+  href: api/GWin.Net.TcpServerDataReceivedArgs.html#GWin_Net_TcpServerDataReceivedArgs_RemotePort
+  commentId: P:GWin.Net.TcpServerDataReceivedArgs.RemotePort
+  fullName: GWin.Net.TcpServerDataReceivedArgs.RemotePort
+  nameWithType: TcpServerDataReceivedArgs.RemotePort
+- uid: GWin.Net.TcpServerDataReceivedArgs.RemotePort*
+  name: RemotePort
+  href: api/GWin.Net.TcpServerDataReceivedArgs.html#GWin_Net_TcpServerDataReceivedArgs_RemotePort_
+  commentId: Overload:GWin.Net.TcpServerDataReceivedArgs.RemotePort
+  isSpec: "True"
+  fullName: GWin.Net.TcpServerDataReceivedArgs.RemotePort
+  nameWithType: TcpServerDataReceivedArgs.RemotePort
+- uid: GWin.Net.UdpClient
+  name: UdpClient
+  href: api/GWin.Net.UdpClient.html
+  commentId: T:GWin.Net.UdpClient
+  fullName: GWin.Net.UdpClient
+  nameWithType: UdpClient
+- uid: GWin.Net.UdpClient.#ctor(System.Net.IPAddress,System.Int32)
+  name: UdpClient(IPAddress, Int32)
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient__ctor_System_Net_IPAddress_System_Int32_
+  commentId: M:GWin.Net.UdpClient.#ctor(System.Net.IPAddress,System.Int32)
+  fullName: GWin.Net.UdpClient.UdpClient(System.Net.IPAddress, System.Int32)
+  nameWithType: UdpClient.UdpClient(IPAddress, Int32)
+- uid: GWin.Net.UdpClient.#ctor(System.Net.IPAddress,System.Int32,System.Net.IPAddress,System.Int32)
+  name: UdpClient(IPAddress, Int32, IPAddress, Int32)
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient__ctor_System_Net_IPAddress_System_Int32_System_Net_IPAddress_System_Int32_
+  commentId: M:GWin.Net.UdpClient.#ctor(System.Net.IPAddress,System.Int32,System.Net.IPAddress,System.Int32)
+  fullName: GWin.Net.UdpClient.UdpClient(System.Net.IPAddress, System.Int32, System.Net.IPAddress, System.Int32)
+  nameWithType: UdpClient.UdpClient(IPAddress, Int32, IPAddress, Int32)
+- uid: GWin.Net.UdpClient.#ctor*
+  name: UdpClient
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient__ctor_
+  commentId: Overload:GWin.Net.UdpClient.#ctor
+  isSpec: "True"
+  fullName: GWin.Net.UdpClient.UdpClient
+  nameWithType: UdpClient.UdpClient
+- uid: GWin.Net.UdpClient.Connect
+  name: Connect()
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_Connect
+  commentId: M:GWin.Net.UdpClient.Connect
+  fullName: GWin.Net.UdpClient.Connect()
+  nameWithType: UdpClient.Connect()
+- uid: GWin.Net.UdpClient.Connect*
+  name: Connect
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_Connect_
+  commentId: Overload:GWin.Net.UdpClient.Connect
+  isSpec: "True"
+  fullName: GWin.Net.UdpClient.Connect
+  nameWithType: UdpClient.Connect
+- uid: GWin.Net.UdpClient.DataReceived
+  name: DataReceived
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_DataReceived
+  commentId: E:GWin.Net.UdpClient.DataReceived
+  fullName: GWin.Net.UdpClient.DataReceived
+  nameWithType: UdpClient.DataReceived
+- uid: GWin.Net.UdpClient.Dispose
+  name: Dispose()
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_Dispose
+  commentId: M:GWin.Net.UdpClient.Dispose
+  fullName: GWin.Net.UdpClient.Dispose()
+  nameWithType: UdpClient.Dispose()
+- uid: GWin.Net.UdpClient.Dispose*
+  name: Dispose
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_Dispose_
+  commentId: Overload:GWin.Net.UdpClient.Dispose
+  isSpec: "True"
+  fullName: GWin.Net.UdpClient.Dispose
+  nameWithType: UdpClient.Dispose
+- uid: GWin.Net.UdpClient.IsRunning
+  name: IsRunning
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_IsRunning
+  commentId: P:GWin.Net.UdpClient.IsRunning
+  fullName: GWin.Net.UdpClient.IsRunning
+  nameWithType: UdpClient.IsRunning
+- uid: GWin.Net.UdpClient.IsRunning*
+  name: IsRunning
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_IsRunning_
+  commentId: Overload:GWin.Net.UdpClient.IsRunning
+  isSpec: "True"
+  fullName: GWin.Net.UdpClient.IsRunning
+  nameWithType: UdpClient.IsRunning
+- uid: GWin.Net.UdpClient.LocalAddress
+  name: LocalAddress
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_LocalAddress
+  commentId: P:GWin.Net.UdpClient.LocalAddress
+  fullName: GWin.Net.UdpClient.LocalAddress
+  nameWithType: UdpClient.LocalAddress
+- uid: GWin.Net.UdpClient.LocalAddress*
+  name: LocalAddress
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_LocalAddress_
+  commentId: Overload:GWin.Net.UdpClient.LocalAddress
+  isSpec: "True"
+  fullName: GWin.Net.UdpClient.LocalAddress
+  nameWithType: UdpClient.LocalAddress
+- uid: GWin.Net.UdpClient.LocalPort
+  name: LocalPort
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_LocalPort
+  commentId: P:GWin.Net.UdpClient.LocalPort
+  fullName: GWin.Net.UdpClient.LocalPort
+  nameWithType: UdpClient.LocalPort
+- uid: GWin.Net.UdpClient.LocalPort*
+  name: LocalPort
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_LocalPort_
+  commentId: Overload:GWin.Net.UdpClient.LocalPort
+  isSpec: "True"
+  fullName: GWin.Net.UdpClient.LocalPort
+  nameWithType: UdpClient.LocalPort
+- uid: GWin.Net.UdpClient.RemoteAddress
+  name: RemoteAddress
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_RemoteAddress
+  commentId: P:GWin.Net.UdpClient.RemoteAddress
+  fullName: GWin.Net.UdpClient.RemoteAddress
+  nameWithType: UdpClient.RemoteAddress
+- uid: GWin.Net.UdpClient.RemoteAddress*
+  name: RemoteAddress
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_RemoteAddress_
+  commentId: Overload:GWin.Net.UdpClient.RemoteAddress
+  isSpec: "True"
+  fullName: GWin.Net.UdpClient.RemoteAddress
+  nameWithType: UdpClient.RemoteAddress
+- uid: GWin.Net.UdpClient.RemotePort
+  name: RemotePort
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_RemotePort
+  commentId: P:GWin.Net.UdpClient.RemotePort
+  fullName: GWin.Net.UdpClient.RemotePort
+  nameWithType: UdpClient.RemotePort
+- uid: GWin.Net.UdpClient.RemotePort*
+  name: RemotePort
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_RemotePort_
+  commentId: Overload:GWin.Net.UdpClient.RemotePort
+  isSpec: "True"
+  fullName: GWin.Net.UdpClient.RemotePort
+  nameWithType: UdpClient.RemotePort
+- uid: GWin.Net.UdpClient.Send(System.Byte[])
+  name: Send(Byte[])
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_Send_System_Byte___
+  commentId: M:GWin.Net.UdpClient.Send(System.Byte[])
+  name.vb: Send(Byte())
+  fullName: GWin.Net.UdpClient.Send(System.Byte[])
+  fullName.vb: GWin.Net.UdpClient.Send(System.Byte())
+  nameWithType: UdpClient.Send(Byte[])
+  nameWithType.vb: UdpClient.Send(Byte())
+- uid: GWin.Net.UdpClient.Send*
+  name: Send
+  href: api/GWin.Net.UdpClient.html#GWin_Net_UdpClient_Send_
+  commentId: Overload:GWin.Net.UdpClient.Send
+  isSpec: "True"
+  fullName: GWin.Net.UdpClient.Send
+  nameWithType: UdpClient.Send
+- uid: GWin.Net.UdpClientDataReceivedArgs
+  name: UdpClientDataReceivedArgs
+  href: api/GWin.Net.UdpClientDataReceivedArgs.html
+  commentId: T:GWin.Net.UdpClientDataReceivedArgs
+  fullName: GWin.Net.UdpClientDataReceivedArgs
+  nameWithType: UdpClientDataReceivedArgs
+- uid: GWin.Net.UdpClientDataReceivedArgs.#ctor(System.Net.IPEndPoint,System.Byte[])
+  name: UdpClientDataReceivedArgs(IPEndPoint, Byte[])
+  href: api/GWin.Net.UdpClientDataReceivedArgs.html#GWin_Net_UdpClientDataReceivedArgs__ctor_System_Net_IPEndPoint_System_Byte___
+  commentId: M:GWin.Net.UdpClientDataReceivedArgs.#ctor(System.Net.IPEndPoint,System.Byte[])
+  name.vb: UdpClientDataReceivedArgs(IPEndPoint, Byte())
+  fullName: GWin.Net.UdpClientDataReceivedArgs.UdpClientDataReceivedArgs(System.Net.IPEndPoint, System.Byte[])
+  fullName.vb: GWin.Net.UdpClientDataReceivedArgs.UdpClientDataReceivedArgs(System.Net.IPEndPoint, System.Byte())
+  nameWithType: UdpClientDataReceivedArgs.UdpClientDataReceivedArgs(IPEndPoint, Byte[])
+  nameWithType.vb: UdpClientDataReceivedArgs.UdpClientDataReceivedArgs(IPEndPoint, Byte())
+- uid: GWin.Net.UdpClientDataReceivedArgs.#ctor*
+  name: UdpClientDataReceivedArgs
+  href: api/GWin.Net.UdpClientDataReceivedArgs.html#GWin_Net_UdpClientDataReceivedArgs__ctor_
+  commentId: Overload:GWin.Net.UdpClientDataReceivedArgs.#ctor
+  isSpec: "True"
+  fullName: GWin.Net.UdpClientDataReceivedArgs.UdpClientDataReceivedArgs
+  nameWithType: UdpClientDataReceivedArgs.UdpClientDataReceivedArgs
+- uid: GWin.Net.UdpClientDataReceivedArgs.BytesToRead
+  name: BytesToRead
+  href: api/GWin.Net.UdpClientDataReceivedArgs.html#GWin_Net_UdpClientDataReceivedArgs_BytesToRead
+  commentId: P:GWin.Net.UdpClientDataReceivedArgs.BytesToRead
+  fullName: GWin.Net.UdpClientDataReceivedArgs.BytesToRead
+  nameWithType: UdpClientDataReceivedArgs.BytesToRead
+- uid: GWin.Net.UdpClientDataReceivedArgs.BytesToRead*
+  name: BytesToRead
+  href: api/GWin.Net.UdpClientDataReceivedArgs.html#GWin_Net_UdpClientDataReceivedArgs_BytesToRead_
+  commentId: Overload:GWin.Net.UdpClientDataReceivedArgs.BytesToRead
+  isSpec: "True"
+  fullName: GWin.Net.UdpClientDataReceivedArgs.BytesToRead
+  nameWithType: UdpClientDataReceivedArgs.BytesToRead
+- uid: GWin.Net.UdpClientDataReceivedArgs.ReceivedBuffer
+  name: ReceivedBuffer
+  href: api/GWin.Net.UdpClientDataReceivedArgs.html#GWin_Net_UdpClientDataReceivedArgs_ReceivedBuffer
+  commentId: P:GWin.Net.UdpClientDataReceivedArgs.ReceivedBuffer
+  fullName: GWin.Net.UdpClientDataReceivedArgs.ReceivedBuffer
+  nameWithType: UdpClientDataReceivedArgs.ReceivedBuffer
+- uid: GWin.Net.UdpClientDataReceivedArgs.ReceivedBuffer*
+  name: ReceivedBuffer
+  href: api/GWin.Net.UdpClientDataReceivedArgs.html#GWin_Net_UdpClientDataReceivedArgs_ReceivedBuffer_
+  commentId: Overload:GWin.Net.UdpClientDataReceivedArgs.ReceivedBuffer
+  isSpec: "True"
+  fullName: GWin.Net.UdpClientDataReceivedArgs.ReceivedBuffer
+  nameWithType: UdpClientDataReceivedArgs.ReceivedBuffer
+- uid: GWin.Net.UdpClientDataReceivedArgs.RemoteHost
+  name: RemoteHost
+  href: api/GWin.Net.UdpClientDataReceivedArgs.html#GWin_Net_UdpClientDataReceivedArgs_RemoteHost
+  commentId: P:GWin.Net.UdpClientDataReceivedArgs.RemoteHost
+  fullName: GWin.Net.UdpClientDataReceivedArgs.RemoteHost
+  nameWithType: UdpClientDataReceivedArgs.RemoteHost
+- uid: GWin.Net.UdpClientDataReceivedArgs.RemoteHost*
+  name: RemoteHost
+  href: api/GWin.Net.UdpClientDataReceivedArgs.html#GWin_Net_UdpClientDataReceivedArgs_RemoteHost_
+  commentId: Overload:GWin.Net.UdpClientDataReceivedArgs.RemoteHost
+  isSpec: "True"
+  fullName: GWin.Net.UdpClientDataReceivedArgs.RemoteHost
+  nameWithType: UdpClientDataReceivedArgs.RemoteHost
+- uid: GWin.Net.UdpClientDataReceivedArgs.RemotePort
+  name: RemotePort
+  href: api/GWin.Net.UdpClientDataReceivedArgs.html#GWin_Net_UdpClientDataReceivedArgs_RemotePort
+  commentId: P:GWin.Net.UdpClientDataReceivedArgs.RemotePort
+  fullName: GWin.Net.UdpClientDataReceivedArgs.RemotePort
+  nameWithType: UdpClientDataReceivedArgs.RemotePort
+- uid: GWin.Net.UdpClientDataReceivedArgs.RemotePort*
+  name: RemotePort
+  href: api/GWin.Net.UdpClientDataReceivedArgs.html#GWin_Net_UdpClientDataReceivedArgs_RemotePort_
+  commentId: Overload:GWin.Net.UdpClientDataReceivedArgs.RemotePort
+  isSpec: "True"
+  fullName: GWin.Net.UdpClientDataReceivedArgs.RemotePort
+  nameWithType: UdpClientDataReceivedArgs.RemotePort
+- uid: GWin.Net.UdpServer
+  name: UdpServer
+  href: api/GWin.Net.UdpServer.html
+  commentId: T:GWin.Net.UdpServer
+  fullName: GWin.Net.UdpServer
+  nameWithType: UdpServer
+- uid: GWin.Net.UdpServer.#ctor(System.Int32)
+  name: UdpServer(Int32)
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer__ctor_System_Int32_
+  commentId: M:GWin.Net.UdpServer.#ctor(System.Int32)
+  fullName: GWin.Net.UdpServer.UdpServer(System.Int32)
+  nameWithType: UdpServer.UdpServer(Int32)
+- uid: GWin.Net.UdpServer.#ctor(System.Net.IPAddress,System.Int32)
+  name: UdpServer(IPAddress, Int32)
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer__ctor_System_Net_IPAddress_System_Int32_
+  commentId: M:GWin.Net.UdpServer.#ctor(System.Net.IPAddress,System.Int32)
+  fullName: GWin.Net.UdpServer.UdpServer(System.Net.IPAddress, System.Int32)
+  nameWithType: UdpServer.UdpServer(IPAddress, Int32)
+- uid: GWin.Net.UdpServer.#ctor*
+  name: UdpServer
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer__ctor_
+  commentId: Overload:GWin.Net.UdpServer.#ctor
+  isSpec: "True"
+  fullName: GWin.Net.UdpServer.UdpServer
+  nameWithType: UdpServer.UdpServer
+- uid: GWin.Net.UdpServer.DataReceived
+  name: DataReceived
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_DataReceived
+  commentId: E:GWin.Net.UdpServer.DataReceived
+  fullName: GWin.Net.UdpServer.DataReceived
+  nameWithType: UdpServer.DataReceived
+- uid: GWin.Net.UdpServer.Dispose
+  name: Dispose()
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_Dispose
+  commentId: M:GWin.Net.UdpServer.Dispose
+  fullName: GWin.Net.UdpServer.Dispose()
+  nameWithType: UdpServer.Dispose()
+- uid: GWin.Net.UdpServer.Dispose*
+  name: Dispose
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_Dispose_
+  commentId: Overload:GWin.Net.UdpServer.Dispose
+  isSpec: "True"
+  fullName: GWin.Net.UdpServer.Dispose
+  nameWithType: UdpServer.Dispose
+- uid: GWin.Net.UdpServer.IsRunning
+  name: IsRunning
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_IsRunning
+  commentId: P:GWin.Net.UdpServer.IsRunning
+  fullName: GWin.Net.UdpServer.IsRunning
+  nameWithType: UdpServer.IsRunning
+- uid: GWin.Net.UdpServer.IsRunning*
+  name: IsRunning
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_IsRunning_
+  commentId: Overload:GWin.Net.UdpServer.IsRunning
+  isSpec: "True"
+  fullName: GWin.Net.UdpServer.IsRunning
+  nameWithType: UdpServer.IsRunning
+- uid: GWin.Net.UdpServer.LocalAddress
+  name: LocalAddress
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_LocalAddress
+  commentId: P:GWin.Net.UdpServer.LocalAddress
+  fullName: GWin.Net.UdpServer.LocalAddress
+  nameWithType: UdpServer.LocalAddress
+- uid: GWin.Net.UdpServer.LocalAddress*
+  name: LocalAddress
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_LocalAddress_
+  commentId: Overload:GWin.Net.UdpServer.LocalAddress
+  isSpec: "True"
+  fullName: GWin.Net.UdpServer.LocalAddress
+  nameWithType: UdpServer.LocalAddress
+- uid: GWin.Net.UdpServer.Port
+  name: Port
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_Port
+  commentId: P:GWin.Net.UdpServer.Port
+  fullName: GWin.Net.UdpServer.Port
+  nameWithType: UdpServer.Port
+- uid: GWin.Net.UdpServer.Port*
+  name: Port
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_Port_
+  commentId: Overload:GWin.Net.UdpServer.Port
+  isSpec: "True"
+  fullName: GWin.Net.UdpServer.Port
+  nameWithType: UdpServer.Port
+- uid: GWin.Net.UdpServer.Send(System.Byte[],System.Net.IPEndPoint)
+  name: Send(Byte[], IPEndPoint)
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_Send_System_Byte___System_Net_IPEndPoint_
+  commentId: M:GWin.Net.UdpServer.Send(System.Byte[],System.Net.IPEndPoint)
+  name.vb: Send(Byte(), IPEndPoint)
+  fullName: GWin.Net.UdpServer.Send(System.Byte[], System.Net.IPEndPoint)
+  fullName.vb: GWin.Net.UdpServer.Send(System.Byte(), System.Net.IPEndPoint)
+  nameWithType: UdpServer.Send(Byte[], IPEndPoint)
+  nameWithType.vb: UdpServer.Send(Byte(), IPEndPoint)
+- uid: GWin.Net.UdpServer.Send*
+  name: Send
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_Send_
+  commentId: Overload:GWin.Net.UdpServer.Send
+  isSpec: "True"
+  fullName: GWin.Net.UdpServer.Send
+  nameWithType: UdpServer.Send
+- uid: GWin.Net.UdpServer.Start
+  name: Start()
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_Start
+  commentId: M:GWin.Net.UdpServer.Start
+  fullName: GWin.Net.UdpServer.Start()
+  nameWithType: UdpServer.Start()
+- uid: GWin.Net.UdpServer.Start*
+  name: Start
+  href: api/GWin.Net.UdpServer.html#GWin_Net_UdpServer_Start_
+  commentId: Overload:GWin.Net.UdpServer.Start
+  isSpec: "True"
+  fullName: GWin.Net.UdpServer.Start
+  nameWithType: UdpServer.Start
+- uid: GWin.Net.UdpServerDataReceivedArgs
+  name: UdpServerDataReceivedArgs
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html
+  commentId: T:GWin.Net.UdpServerDataReceivedArgs
+  fullName: GWin.Net.UdpServerDataReceivedArgs
+  nameWithType: UdpServerDataReceivedArgs
+- uid: GWin.Net.UdpServerDataReceivedArgs.#ctor(System.Net.IPAddress,System.Int32,System.Int32,System.Byte[])
+  name: UdpServerDataReceivedArgs(IPAddress, Int32, Int32, Byte[])
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html#GWin_Net_UdpServerDataReceivedArgs__ctor_System_Net_IPAddress_System_Int32_System_Int32_System_Byte___
+  commentId: M:GWin.Net.UdpServerDataReceivedArgs.#ctor(System.Net.IPAddress,System.Int32,System.Int32,System.Byte[])
+  name.vb: UdpServerDataReceivedArgs(IPAddress, Int32, Int32, Byte())
+  fullName: GWin.Net.UdpServerDataReceivedArgs.UdpServerDataReceivedArgs(System.Net.IPAddress, System.Int32, System.Int32, System.Byte[])
+  fullName.vb: GWin.Net.UdpServerDataReceivedArgs.UdpServerDataReceivedArgs(System.Net.IPAddress, System.Int32, System.Int32, System.Byte())
+  nameWithType: UdpServerDataReceivedArgs.UdpServerDataReceivedArgs(IPAddress, Int32, Int32, Byte[])
+  nameWithType.vb: UdpServerDataReceivedArgs.UdpServerDataReceivedArgs(IPAddress, Int32, Int32, Byte())
+- uid: GWin.Net.UdpServerDataReceivedArgs.#ctor(System.Net.IPEndPoint,System.Byte[])
+  name: UdpServerDataReceivedArgs(IPEndPoint, Byte[])
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html#GWin_Net_UdpServerDataReceivedArgs__ctor_System_Net_IPEndPoint_System_Byte___
+  commentId: M:GWin.Net.UdpServerDataReceivedArgs.#ctor(System.Net.IPEndPoint,System.Byte[])
+  name.vb: UdpServerDataReceivedArgs(IPEndPoint, Byte())
+  fullName: GWin.Net.UdpServerDataReceivedArgs.UdpServerDataReceivedArgs(System.Net.IPEndPoint, System.Byte[])
+  fullName.vb: GWin.Net.UdpServerDataReceivedArgs.UdpServerDataReceivedArgs(System.Net.IPEndPoint, System.Byte())
+  nameWithType: UdpServerDataReceivedArgs.UdpServerDataReceivedArgs(IPEndPoint, Byte[])
+  nameWithType.vb: UdpServerDataReceivedArgs.UdpServerDataReceivedArgs(IPEndPoint, Byte())
+- uid: GWin.Net.UdpServerDataReceivedArgs.#ctor*
+  name: UdpServerDataReceivedArgs
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html#GWin_Net_UdpServerDataReceivedArgs__ctor_
+  commentId: Overload:GWin.Net.UdpServerDataReceivedArgs.#ctor
+  isSpec: "True"
+  fullName: GWin.Net.UdpServerDataReceivedArgs.UdpServerDataReceivedArgs
+  nameWithType: UdpServerDataReceivedArgs.UdpServerDataReceivedArgs
+- uid: GWin.Net.UdpServerDataReceivedArgs.BytesToRead
+  name: BytesToRead
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html#GWin_Net_UdpServerDataReceivedArgs_BytesToRead
+  commentId: P:GWin.Net.UdpServerDataReceivedArgs.BytesToRead
+  fullName: GWin.Net.UdpServerDataReceivedArgs.BytesToRead
+  nameWithType: UdpServerDataReceivedArgs.BytesToRead
+- uid: GWin.Net.UdpServerDataReceivedArgs.BytesToRead*
+  name: BytesToRead
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html#GWin_Net_UdpServerDataReceivedArgs_BytesToRead_
+  commentId: Overload:GWin.Net.UdpServerDataReceivedArgs.BytesToRead
+  isSpec: "True"
+  fullName: GWin.Net.UdpServerDataReceivedArgs.BytesToRead
+  nameWithType: UdpServerDataReceivedArgs.BytesToRead
+- uid: GWin.Net.UdpServerDataReceivedArgs.ReceivedBuffer
+  name: ReceivedBuffer
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html#GWin_Net_UdpServerDataReceivedArgs_ReceivedBuffer
+  commentId: P:GWin.Net.UdpServerDataReceivedArgs.ReceivedBuffer
+  fullName: GWin.Net.UdpServerDataReceivedArgs.ReceivedBuffer
+  nameWithType: UdpServerDataReceivedArgs.ReceivedBuffer
+- uid: GWin.Net.UdpServerDataReceivedArgs.ReceivedBuffer*
+  name: ReceivedBuffer
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html#GWin_Net_UdpServerDataReceivedArgs_ReceivedBuffer_
+  commentId: Overload:GWin.Net.UdpServerDataReceivedArgs.ReceivedBuffer
+  isSpec: "True"
+  fullName: GWin.Net.UdpServerDataReceivedArgs.ReceivedBuffer
+  nameWithType: UdpServerDataReceivedArgs.ReceivedBuffer
+- uid: GWin.Net.UdpServerDataReceivedArgs.RemoteHost
+  name: RemoteHost
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html#GWin_Net_UdpServerDataReceivedArgs_RemoteHost
+  commentId: P:GWin.Net.UdpServerDataReceivedArgs.RemoteHost
+  fullName: GWin.Net.UdpServerDataReceivedArgs.RemoteHost
+  nameWithType: UdpServerDataReceivedArgs.RemoteHost
+- uid: GWin.Net.UdpServerDataReceivedArgs.RemoteHost*
+  name: RemoteHost
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html#GWin_Net_UdpServerDataReceivedArgs_RemoteHost_
+  commentId: Overload:GWin.Net.UdpServerDataReceivedArgs.RemoteHost
+  isSpec: "True"
+  fullName: GWin.Net.UdpServerDataReceivedArgs.RemoteHost
+  nameWithType: UdpServerDataReceivedArgs.RemoteHost
+- uid: GWin.Net.UdpServerDataReceivedArgs.RemotePort
+  name: RemotePort
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html#GWin_Net_UdpServerDataReceivedArgs_RemotePort
+  commentId: P:GWin.Net.UdpServerDataReceivedArgs.RemotePort
+  fullName: GWin.Net.UdpServerDataReceivedArgs.RemotePort
+  nameWithType: UdpServerDataReceivedArgs.RemotePort
+- uid: GWin.Net.UdpServerDataReceivedArgs.RemotePort*
+  name: RemotePort
+  href: api/GWin.Net.UdpServerDataReceivedArgs.html#GWin_Net_UdpServerDataReceivedArgs_RemotePort_
+  commentId: Overload:GWin.Net.UdpServerDataReceivedArgs.RemotePort
+  isSpec: "True"
+  fullName: GWin.Net.UdpServerDataReceivedArgs.RemotePort
+  nameWithType: UdpServerDataReceivedArgs.RemotePort
+- uid: GWin.Security
+  name: GWin.Security
+  href: api/GWin.Security.html
+  commentId: N:GWin.Security
+  fullName: GWin.Security
+  nameWithType: GWin.Security
+- uid: GWin.Security.Aes
+  name: Aes
+  href: api/GWin.Security.Aes.html
+  commentId: T:GWin.Security.Aes
+  fullName: GWin.Security.Aes
+  nameWithType: Aes
+- uid: GWin.Security.Aes.AESDecrypt(System.String)
+  name: AESDecrypt(String)
+  href: api/GWin.Security.Aes.html#GWin_Security_Aes_AESDecrypt_System_String_
+  commentId: M:GWin.Security.Aes.AESDecrypt(System.String)
+  fullName: GWin.Security.Aes.AESDecrypt(System.String)
+  nameWithType: Aes.AESDecrypt(String)
+- uid: GWin.Security.Aes.AESDecrypt*
+  name: AESDecrypt
+  href: api/GWin.Security.Aes.html#GWin_Security_Aes_AESDecrypt_
+  commentId: Overload:GWin.Security.Aes.AESDecrypt
+  isSpec: "True"
+  fullName: GWin.Security.Aes.AESDecrypt
+  nameWithType: Aes.AESDecrypt
+- uid: GWin.Security.Aes.AESEncrypt(System.String)
+  name: AESEncrypt(String)
+  href: api/GWin.Security.Aes.html#GWin_Security_Aes_AESEncrypt_System_String_
+  commentId: M:GWin.Security.Aes.AESEncrypt(System.String)
+  fullName: GWin.Security.Aes.AESEncrypt(System.String)
+  nameWithType: Aes.AESEncrypt(String)
+- uid: GWin.Security.Aes.AESEncrypt*
+  name: AESEncrypt
+  href: api/GWin.Security.Aes.html#GWin_Security_Aes_AESEncrypt_
+  commentId: Overload:GWin.Security.Aes.AESEncrypt
+  isSpec: "True"
+  fullName: GWin.Security.Aes.AESEncrypt
+  nameWithType: Aes.AESEncrypt
+- uid: GWin.Security.CRC16
+  name: CRC16
+  href: api/GWin.Security.CRC16.html
+  commentId: T:GWin.Security.CRC16
+  fullName: GWin.Security.CRC16
+  nameWithType: CRC16
+- uid: GWin.Security.CRC16.CheckCRC16(System.Byte[])
+  name: CheckCRC16(Byte[])
+  href: api/GWin.Security.CRC16.html#GWin_Security_CRC16_CheckCRC16_System_Byte___
+  commentId: M:GWin.Security.CRC16.CheckCRC16(System.Byte[])
+  name.vb: CheckCRC16(Byte())
+  fullName: GWin.Security.CRC16.CheckCRC16(System.Byte[])
+  fullName.vb: GWin.Security.CRC16.CheckCRC16(System.Byte())
+  nameWithType: CRC16.CheckCRC16(Byte[])
+  nameWithType.vb: CRC16.CheckCRC16(Byte())
+- uid: GWin.Security.CRC16.CheckCRC16*
+  name: CheckCRC16
+  href: api/GWin.Security.CRC16.html#GWin_Security_CRC16_CheckCRC16_
+  commentId: Overload:GWin.Security.CRC16.CheckCRC16
+  isSpec: "True"
+  fullName: GWin.Security.CRC16.CheckCRC16
+  nameWithType: CRC16.CheckCRC16
+- uid: GWin.Security.CRC16.GenerateCRC16(System.Byte[])
+  name: GenerateCRC16(Byte[])
+  href: api/GWin.Security.CRC16.html#GWin_Security_CRC16_GenerateCRC16_System_Byte___
+  commentId: M:GWin.Security.CRC16.GenerateCRC16(System.Byte[])
+  name.vb: GenerateCRC16(Byte())
+  fullName: GWin.Security.CRC16.GenerateCRC16(System.Byte[])
+  fullName.vb: GWin.Security.CRC16.GenerateCRC16(System.Byte())
+  nameWithType: CRC16.GenerateCRC16(Byte[])
+  nameWithType.vb: CRC16.GenerateCRC16(Byte())
+- uid: GWin.Security.CRC16.GenerateCRC16*
+  name: GenerateCRC16
+  href: api/GWin.Security.CRC16.html#GWin_Security_CRC16_GenerateCRC16_
+  commentId: Overload:GWin.Security.CRC16.GenerateCRC16
+  isSpec: "True"
+  fullName: GWin.Security.CRC16.GenerateCRC16
+  nameWithType: CRC16.GenerateCRC16
+- uid: GWin.Security.MD5
+  name: MD5
+  href: api/GWin.Security.MD5.html
+  commentId: T:GWin.Security.MD5
+  fullName: GWin.Security.MD5
+  nameWithType: MD5
+- uid: GWin.Security.MD5.GetMD5(System.String)
+  name: GetMD5(String)
+  href: api/GWin.Security.MD5.html#GWin_Security_MD5_GetMD5_System_String_
+  commentId: M:GWin.Security.MD5.GetMD5(System.String)
+  fullName: GWin.Security.MD5.GetMD5(System.String)
+  nameWithType: MD5.GetMD5(String)
+- uid: GWin.Security.MD5.GetMD5*
+  name: GetMD5
+  href: api/GWin.Security.MD5.html#GWin_Security_MD5_GetMD5_
+  commentId: Overload:GWin.Security.MD5.GetMD5
+  isSpec: "True"
+  fullName: GWin.Security.MD5.GetMD5
+  nameWithType: MD5.GetMD5
+- uid: GWin.Security.Xtea
+  name: Xtea
+  href: api/GWin.Security.Xtea.html
+  commentId: T:GWin.Security.Xtea
+  fullName: GWin.Security.Xtea
+  nameWithType: Xtea
+- uid: GWin.Security.Xtea.CipherMode
+  name: Xtea.CipherMode
+  href: api/GWin.Security.Xtea.CipherMode.html
+  commentId: T:GWin.Security.Xtea.CipherMode
+  fullName: GWin.Security.Xtea.CipherMode
+  nameWithType: Xtea.CipherMode
+- uid: GWin.Security.Xtea.CipherMode.CBC
+  name: CBC
+  href: api/GWin.Security.Xtea.CipherMode.html#GWin_Security_Xtea_CipherMode_CBC
+  commentId: F:GWin.Security.Xtea.CipherMode.CBC
+  fullName: GWin.Security.Xtea.CipherMode.CBC
+  nameWithType: Xtea.CipherMode.CBC
+- uid: GWin.Security.Xtea.CipherMode.ECB
+  name: ECB
+  href: api/GWin.Security.Xtea.CipherMode.html#GWin_Security_Xtea_CipherMode_ECB
+  commentId: F:GWin.Security.Xtea.CipherMode.ECB
+  fullName: GWin.Security.Xtea.CipherMode.ECB
+  nameWithType: Xtea.CipherMode.ECB
+- uid: GWin.Security.Xtea.Decrypt(System.Byte[],System.Byte[],GWin.Security.Xtea.CipherMode,GWin.Security.Xtea.Padding)
+  name: Decrypt(Byte[], Byte[], Xtea.CipherMode, Xtea.Padding)
+  href: api/GWin.Security.Xtea.html#GWin_Security_Xtea_Decrypt_System_Byte___System_Byte___GWin_Security_Xtea_CipherMode_GWin_Security_Xtea_Padding_
+  commentId: M:GWin.Security.Xtea.Decrypt(System.Byte[],System.Byte[],GWin.Security.Xtea.CipherMode,GWin.Security.Xtea.Padding)
+  name.vb: Decrypt(Byte(), Byte(), Xtea.CipherMode, Xtea.Padding)
+  fullName: GWin.Security.Xtea.Decrypt(System.Byte[], System.Byte[], GWin.Security.Xtea.CipherMode, GWin.Security.Xtea.Padding)
+  fullName.vb: GWin.Security.Xtea.Decrypt(System.Byte(), System.Byte(), GWin.Security.Xtea.CipherMode, GWin.Security.Xtea.Padding)
+  nameWithType: Xtea.Decrypt(Byte[], Byte[], Xtea.CipherMode, Xtea.Padding)
+  nameWithType.vb: Xtea.Decrypt(Byte(), Byte(), Xtea.CipherMode, Xtea.Padding)
+- uid: GWin.Security.Xtea.Decrypt(System.Byte[],System.UInt32[])
+  name: Decrypt(Byte[], UInt32[])
+  href: api/GWin.Security.Xtea.html#GWin_Security_Xtea_Decrypt_System_Byte___System_UInt32___
+  commentId: M:GWin.Security.Xtea.Decrypt(System.Byte[],System.UInt32[])
+  name.vb: Decrypt(Byte(), UInt32())
+  fullName: GWin.Security.Xtea.Decrypt(System.Byte[], System.UInt32[])
+  fullName.vb: GWin.Security.Xtea.Decrypt(System.Byte(), System.UInt32())
+  nameWithType: Xtea.Decrypt(Byte[], UInt32[])
+  nameWithType.vb: Xtea.Decrypt(Byte(), UInt32())
+- uid: GWin.Security.Xtea.Decrypt*
+  name: Decrypt
+  href: api/GWin.Security.Xtea.html#GWin_Security_Xtea_Decrypt_
+  commentId: Overload:GWin.Security.Xtea.Decrypt
+  isSpec: "True"
+  fullName: GWin.Security.Xtea.Decrypt
+  nameWithType: Xtea.Decrypt
+- uid: GWin.Security.Xtea.Encrypt(System.Byte[],System.Byte[],GWin.Security.Xtea.CipherMode,GWin.Security.Xtea.Padding)
+  name: Encrypt(Byte[], Byte[], Xtea.CipherMode, Xtea.Padding)
+  href: api/GWin.Security.Xtea.html#GWin_Security_Xtea_Encrypt_System_Byte___System_Byte___GWin_Security_Xtea_CipherMode_GWin_Security_Xtea_Padding_
+  commentId: M:GWin.Security.Xtea.Encrypt(System.Byte[],System.Byte[],GWin.Security.Xtea.CipherMode,GWin.Security.Xtea.Padding)
+  name.vb: Encrypt(Byte(), Byte(), Xtea.CipherMode, Xtea.Padding)
+  fullName: GWin.Security.Xtea.Encrypt(System.Byte[], System.Byte[], GWin.Security.Xtea.CipherMode, GWin.Security.Xtea.Padding)
+  fullName.vb: GWin.Security.Xtea.Encrypt(System.Byte(), System.Byte(), GWin.Security.Xtea.CipherMode, GWin.Security.Xtea.Padding)
+  nameWithType: Xtea.Encrypt(Byte[], Byte[], Xtea.CipherMode, Xtea.Padding)
+  nameWithType.vb: Xtea.Encrypt(Byte(), Byte(), Xtea.CipherMode, Xtea.Padding)
+- uid: GWin.Security.Xtea.Encrypt(System.Byte[],System.UInt32[])
+  name: Encrypt(Byte[], UInt32[])
+  href: api/GWin.Security.Xtea.html#GWin_Security_Xtea_Encrypt_System_Byte___System_UInt32___
+  commentId: M:GWin.Security.Xtea.Encrypt(System.Byte[],System.UInt32[])
+  name.vb: Encrypt(Byte(), UInt32())
+  fullName: GWin.Security.Xtea.Encrypt(System.Byte[], System.UInt32[])
+  fullName.vb: GWin.Security.Xtea.Encrypt(System.Byte(), System.UInt32())
+  nameWithType: Xtea.Encrypt(Byte[], UInt32[])
+  nameWithType.vb: Xtea.Encrypt(Byte(), UInt32())
+- uid: GWin.Security.Xtea.Encrypt*
+  name: Encrypt
+  href: api/GWin.Security.Xtea.html#GWin_Security_Xtea_Encrypt_
+  commentId: Overload:GWin.Security.Xtea.Encrypt
+  isSpec: "True"
+  fullName: GWin.Security.Xtea.Encrypt
+  nameWithType: Xtea.Encrypt
+- uid: GWin.Security.Xtea.Padding
+  name: Xtea.Padding
+  href: api/GWin.Security.Xtea.Padding.html
+  commentId: T:GWin.Security.Xtea.Padding
+  fullName: GWin.Security.Xtea.Padding
+  nameWithType: Xtea.Padding
+- uid: GWin.Security.Xtea.Padding.Pkcs5Padding
+  name: Pkcs5Padding
+  href: api/GWin.Security.Xtea.Padding.html#GWin_Security_Xtea_Padding_Pkcs5Padding
+  commentId: F:GWin.Security.Xtea.Padding.Pkcs5Padding
+  fullName: GWin.Security.Xtea.Padding.Pkcs5Padding
+  nameWithType: Xtea.Padding.Pkcs5Padding
+- uid: GWin.Security.Xtea.Padding.ZeroPadding
+  name: ZeroPadding
+  href: api/GWin.Security.Xtea.Padding.html#GWin_Security_Xtea_Padding_ZeroPadding
+  commentId: F:GWin.Security.Xtea.Padding.ZeroPadding
+  fullName: GWin.Security.Xtea.Padding.ZeroPadding
+  nameWithType: Xtea.Padding.ZeroPadding
+- uid: GWin.StringCoding
+  name: StringCoding
+  href: api/GWin.StringCoding.html
+  commentId: T:GWin.StringCoding
+  fullName: GWin.StringCoding
+  nameWithType: StringCoding
+- uid: GWin.StringCoding.Hex
+  name: Hex
+  href: api/GWin.StringCoding.html#GWin_StringCoding_Hex
+  commentId: F:GWin.StringCoding.Hex
+  fullName: GWin.StringCoding.Hex
+  nameWithType: StringCoding.Hex
+- uid: GWin.StringCoding.Integer
+  name: Integer
+  href: api/GWin.StringCoding.html#GWin_StringCoding_Integer
+  commentId: F:GWin.StringCoding.Integer
+  fullName: GWin.StringCoding.Integer
+  nameWithType: StringCoding.Integer
+- uid: GWin.ValueCoding
+  name: ValueCoding
+  href: api/GWin.ValueCoding.html
+  commentId: T:GWin.ValueCoding
+  fullName: GWin.ValueCoding
+  nameWithType: ValueCoding
+- uid: GWin.ValueCoding.BCD
+  name: BCD
+  href: api/GWin.ValueCoding.html#GWin_ValueCoding_BCD
+  commentId: F:GWin.ValueCoding.BCD
+  fullName: GWin.ValueCoding.BCD
+  nameWithType: ValueCoding.BCD
+- uid: GWin.ValueCoding.Decimal
+  name: Decimal
+  href: api/GWin.ValueCoding.html#GWin_ValueCoding_Decimal
+  commentId: F:GWin.ValueCoding.Decimal
+  fullName: GWin.ValueCoding.Decimal
+  nameWithType: ValueCoding.Decimal
+- uid: GWin.ValueGeneric`1
+  name: ValueGeneric<T>
+  href: api/GWin.ValueGeneric-1.html
+  commentId: T:GWin.ValueGeneric`1
+  name.vb: ValueGeneric(Of T)
+  fullName: GWin.ValueGeneric<T>
+  fullName.vb: GWin.ValueGeneric(Of T)
+  nameWithType: ValueGeneric<T>
+  nameWithType.vb: ValueGeneric(Of T)
+- uid: GWin.ValueGeneric`1.#ctor
+  name: ValueGeneric()
+  href: api/GWin.ValueGeneric-1.html#GWin_ValueGeneric_1__ctor
+  commentId: M:GWin.ValueGeneric`1.#ctor
+  fullName: GWin.ValueGeneric<T>.ValueGeneric()
+  fullName.vb: GWin.ValueGeneric(Of T).ValueGeneric()
+  nameWithType: ValueGeneric<T>.ValueGeneric()
+  nameWithType.vb: ValueGeneric(Of T).ValueGeneric()
+- uid: GWin.ValueGeneric`1.#ctor(`0,`0)
+  name: ValueGeneric(T, T)
+  href: api/GWin.ValueGeneric-1.html#GWin_ValueGeneric_1__ctor__0__0_
+  commentId: M:GWin.ValueGeneric`1.#ctor(`0,`0)
+  fullName: GWin.ValueGeneric<T>.ValueGeneric(T, T)
+  fullName.vb: GWin.ValueGeneric(Of T).ValueGeneric(T, T)
+  nameWithType: ValueGeneric<T>.ValueGeneric(T, T)
+  nameWithType.vb: ValueGeneric(Of T).ValueGeneric(T, T)
+- uid: GWin.ValueGeneric`1.#ctor*
+  name: ValueGeneric
+  href: api/GWin.ValueGeneric-1.html#GWin_ValueGeneric_1__ctor_
+  commentId: Overload:GWin.ValueGeneric`1.#ctor
+  isSpec: "True"
+  fullName: GWin.ValueGeneric<T>.ValueGeneric
+  fullName.vb: GWin.ValueGeneric(Of T).ValueGeneric
+  nameWithType: ValueGeneric<T>.ValueGeneric
+  nameWithType.vb: ValueGeneric(Of T).ValueGeneric
+- uid: GWin.ValueGeneric`1.RealValue
+  name: RealValue
+  href: api/GWin.ValueGeneric-1.html#GWin_ValueGeneric_1_RealValue
+  commentId: P:GWin.ValueGeneric`1.RealValue
+  fullName: GWin.ValueGeneric<T>.RealValue
+  fullName.vb: GWin.ValueGeneric(Of T).RealValue
+  nameWithType: ValueGeneric<T>.RealValue
+  nameWithType.vb: ValueGeneric(Of T).RealValue
+- uid: GWin.ValueGeneric`1.RealValue*
+  name: RealValue
+  href: api/GWin.ValueGeneric-1.html#GWin_ValueGeneric_1_RealValue_
+  commentId: Overload:GWin.ValueGeneric`1.RealValue
+  isSpec: "True"
+  fullName: GWin.ValueGeneric<T>.RealValue
+  fullName.vb: GWin.ValueGeneric(Of T).RealValue
+  nameWithType: ValueGeneric<T>.RealValue
+  nameWithType.vb: ValueGeneric(Of T).RealValue
+- uid: GWin.ValueGeneric`1.SetValue
+  name: SetValue
+  href: api/GWin.ValueGeneric-1.html#GWin_ValueGeneric_1_SetValue
+  commentId: P:GWin.ValueGeneric`1.SetValue
+  fullName: GWin.ValueGeneric<T>.SetValue
+  fullName.vb: GWin.ValueGeneric(Of T).SetValue
+  nameWithType: ValueGeneric<T>.SetValue
+  nameWithType.vb: ValueGeneric(Of T).SetValue
+- uid: GWin.ValueGeneric`1.SetValue*
+  name: SetValue
+  href: api/GWin.ValueGeneric-1.html#GWin_ValueGeneric_1_SetValue_
+  commentId: Overload:GWin.ValueGeneric`1.SetValue
+  isSpec: "True"
+  fullName: GWin.ValueGeneric<T>.SetValue
+  fullName.vb: GWin.ValueGeneric(Of T).SetValue
+  nameWithType: ValueGeneric<T>.SetValue
+  nameWithType.vb: ValueGeneric(Of T).SetValue
+- uid: GWin.ValueLength
+  name: ValueLength
+  href: api/GWin.ValueLength.html
+  commentId: T:GWin.ValueLength
+  fullName: GWin.ValueLength
+  nameWithType: ValueLength
+- uid: GWin.ValueLength.Byte
+  name: Byte
+  href: api/GWin.ValueLength.html#GWin_ValueLength_Byte
+  commentId: F:GWin.ValueLength.Byte
+  fullName: GWin.ValueLength.Byte
+  nameWithType: ValueLength.Byte
+- uid: GWin.ValueLength.Int16
+  name: Int16
+  href: api/GWin.ValueLength.html#GWin_ValueLength_Int16
+  commentId: F:GWin.ValueLength.Int16
+  fullName: GWin.ValueLength.Int16
+  nameWithType: ValueLength.Int16
+- uid: GWin.ValueLength.Int32
+  name: Int32
+  href: api/GWin.ValueLength.html#GWin_ValueLength_Int32
+  commentId: F:GWin.ValueLength.Int32
+  fullName: GWin.ValueLength.Int32
+  nameWithType: ValueLength.Int32
+- uid: GWin.ValueLength.Int64
+  name: Int64
+  href: api/GWin.ValueLength.html#GWin_ValueLength_Int64
+  commentId: F:GWin.ValueLength.Int64
+  fullName: GWin.ValueLength.Int64
+  nameWithType: ValueLength.Int64

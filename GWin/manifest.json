@@ -1,0 +1,690 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/home/Workspace/Design/CodeRepo/Github/GWin/GWin/GWin",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "s2XsDz0151FvrE0SUpy1kg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "Hj54d3XX2sVFd7tYeSOfpw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "t7iiFrmuYmrKWisdq+lN6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "aWJX33YDed9Em/8b1s31ig=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.About.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.About.html",
+          "hash": "MAImYxrU22Uq+gbEmKOJnA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.CommonBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.CommonBase.html",
+          "hash": "LXhPHA5E/HayCHh49kn7Yg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.ExceptionArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.ExceptionArgs.html",
+          "hash": "Rdwc4q9YII8jSRrqHskXbw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Forms.DataGridViewProgressCell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Forms.DataGridViewProgressCell.html",
+          "hash": "osu+X3/XKMRHF81hnZ0YSg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Forms.DataGridViewProgressColumn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Forms.DataGridViewProgressColumn.html",
+          "hash": "lkfHTssMw7xsSZaB3e+rwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Forms.ListItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Forms.ListItem.html",
+          "hash": "gEuGADb1Fpu70nRbzNfUbA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Forms.PropertyComparer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Forms.PropertyComparer-1.html",
+          "hash": "Io1GLUZywAPVfC5XRp2uAg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Forms.SortableBindingList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Forms.SortableBindingList-1.html",
+          "hash": "cFFMUhFS/V8b23drrcBofA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Forms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Forms.html",
+          "hash": "i/D+eJOHf0uGXNII1A1gHg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.GConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.GConverter.html",
+          "hash": "6Rgn9eZ7Eu779lLpU3vorg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.IO.IniFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.IO.IniFile.html",
+          "hash": "IZi+UnMn4I0IDsdWZP07aw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.IO.SerialPort.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.IO.SerialPort.html",
+          "hash": "0uvpoOBuUQFesNq4g7UOSA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.IO.SerialPortDataReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.IO.SerialPortDataReceivedEventArgs.html",
+          "hash": "bzmo7lS7Y33dt5Ysc6F93g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.IO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.IO.html",
+          "hash": "UBM+fDA8amCaIuW/6SnKnQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Math.Lagrange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Math.Lagrange.html",
+          "hash": "j0CCLV5d4FZseZNbJuyXVQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Math.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Math.html",
+          "hash": "D0NJ0DzP/p0tEWCkS4xCLw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Message.GBus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Message.GBus.html",
+          "hash": "eCvFjAjKwAs4b31kV6fpwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Message.GSimple.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Message.GSimple.html",
+          "hash": "M733myGatAjM3q6PsvSKoQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Message.IMessageType-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Message.IMessageType-2.html",
+          "hash": "FAgnl6Rmg+TpNsGjWYbmbQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Message.MessageContent-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Message.MessageContent-2.html",
+          "hash": "jpt19Fykw91ZVw+awqlymg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Message.MessageContentType-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Message.MessageContentType-1.html",
+          "hash": "w7k1uj+yuisEOYOHXwSrbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Message.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Message.html",
+          "hash": "TO14byNB9njK935d8T95yw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.MessageArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.MessageArgs.html",
+          "hash": "QS3f4mCh9zsjdQ6kNJhNRw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.Common.html",
+          "hash": "W2H5OWEzi9HH/Cimfwociw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.TcpClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.TcpClient.html",
+          "hash": "BqU26Zo1lprG4LWQdrIZkQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.TcpClientDataReceivedArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.TcpClientDataReceivedArgs.html",
+          "hash": "KyttjYQNoXSIm+2hpHpoaw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.TcpServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.TcpServer.html",
+          "hash": "9xX9RzSaQH5roxB1NdR1ZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.TcpServerClientConnectdArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.TcpServerClientConnectdArgs.html",
+          "hash": "jrKbC0iznKGh0jo217Zz/Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.TcpServerClientDisconnectdArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.TcpServerClientDisconnectdArgs.html",
+          "hash": "dnEQa3HXXSeX2drPAao5gQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.TcpServerDataReceivedArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.TcpServerDataReceivedArgs.html",
+          "hash": "nJAATlCVJeG0k3IwJdCdtg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.UdpClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.UdpClient.html",
+          "hash": "piuUHCyNMPeAaY3z1rhF9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.UdpClientDataReceivedArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.UdpClientDataReceivedArgs.html",
+          "hash": "C9Yh8Ef7VHTvqzgx90BbPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.UdpServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.UdpServer.html",
+          "hash": "wxTOzI4Hzm8IY0cju+fpgA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.UdpServerDataReceivedArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.UdpServerDataReceivedArgs.html",
+          "hash": "BbfN9feAihuGxnF5E39KHQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Net.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Net.html",
+          "hash": "PZIG0z0M8evfWPPdkluI7A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Security.Aes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Security.Aes.html",
+          "hash": "+HxIwApnOG4kYSjA0+pwhA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Security.CRC16.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Security.CRC16.html",
+          "hash": "/AUhgm/rbTqxtt3IginvJg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Security.MD5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Security.MD5.html",
+          "hash": "3joJ5RAPKh6srdRrzbTnIg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Security.Xtea.CipherMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Security.Xtea.CipherMode.html",
+          "hash": "B7pgjZ5Lb6b71o7u0LGQOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Security.Xtea.Padding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Security.Xtea.Padding.html",
+          "hash": "ptYLPPc5COd3s6IFGCW47w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Security.Xtea.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Security.Xtea.html",
+          "hash": "iF45IXEwy05QW14qQdGRHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.Security.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.Security.html",
+          "hash": "DvfID+atyCGS4BP3kFoxrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.StringCoding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.StringCoding.html",
+          "hash": "F3B5gTXMRfhEaY948U3xLA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.ValueCoding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.ValueCoding.html",
+          "hash": "qmptDCnC6RaItEn4HmFVTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.ValueGeneric-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.ValueGeneric-1.html",
+          "hash": "p5ifShsba/567uq+dyqidA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.ValueLength.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.ValueLength.html",
+          "hash": "JK/CpSBJaNg4XXMQxlXrLQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/GWin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GWin.html",
+          "hash": "28mq3CQKS5i95H6UD11iDw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "U0tCwsDmx19FcNWUlYoehA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "Sg+nKmnHP++YKMT39ruhpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 47,
+          "skipped_file_count": 44
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

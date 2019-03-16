@@ -1,0 +1,609 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class GBus
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class GBus
+   ">
+    <meta name="generator" content="docfx 2.40.11.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="GWin.Message.GBus">
+  
+  
+  <h1 id="GWin_Message_GBus" data-uid="GWin.Message.GBus" class="text-break">Class GBus
+  </h1>
+  <div class="markdown level0 summary"><p>GBus协议</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><a class="xref" href="GWin.CommonBase.html">CommonBase</a></div>
+    <div class="level2"><span class="xref">GBus</span></div>
+  </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><span class="xref">System.IDisposable</span></div>
+    <div><a class="xref" href="GWin.Message.IMessageType-2.html">IMessageType</a>&lt;<span class="xref">System.UInt32</span>, <span class="xref">System.UInt32</span>&gt;</div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="GWin.CommonBase.html#GWin_CommonBase_OnException">CommonBase.OnException</a>
+    </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="GWin.Message.html">GWin.Message</a></h6>
+  <h6><strong>Assembly</strong>: GWin.dll</h6>
+  <h5 id="GWin_Message_GBus_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class GBus : CommonBase, IDisposable, IMessageType&lt;uint, uint&gt;</code></pre>
+  </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="GWin_Message_GBus__ctor_" data-uid="GWin.Message.GBus.#ctor*"></a>
+  <h4 id="GWin_Message_GBus__ctor" data-uid="GWin.Message.GBus.#ctor">GBus()</h4>
+  <div class="markdown level1 summary"><p>构造函数</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GBus()</code></pre>
+  </div>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="GWin_Message_GBus_ReadContentList_" data-uid="GWin.Message.GBus.ReadContentList*"></a>
+  <h4 id="GWin_Message_GBus_ReadContentList" data-uid="GWin.Message.GBus.ReadContentList">ReadContentList</h4>
+  <div class="markdown level1 summary"><p>需要读取内容的命令列表</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public List&lt;MessageContentType&lt;uint&gt;&gt; ReadContentList { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="GWin.Message.MessageContentType-1.html">MessageContentType</a>&lt;<span class="xref">System.UInt32</span>&gt;&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GWin_Message_GBus_ReceiveEnd_" data-uid="GWin.Message.GBus.ReceiveEnd*"></a>
+  <h4 id="GWin_Message_GBus_ReceiveEnd" data-uid="GWin.Message.GBus.ReceiveEnd">ReceiveEnd</h4>
+  <div class="markdown level1 summary"><p>接收结束符</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public byte[] ReceiveEnd { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Byte</span>[]</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GWin_Message_GBus_ReceiveStart_" data-uid="GWin.Message.GBus.ReceiveStart*"></a>
+  <h4 id="GWin_Message_GBus_ReceiveStart" data-uid="GWin.Message.GBus.ReceiveStart">ReceiveStart</h4>
+  <div class="markdown level1 summary"><p>接收起始符</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public byte[] ReceiveStart { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Byte</span>[]</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GWin_Message_GBus_SendEnd_" data-uid="GWin.Message.GBus.SendEnd*"></a>
+  <h4 id="GWin_Message_GBus_SendEnd" data-uid="GWin.Message.GBus.SendEnd">SendEnd</h4>
+  <div class="markdown level1 summary"><p>发送结束符</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public byte[] SendEnd { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Byte</span>[]</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GWin_Message_GBus_SendStart_" data-uid="GWin.Message.GBus.SendStart*"></a>
+  <h4 id="GWin_Message_GBus_SendStart" data-uid="GWin.Message.GBus.SendStart">SendStart</h4>
+  <div class="markdown level1 summary"><p>发送起始符</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public byte[] SendStart { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Byte</span>[]</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="GWin_Message_GBus_Dispose_" data-uid="GWin.Message.GBus.Dispose*"></a>
+  <h4 id="GWin_Message_GBus_Dispose" data-uid="GWin.Message.GBus.Dispose">Dispose()</h4>
+  <div class="markdown level1 summary"><p>关闭协议解析</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override void Dispose()</code></pre>
+  </div>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="GWin.CommonBase.html#GWin_CommonBase_Dispose">CommonBase.Dispose()</a></div>
+  
+  
+  <a id="GWin_Message_GBus_Inquery_" data-uid="GWin.Message.GBus.Inquery*"></a>
+  <h4 id="GWin_Message_GBus_Inquery_System_UInt32_" data-uid="GWin.Message.GBus.Inquery(System.UInt32)">Inquery(UInt32)</h4>
+  <div class="markdown level1 summary"><p>生成查询指令</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public byte[] Inquery(uint Address)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.UInt32</span></td>
+        <td><span class="parametername">Address</span></td>
+        <td><p>需要查询的地址</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Byte</span>[]</td>
+        <td><p>查询命令</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GWin_Message_GBus_Process_" data-uid="GWin.Message.GBus.Process*"></a>
+  <h4 id="GWin_Message_GBus_Process_System_Byte___" data-uid="GWin.Message.GBus.Process(System.Byte[])">Process(Byte[])</h4>
+  <div class="markdown level1 summary"><p>处理接收的数据流</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Process(byte[] Stream)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Byte</span>[]</td>
+        <td><span class="parametername">Stream</span></td>
+        <td><p>数据流</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GWin_Message_GBus_RaiseDataCached_" data-uid="GWin.Message.GBus.RaiseDataCached*"></a>
+  <h4 id="GWin_Message_GBus_RaiseDataCached_GWin_Message_MessageContent_System_UInt32_System_UInt32__" data-uid="GWin.Message.GBus.RaiseDataCached(GWin.Message.MessageContent{System.UInt32,System.UInt32})">RaiseDataCached(MessageContent&lt;UInt32, UInt32&gt;)</h4>
+  <div class="markdown level1 summary"><p>触发数据响应事件</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void RaiseDataCached(MessageContent&lt;uint, uint&gt; EventArgs)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GWin.Message.MessageContent-2.html">MessageContent</a>&lt;<span class="xref">System.UInt32</span>, <span class="xref">System.UInt32</span>&gt;</td>
+        <td><span class="parametername">EventArgs</span></td>
+        <td><p>消息数据</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GWin_Message_GBus_SetReadCommand_" data-uid="GWin.Message.GBus.SetReadCommand*"></a>
+  <h4 id="GWin_Message_GBus_SetReadCommand_System_Collections_Generic_List_GWin_Message_MessageContentType_System_UInt32___" data-uid="GWin.Message.GBus.SetReadCommand(System.Collections.Generic.List{GWin.Message.MessageContentType{System.UInt32}})">SetReadCommand(List&lt;MessageContentType&lt;UInt32&gt;&gt;)</h4>
+  <div class="markdown level1 summary"><p>设定可识别的地址</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void SetReadCommand(List&lt;MessageContentType&lt;uint&gt;&gt; ReadContentList)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="GWin.Message.MessageContentType-1.html">MessageContentType</a>&lt;<span class="xref">System.UInt32</span>&gt;&gt;</td>
+        <td><span class="parametername">ReadContentList</span></td>
+        <td><p>地址内容列表</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GWin_Message_GBus_SetReadCommand_" data-uid="GWin.Message.GBus.SetReadCommand*"></a>
+  <h4 id="GWin_Message_GBus_SetReadCommand_System_Collections_Generic_List_System_UInt32__" data-uid="GWin.Message.GBus.SetReadCommand(System.Collections.Generic.List{System.UInt32})">SetReadCommand(List&lt;UInt32&gt;)</h4>
+  <div class="markdown level1 summary"><p>设定可识别的地址，长度默认为37（不计开始和结束字符）</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void SetReadCommand(List&lt;uint&gt; ReadAddressList)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.List</span>&lt;<span class="xref">System.UInt32</span>&gt;</td>
+        <td><span class="parametername">ReadAddressList</span></td>
+        <td><p>地址列表</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GWin_Message_GBus_Write_" data-uid="GWin.Message.GBus.Write*"></a>
+  <h4 id="GWin_Message_GBus_Write_GWin_Message_MessageContent_System_UInt32_System_UInt32__" data-uid="GWin.Message.GBus.Write(GWin.Message.MessageContent{System.UInt32,System.UInt32})">Write(MessageContent&lt;UInt32, UInt32&gt;)</h4>
+  <div class="markdown level1 summary"><p>生成写指令</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public byte[] Write(MessageContent&lt;uint, uint&gt; MessageContent)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="GWin.Message.MessageContent-2.html">MessageContent</a>&lt;<span class="xref">System.UInt32</span>, <span class="xref">System.UInt32</span>&gt;</td>
+        <td><span class="parametername">MessageContent</span></td>
+        <td><p>需要写入的数据类</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Byte</span>[]</td>
+        <td><p>数据流</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="GWin_Message_GBus_Write_" data-uid="GWin.Message.GBus.Write*"></a>
+  <h4 id="GWin_Message_GBus_Write_System_UInt32_System_Byte___" data-uid="GWin.Message.GBus.Write(System.UInt32,System.Byte[])">Write(UInt32, Byte[])</h4>
+  <div class="markdown level1 summary"><p>生成写指令</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public byte[] Write(uint Address, byte[] Buffer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.UInt32</span></td>
+        <td><span class="parametername">Address</span></td>
+        <td><p>需要写入的地址</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Byte</span>[]</td>
+        <td><span class="parametername">Buffer</span></td>
+        <td><p>需要写入的数据流</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Byte</span>[]</td>
+        <td><p>数据流</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="events">Events
+  </h3>
+  
+  
+  <h4 id="GWin_Message_GBus_DataCached" data-uid="GWin.Message.GBus.DataCached">DataCached</h4>
+  <div class="markdown level1 summary"><p>数据响应事件</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public event EventHandler&lt;MessageContent&lt;uint, uint&gt;&gt; DataCached</code></pre>
+  </div>
+  <h5 class="eventType">Event Type</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.EventHandler</span>&lt;<a class="xref" href="GWin.Message.MessageContent-2.html">MessageContent</a>&lt;<span class="xref">System.UInt32</span>, <span class="xref">System.UInt32</span>&gt;&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <span class="xref">System.IDisposable</span>
+  </div>
+  <div>
+      <a class="xref" href="GWin.Message.IMessageType-2.html">IMessageType&lt;AddressT, DataT&gt;</a>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
